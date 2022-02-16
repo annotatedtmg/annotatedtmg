@@ -37,3 +37,16 @@ software.
 
 If you see something anywhere on this site that could be done more cleanly or
 semantically, I'd love to hear about it so I can fix it.
+
+# Downloading # {#download}
+
+I occasionally get requests about how to obtain a local copy of this website.
+The simplest way is probably using [wget][]:
+
+    $ wget -pkrP tamg -nH https://annotatedtmg.org 
+
+This will convert all the links to point to the local files so everything will
+still work, and saves the site to a local directory called `tamg`. wget is
+available on all platforms and is free, open source software.
+
+[wget]:         https://www.gnu.org/software/wget/
