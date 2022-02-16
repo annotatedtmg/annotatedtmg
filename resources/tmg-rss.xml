@@ -1,0 +1,39 @@
+---
+info:   RSS feed for the Annotated Mountain Goats
+regenerate: true
+excerpt: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xml:base="http://annotatedtmg.org" version="2.0">
+<channel>
+    <title>The Annotated Mountain Goats</title>
+    <link>http://annotatedtmg.org/index.html</link>
+    <description>A comprehensive, referenced source for information about the lyrics of the Mountain Goats, alongside a complete directory of available live shows.</description>
+    <lastBuildDate>{{ 'now' | date: '%a, %d %b %Y %T %z' }}</lastBuildDate>
+    <generator>Jekyll 3.4.1</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<image>
+    <url>http://annotatedtmg.org/media/tmg.jpg</url>
+    <title>The Annotated Mountain Goats</title>
+    <link>http://annotatedtmg.org/index.html</link>
+</image>
+<atom:link href="http://annotatedtmg.org/tmg-rss.xml" rel="self" type="application/rss+xml" />
+{% for post in site.categories.tmg limit: 10 -%} 
+{%- capture id -%}{{ post.id | split: '/' | last }}{%- endcapture -%}
+{%- if post.link -%}
+    {%- capture href -%}{{ post.link }}{%- endcapture -%}
+{%- else -%}
+{%- capture href -%}http://annotatedtmg.org/changelog.html#{{ id }}{%- endcapture -%}
+{%- endif -%}
+{%- assign text = post.content -%}
+<item>
+    <title>{{ post.title | markdownify | strip_html | strip }}</title>
+    <link>{{ href }}</link>
+    <description><![CDATA[{{ text | strip }}</p>]]></description>
+    <pubDate>{{ post.date | date: '%a, %d %b %Y %T %z' }}</pubDate>
+    <guid isPermalink="false">{{ id }}</guid>
+</item>
+{%- endfor -%}
+</channel>
+</rss>

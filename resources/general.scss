@@ -1,0 +1,608 @@
+---
+info:   Sitewide CSS file
+---
+
+/*
+    Description: Default CSS 3 stylesheet for The Annotated Mountain Goats
+    Location: ~/general.css (http://annotatedtmg.org/general.css)
+*/
+
+// margin order reminder:
+//     margin: top right bottom left;
+
+// fonts
+$fonts_sans:    "DejaVu Sans", "Bitstream Vera Sans", sans-serif;
+$fonts_serif:   "DejaVu Serif", "Bitstream Vera Serif", serif;
+$font_size_base: 14px;
+// colors
+$black:         #000000;
+$dorado:        #666362;
+$grey:          #808080;
+$lgt_grey:      #ECECEC;
+$blue:          #0000FF;
+$lgt_blue:      #1E90FF;
+$cyan:          #00FFFF;
+// settings
+$margin_h:      20px 0px 0px 0px;
+
+
+/* Main body */
+body {
+    background: #FFFFFF;
+    color: $black;
+    font-family: $fonts_sans;
+    font-size: $font_size_base;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-top: 4px;
+}
+
+#main {
+    width: 48em;
+    margin: 50px auto 20vh auto;
+}
+
+h1 {
+    font-family: $fonts_serif;
+    font-size: 143%;
+    margin: $margin_h;
+}
+
+h2 {
+    font-family: $fonts_serif;
+    font-size: 114%;
+    margin: $margin_h;
+}
+
+h3 {
+    font-size: 100%;
+}
+
+h3.center {
+    text-align: center;
+}
+
+p.hanging {
+    text-indent: -3em;
+    margin-left: 3em;
+}
+
+p.in { /* Use sparingly! For true quotes, use blockquotes ("> ") */
+    margin-left: 3em;
+}
+
+p.centerindex {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+table {
+    border: 1px solid $black
+}
+
+table.alt,
+%table-alt {
+    & > tbody > tr:nth-child(odd) {
+        background-color: $lgt_grey;
+    }
+
+    & > tbody:nth-child(odd) > tr:only-child {
+    background-color: initial;
+    }
+}
+
+.backref {
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: -15px;
+}
+
+.epigraph,
+%epigraph {
+    font-style: italic;
+    text-align: right;
+    color: $grey;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+a:link {
+    color: $blue;
+} 
+
+a:visited {
+    color: $lgt_blue;
+}
+
+a.jump:link, a.jump:visited {
+    color: $dorado;
+}
+
+a img {
+    border: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.notfound {
+    margin-top: 3em;
+    width: 75%;
+}
+
+img.rss {
+    float: right;
+    height: 1.5em;
+    margin: 0px 0px 0px 0px;
+}
+
+ul.none {
+    list-style: none;
+}
+
+ul.noindent {
+    margin-left: -2.75em;
+}
+
+ul.hanging {
+    list-style-position: inside;
+    text-indent: -3em;
+    margin-left: 3em;
+}
+
+pre {
+    border: 1px black dashed;
+    padding: 2px;
+}
+
+embed {
+    margin-top: 1em;
+}
+
+
+/* Post-related */
+a.permalink {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1.post-header {
+    border-bottom: 1px black solid;
+    &:hover::after {
+        content: "permalink";
+        font-size: $font_size_base;
+        float: right;
+        color: $grey;
+    }
+}
+
+.posts-toc,
+%posts-toc {
+    margin-bottom: 4em;
+}
+
+.posts-toc ol,
+%posts-toc-ol {
+    list-style-type: none;
+    padding-left: 6.5em;
+    text-indent: -6.5em;
+}
+
+.posts-toc ol > li::before,
+%posts-toc-li {
+    content: attr(list-text) ": ";
+    display: inline-block;
+    width: 4em;
+    margin: 0 0.5em 0 -1em;
+    padding-left: 2.8em;
+    text-align: right;
+}
+
+.post-date, {
+    font-style: italic;
+    text-align: left;
+    color: $grey;
+    margin-bottom: 2em;
+    & > a {
+        color: grey;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.backtotoc,
+%backtotoc {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 4em;
+    & > a {
+        color: $grey;
+    }
+}
+
+
+/* Navigation bar */
+nav {
+    border-bottom: thin solid $black;
+    font-size: 93%;
+    padding: 0px 0px 3px 0px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+nav ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+
+    li {
+        display: inline;
+        padding: 0px;
+        margin: 0px 4px 0px 0px;
+
+        a {
+            padding: 0px;
+            margin: 0px;
+            text-decoration: none;
+        }
+    }
+}
+
+nav a {
+    &:link, &:visited {
+        color: $black;
+    }
+
+    &:hover {
+        color: $blue;
+        text-shadow: 0px 0px 8px $lgt_blue;
+    }
+}
+
+nav #home {
+    float: left;
+    width: 15%;
+}
+
+nav #nav-content {
+    float: left;
+    width: 70%;
+    text-align: center;
+}
+
+nav #nav-about {
+    float: right;
+    width: 15%;
+    text-align: right;
+}
+
+
+/* Configurations for the Annotated tMG */
+#tmg .footnotes {
+    margin-bottom: 70vh;
+}
+
+#tmg .buffered, .buffered > h2 {
+        margin: 20px 0px 20px 0px;
+}
+
+#tmg dl.quotelist {
+    dd {
+        text-align: right;
+        color: $grey;
+    }
+
+    dt {
+        margin-top: 1em;
+        color: $grey;
+    }
+}
+
+#tmg h2 {
+    font-family: "DejaVu Serif", "Bitstream Vera Serif", serif;
+    margin: 50px 0px 0px 0px;
+
+    &.top {
+        margin: 60px 0px 0px 0px;
+    }
+}
+
+#tmg h3 {
+    &.tracklist {
+        margin: 30px 0px 0px 0px;
+    }
+
+    font-family: "DejaVu Serif", "Bitstream Vera Serif", serif;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+
+#tmg table {
+    @extend %table-alt;
+}
+
+#tmg td {
+    padding-right: 1em;
+}
+
+#tmg .longtables td {
+    white-space: nowrap;
+}
+
+#tmg .toolong td:first-child {
+    white-space: normal;
+    width: 19em;
+}
+
+#tmg table {
+    &.biblelist {
+        td {
+            &:first-child {
+            width: 15em;
+            }
+
+            &:last-child {
+                width: 10em;
+            }
+        }
+    }
+
+    &.azteclist {
+        td {
+            &:last-child {
+            width: 6em;
+            }
+
+            &:first-child {
+                width: 15em;
+            }
+        }
+    }
+
+    &.demolist {
+        width: 105%;
+
+        td:first-child {
+            width: 21em;
+        }
+    }
+
+    &.outtakeslist {
+        width: 110%;
+
+        td {
+            &:nth-child(2) {
+                width: 20em;
+            }
+
+            &:last-child {
+                width: 9em;
+            }
+        }
+    }
+
+    &.showlist {
+        td {
+            &:first-child {
+                width: 8em;
+            }
+
+            &:nth-child(2) {
+                width: 30em;
+            }
+        }
+    }
+}
+
+/* Album covers, etc. */
+
+#tmg p {
+    &.release-art {
+        float: right;
+        margin: 1em 0em 1em 1em;
+        display: inline-flex;
+        align-items: flex-end;
+
+        > img {
+            height: 200px;
+
+            &:not(:last-child) {
+                margin-right: 0.5em;
+            }
+
+            /* Image adjustments */
+
+            &.wide {
+                height: auto;
+                width: 200px;
+            }
+
+            &.wider {
+                height: auto;
+                width: 300px;
+            }
+
+            &.small {
+                height: auto;
+                width: 50px;
+            }
+
+            &.fullsize {
+                height: auto;
+            }
+        }
+
+        &.top {
+            align-items: flex-start;
+        }
+
+        &.vert {
+            flex-flow: column;
+
+            > img:not(:last-child) {
+                margin-right: 0em !important;
+                margin-bottom: 0.5em;
+            }
+        }
+    }
+}
+
+/* For tMG Japanese liner notes */
+
+#tmg ol.japanese-toc > li {
+    list-style-type: disc;
+}
+
+/* For the changelog */
+
+#tmg .changelog-toc ol {
+    @extend %posts-toc-ol;
+}
+
+#tmg .changelog-toc ol > li::before {
+    @extend %posts-toc-li;
+}
+
+#tmg .changelog-toc {
+    margin-bottom: 4em;
+}
+
+
+/* Hidden column display toggle, shown on mobile only */
+#tmg {
+div.switch {
+    text-align: center;
+    font-style: italic;
+    display: none;
+}
+
+input#checkbox {
+    display: none;
+}
+
+label#clickme:hover {
+    cursor: pointer;
+}
+
+input#checkbox:not(:checked) + label#clickme:after {
+    content: "Click here to show them";
+    color: $blue;       // same as a:link
+    text-decoration: underline;
+}
+
+input#checkbox:checked + label#clickme:after {
+    content: "Click here to hide them";
+    color: $lgt_blue;   // same as a:visited
+    text-decoration: underline;
+}
+}
+
+/* Improve legibility on mobile devices */
+@media screen and (max-device-width: 1000px) {
+    #main {
+        width: 100%;
+        margin: 2em auto auto auto;
+
+        a {
+            word-wrap: break-word;
+        }
+
+        h1, h2 {
+            margin-top: 1em;
+        }
+
+        iframe {
+            max-width: 70vw;
+        }
+    }
+
+    #tmg {
+        td {
+            white-space: normal !important;
+            padding: initial !important;
+            width: initial !important;
+        }
+
+        div.switch {
+            display: inline-block;
+        }
+
+        table {
+            &.showlist {
+                td:last-child, th:last-child {
+                    display: none;
+                }
+
+                td:first-child {
+                    width: 6em !important;
+                }
+            }
+
+            width: 100% !important;
+        }
+
+        p.release-art {
+            flex-flow: column;
+
+            > img {
+                /* Better to have mobile images be width based, generally */
+                width: 200px;
+                max-width: 48vw;
+                height: auto;
+
+                &:not(:last-child) {
+                    margin-right: 0em !important;
+                    margin-bottom: 0.5em;
+                }
+            }
+
+            &.horiz {
+                flex-flow: row;
+
+                > img:not(:last-child) {
+                    margin-bottom: 0em !important;
+                    margin-right: 0.5em !important;
+                }
+            }
+        }
+    }
+
+    pre {
+        white-space: pre-wrap;
+    }
+}
+
+/* Have printed pages be nicer */
+@media only print {
+    /* no extra pages at bottom due to whitespace */
+    #main, #tmg {
+        margin-bottom: 0 !important;
+    }
+
+    /* links all the same color regardless of visitation */
+    #main a {
+        color: $blue !important;
+    }
+
+    /* prevent header being repeated at top of page */
+    thead {
+        display: table-row-group;
+    }
+
+    /* attempt to prevent ugly in-row pagebreaks */
+    tr {
+        page-break-inside: avoid;
+    }
+}

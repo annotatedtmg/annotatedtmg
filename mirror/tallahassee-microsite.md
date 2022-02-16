@@ -1,0 +1,634 @@
+---
+title:  'Tallahassee microsite'
+meta:   Archive of the Tallahassee microsite.
+---
+
+# Tallahassee microsite # {#microsite}
+{: .no_toc}
+
+[Tallahassee] and [We Shall All Be Healed] both featured microsites on 4AD's
+Mountain Goats page. As described by 4AD, "Visit the amazing new web site for
+'Tallahassee', The Mountain Goats new album, due for release on 27th January
+2003. This fantastic site has been put together by the band themselves and
+features a room-by-room tour of the house in Tallahassee. Go to the
+[Tallahassee site](http://4ad.com/tallahassee/) now..." While the site is no
+longer available, much of it is contained at [the Internet
+Archive](http://web.archive.org/web/20110606061827/http://www.4ad.com/tallahassee/).
+This serves as the most complete archive of the text that I'm aware of,
+although it's unfortunately very incomplete.
+
+If you have a fuller copy, [please let me know](../../about.html#contact) --- I
+would love to archive it in full.
+
+[The Mountain
+Goats](http://web.archive.org/web/20040803081905/http://4ad.com/artists/themountaingoats/index.html).
+*4AD*. 2004, retrieved March 24, 2014.
+
+[Tallahassee]:              ../tallahassee.html 
+[We Shall All Be Healed]:   ../wsabh.html
+
+### Table of contents ### {#toc}
+{: style="text-align: center;" .no_toc}
+
+* Table of contents
+{: toc}
+
+
+## Attic ## {#attic}
+
+Items found in the attic are still being deloused/categorized/dusted for
+prints. As said items include a reel of Super-8 film which is presently
+undergoing reconditioning for digital transfer, the reader is encouraged to
+check this room again sometime within the next week.
+
+## Bathroom ## {#bathroom}
+
+### Ativan (in the medication cabinet) ### {#ativan}
+
+__Medication information: Ativan (lorazepam)__
+
+Your doctor has prescribed for you Ativan. Ativan is classified as an
+antianxiety agent and the potential for abuse is identified as __high__.  Uses
+for Ativan include but are not limited to: relief of anxiety, relief of
+insomnia, reduction of symptoms common to and associated with severe alcohol
+withdrawal.
+
+It is very important to follow your doctor's instructions with regard to this
+medication! Improper use of Ativan can result in liver & kidney damage,
+insomnia, extreme agitation, and impaired judgement. Instructions for use:
+
+1. Take with food.
+
+2. Unless otherwise instructed, finish all medication.
+
+3. Be kind to your family, since they are the ones who really understand you.
+
+4. Report all unusual symptoms to your physician *__immediately__*, especially
+in case of: clumsiness, dizziness, sleepiness, unsteadiness, or weakness,
+convulsions, hallucinations, memory loss, trouble breathing or
+staggering/trembling.
+
+### Librium (in the medication cabinet) ### {#librium}
+
+__Medication Information: chlordiazepoxide (generic for Librium)__
+
+Your doctor has prescribed for you chlordiazepoxide. Chlordiazepoxide is
+classified as an antianxiety agent and as such should be taken only when the
+pressure is really beginning to get to you. Contraindications for
+chlordiazepoxide include but are not limited to: daily alcohol intake equal to
+or above two drinks per day, a history of severe alcohol abuse, or stated
+intent to take up heavy drinking on a daily basis.
+
+It is very important to follow your doctor's instructions with regard to this
+medication! Improper use of chlordiazepoxide can result in a whole host of
+unfortunate events too regrettable to detail here. Instructions for use:
+
+1. Take with food.
+
+2. Unless otherwise ordered, take all medication as ordered.
+
+3. __Do not take chlordiazepoxide if your work requires that you drive long
+distances or operate heavy machinery.__
+
+4. If at first you don't succeed, __try, try again__.
+
+## Bedroom ## {#bedroom}
+
+### Annihilate pamphlet (on the duffel bag) ### {#annihilate}
+
+__Annihilate Yourself!__
+
+THE BIRDS are whistling in the trees, melodies from before the hills
+themselves were formed. The magnolia blushes & blooms: all systems go! and we
+are buried beneath three thousand different recurring dreams, several new ones
+for each day of the year. Al Green is singing that song again.  His joy
+exceeds all limitations. God is with him.
+
+Annihilate yourself!
+
+The hurricanes will never come this year. The trawlers will come in from the
+ocean all fat with fish, and in the high glass restaurants dotting the shore
+the tourists will overfeed themselves, then drift off to sleep at their
+tables. Someday they will all be shot where they stand. Our Lord Jesus Christ
+has split for Massachusetts which was what his ticket read in the first place.
+There has been a mixup at the station. He will not be coming back here. You
+can bet on it.
+
+Annihilate yourself!
+
+The guy down at the Liquor Emporium is named George. His love is as bottomless
+as the ocean. His heart beats in sync with the constant westward bending of
+the palms: leaning. Rising. Listing. Recovering.  Recovering. Recovering.
+Recovering.
+
+Annihilate yourself!
+
+Child of God, your number is up! We will never make it back to Arizona now.
+There isn't anybody out in Arizona anyway. Everybody's heading east for the
+holidays again.  Your timing is off. This is news to no-one, that your timing
+is bad.  What's news to you is that it's getting worse. You'll show up when
+you're least expected where you're most unwanted. Nothing personal! Nothing
+personal. The breeze is keening in the high trees but this is nothing
+personal. The time draws close and it's all coming to a head but this is
+nothing personal. You will regret receiving this pamphlet, but you will not
+forget what you did with it. Ever. Believe me.
+
+__Annihilate yourself!__
+
+### Sheets ### {#sheets}
+
+(animated images, including text: HONOR OBEY DESTROY LOVE)
+
+## Cellar ## {#cellar}
+
+(animated images, including text listed below:)
+
+In all this, there is no one to lend me support except Michael your
+Prince, on whom I rely to give me support and reinforce me. And now I
+shall tell you the truth about these things.
+
+--- Daniel 10:21 -- 11:2
+
+hello Jonah \\
+hello whale
+
+The two kings, seated at one table, hearts bent on evil, will tell their
+lies; but they will not have their way, for the appointed time is still to
+come. Then the wretch will return greatly enriched to his own country, his
+heart set against the holy covenant; he will take action and then return
+to his own country. In due time, he will make his way southwards again,
+but this time the outcome will not be as before. The ships of the Kittim
+will oppose him, and he will be worsted. He will retire and take furious
+action against the holy covenant and, as before, will favor those who
+forsake the holy covenant.
+
+--- Daniel 11:27--20
+
+I am your future and I am going to eat you alive \\
+all right then
+
+This is what the Lord God showed to me: \\
+there was a swarm of locusts \\
+when the second crop was sprouting, \\
+full-grown locusts, after the king's hay had been cut. \\
+When they had eaten all the grass in the land, \\
+I said, "Lord God, forgive, I beg You. \\
+How can Jacob survive, being so small?"
+
+--- Amos 7:1--2
+
+can I bring my friend \\
+no
+
+Disaster for those who long for the Day of the Lord! \\
+What will the Day of the Lord mean for you? \\
+It will mean darkness, not light, \\
+as when someone runs away from a lion, \\
+only to meet a bear; \\
+he goes into the house and puts his hand on the wall, \\
+only for a snake to bite him. \\
+Will not the Day of the Lord be darkness, not light, \\
+totally dark, without a ray of light?
+
+--- Amos 5:18--20
+
+get ready now \\
+OK goodbye
+
+The waters round me rose to my neck, \\
+the deep was closing round me, \\
+seaweed twining round my head. \\
+To the roots of the mountains, \\
+I sank into the underworld, \\
+and its bars closed round me forever.
+
+--- Jonah 2:6--7
+
+We spent our season in the cellar \\
+when the heat had overcome us; \\
+me hiding in your arms, \\
+you resting in mine. \\
+However you like.
+
+## Garden ## {#garden}
+
+the Seven Deadly Grains and the Four Cardinal Vines
+
+### Grain 1 ### {#grain1}
+
+THE SEVEN DEADLY GRAINS
+
+I. *Pelops trichiniolis*
+
+Grown by the Anasazi since time immemorial, *Pelops trichiniolis*'s great
+potential as a weapon has heretofore been severely compromised by tradition,
+which holds that its stunted oblong grains should only be used for inflicting
+self-harm. While the grains are said to be delicious and slightly toothsome
+when boiled in salted water, those few who have survived the eating thereof
+report that no taste, however savory, could be worth the lasting effects that
+*Pelops trichiniolis* takes on on \[sic\] the gastrointestinal tract.
+
+N<sup>o</sup> two &rarr;
+
+### Grain 2 ### {#grain2}
+
+THE SEVEN DEADLY GRAINS
+
+II. Mary's Return
+
+An heirloom tomato first recorded in western Massachusetts by the Finns in
+precolonial times, Mary's Return remains unclassified by botanists, few of
+whom are willing ot court the risk that proper study of the plant would
+entail. If the seeds are separated completely from the fruit's firm flesh, it
+makes an excellent sauce tomato. Should any seeds be overlooked in the
+cleaning, however, it is worth noting that no remedy exists for the poison
+contained in the seeds' endosperm, and the toxin targets the central nervous
+system with remarkable and unerring precision.
+
+N<sup>o</sup> three &rarr;
+
+### Grain 3 ### {#grain3}
+
+THE SEVEN DEADLY GRAINS
+
+III. Alabama ur-japonica
+
+Instrumental in the development of the nutty-flavored gourmet rice sold as
+Japonica or "black rice," this somewhat uglier strain is delicious to human
+beings but kills any wildlife who come into contact with it. While rural
+farmers still prefer it, rice growers closer to populated areas report that
+the adverse publicity associated with crop fields thick with the corpses of
+crows, rabbits, pigeons, possums, deer, mice, *et cetera*, offsets any
+benefits that the plant's self-contained pan-pesticide might offer.
+
+N<sup>o</sup> four &rarr;
+
+### Grain 4 ### {#grain4}
+
+THE SEVEN DEADLY GRAINS
+
+IV. *Juniperis chinensis*
+
+Not technically deadly nor a grain, but important enough in both of our lives
+to qualify for includion here. When you have been down to Hell you will
+understand.
+
+N<sup>o</sup> five &rarr;
+
+### Grain 5 ### {#grain5}
+
+THE SEVEN DEADLY GRAINS
+
+V. Western Bright-thorn
+
+Prospectors in the Black Hill of South Dakota sent specimens of this plant to
+California with their wives, expecting to join them there after striking it
+rich. Its flowers make excellent dyes when in bloom, but once gone to seed go
+white like dandelions and disperse easily in the wind.  This is problematic
+because the seeds at the end of each soft white downy wisp are sharp enough to
+lacerate one's cornea, which they seem to seek out almost willfully.
+Cultivation of Western Bright-thorn in most states is restricted by law to
+indoor conditions.
+
+N<sup>o</sup> six &rarr;
+
+### Grain 6 ### {#grain6}
+
+(unavailable)
+
+### Grain 7 ### {#grain7}
+
+(unavailable)
+
+### Vines ### {#vines}
+
+*Enrich your landscape and empower the needy with*
+
+*the Four Cardinal Vines*
+
+1. *Tolerance*. Go ahead, prune it if you think it'll make you feel better.
+Apply some herbicine, or plant invasive hairy vetch to try and choke this baby
+out. Cut back the creepers or run over them with a lawn mower. Claw at the
+roots with your bare hands if you must. *Once in, always in!* said an 1837
+circular found still wheat-pasted to the wall of a long-abandoned seed supply
+company out near Jacksonville. Will eat your house eventually if your faith is
+strong enough. *Give glory to God in the highest, and peace to His people on
+earth.*
+
+2. *Forbearance*. The whole point of this magnificent vine is not the slick
+Chinese jad-green foliage that dazzles the eye as it is the utter
+pointlessness of even planting it in the first place. The first spring, enjoy
+its all-covering opulence! Thereafter, no amount of fertilization,
+accommodation, improved lighting conditions, or consultation with experts will
+stop Forbearance from reducing itself by half. And so again the next year, and
+again the next. *Good friend to dig the dust enclosed here* and whatnot.
+Half-remembered rhymes & ill-forgotten vines for these best new grasping
+times. *Selah*.
+
+3. *Noncompliance*. Deep down in your hear you know you're right. All your
+friends say you're wrong, or they used to until they got tired of telling you
+so. WHat do they know? And what about us? Let's not get greedy here: there is
+plenty of blame to spread around. Come friends, come foes, and sup at the
+bounteous horn of noncompliance. Its flowers burst from its roots: when we
+accidentally uncover them with a careless bootheel crushing out a cigarette
+butt, we are stunned. It's such a pretty flower! Why has nature preordained
+that it grow underground, away from the light? *Ours not to reason why*. You
+don't even want to hear the end of that one, brother.
+
+4. *Incandescence*. Unremarkable when green, except that it hangs all thick
+and heavy around the things it climbs. Highly combustible when it dries out
+around the end of October. Matches are free at most bars and you can pocket
+several books of them before anybody even notices you've come through the
+door. *My house shall be called a house of prayer for all people*. Our own
+personal virtue is that we know we'll look real smart if people just see us in
+the right light. Ha. Ha. Ha. Ha. Ha.
+
+## Kitchen ## {#kitchen}
+
+### Alcoholism quiz ### {#alcoholism-quiz}
+
+Are You An Alcoholic?
+
+This simple quiz may help you answer the question, "Am I an alcoholic?"
+Give yourself one point for each "yes" answer.
+
+1. Do you lose time from work due to your drinking?
+2. Is drinking making your home life unhappy?
+3. Do you drink because you are shy with other people?
+4. Is drinking affecting your reputation?
+5. Have you ever felt remorse after drinking?
+6. Do you confuse memories of things that have actually happened to you with
+things that you've seen happen to other people on T.V.?
+7. Have you gotten into financial difficulties as a result of your drinking?
+8. Do you turn to lower companions and an inferior environment when drinking?
+9. Have you ever decided to stop drinking for a week or so, but only lasted
+for a couple of days?
+10. Are there periods of time for which you cannot account, no matter how hard
+you try?
+11. Do you wish people would mind their own business about your drinking ---
+stop telling you what to do?
+12. Has your ambition decreased since drinking?
+13. Have you had to have an eye-opener upon awakening during the past year?
+14. Do you envy people who can drink without getting into trouble?
+15. Do you ever try to get "extra" drinks at a party because you do not get
+enough?
+16. Do you sometimes "skip" breakfast or lunch so that you'll have more money
+to spend on drinks?
+17. In arguments, do people quickly concede your point rather than risk having
+to deal with you when you've gotten overexcited?
+18. Has the distinction between drinking alone and drinking with others become
+so badly blurred that you can no longer tell the difference?
+19. Do you tell youself you can stop drinking any time you want to, even
+though you keep getting drunk when you don't mean to?
+20. Are there no longer times when you really don't mean to get drunk?
+21. Do you love me?
+22. Do you drink to build up your self-confidence?
+23. No, really: do you love me?
+
+__Scoring__
+
+__0--3__: Risk __low__. Even people with no risk of alcoholism sometimes
+encounter alcohol-related difficulties.
+
+__4--10__: Risk __moderate__. Alcohol has probably gotten you into more
+trouble than you'd like. The possibility that this trend will continue is
+*high* unless action is taken soon.
+
+__11--20__: Risk __high__. even you are no longer persuaded by the
+explanations you give for your drinking. Seek help from someplace other than
+the place where you usually go when you need help.
+
+__21--23__: Risk __null__. You have ascended the high mountain and are now
+beyond the kenning of normal men. Any advice we might offer you would be
+wholly redundant.
+
+### Alcoholism progression ### {#alcoholism-prog}
+
+(diagram detailing the process and symptoms of alcohol abuse from start
+through recovery)
+
+### Police suicide evaluation form ### {#police}
+
+    TALLAHASSEE POLICE DEPARTMENT
+    SUICIDE EVALUATION FORM
+
+    Defendant: <scrawled>
+    Case #: 2104710
+    Date/Time: 11/05/02
+    Charge: Disturbing the peace
+
+    OBSERVATIONS OF DEFENDANT
+
+    [x] Sad         [x] Wringing Hands              [x] Alcohol Use
+    [ ] Tired       [x] Poor Eye Contact            [x] Drug use
+    [x] Irritable   [x] Unresponsive to Questions
+    [x] Pacing      [ ] Complaining of Illness
+    [x] Unemployed  [ ] Age 22 or younger
+    [ ] No Spouse   [ ] Protective Custody
+
+    QUESTIONS ASKED OF DEFENDANT
+    [x] Are you dependent on alcohol or drugs?
+    [ ] Have you attempted suicide in the past?
+    [ ] Are you contemplating suicide now?
+
+    EVALUATION
+    Evaluating officers Signature <signature>
+
+    Count the number of boxes checked and check the appropriate range below.
+    [ ] Low Risk (0--4)         [ ] Medium Risk (5--8)
+    [x] High Risk (9--14)       [ ] Very High Risk (15--17)
+
+    ADDITIONAL COMMENTS
+
+## Living Room ## {#living}
+
+### Now How Much Would You Pay (in television, linked as gameshow.html) ### {#howmuch}
+
+(short film with the tone of a game show)
+
+### Panthers (in teddy bear) ### {#panthers}
+
+*Respect to the organization! Submitted below for the edification and
+amusement of the Party, a brief history of the National Hockey League team the
+Florida Panthers as seen from a revolutionary perspective.*
+
+Power to the people. In 1992, toward the end of a century marked by an
+increasingly cunning ruling class and a generally passive if occasionally
+agitated proletariat, capitalist robber-baron H. Wayne Huizenga tightened his
+stranglehold around the collective neck of the working masses by increasing
+his holdings to include a National Hockey League expansion franchise. In a
+cruel stroke of imperialist arrogance, Huizenga named his team the "Florida
+Panthers." The team's namesake, both native and unique to the state after
+which it was named, had been living at the margins of viability for the better
+part of a century; hunted to near-extinction in post-Civil War times by
+innumerable incoming opportunist carpetbaggers (possible role-models for
+counting-house Huizenga and his ilk), it now took shelter in hidden places and
+supped on such scraps as it could find, biding its time. Its suitability as an
+emblem of the Struggle is clear.
+
+The Panthers' first season of play began on 6 October, 1993, in Chicago,
+Illinois, traditionally a stronghold of Big Labor, although decades of
+compromise with upper management and corruption at the higher levels of
+leadership had made the once-proud city a shell of its formerly progressive
+self. The overall weakness of the American labor movement was never more
+evident than in the performance of the Chicago Blackhawks that evening, who
+could muster no better than a 4 - 4 tie against a team that had never even
+taken the ice before in regulation play. The Panthers, meanwhile, led by
+working class hero Rob Niedermeyer and defended by young labor’s bright hope
+John Vanbiesbrouck, acquitted themselves quite nimbly for a team whose players
+earned a mere fraction of their nightly earning power, yet whose income for
+the first year alone would provide its owners with enough Cristal and
+beachfront properties to last well into the next millennium.
+
+"Respect was uppermost on my mind when I came to Miami," said Vanbiesbrouck,
+recalling his early days with the Florida Panthers. "The new group of us were
+united in wanting to prove to the rest of the league -- and one another --
+that we could play at a competitive level with the rest even though we were a
+new, expansion team." It's not hard to decode Vanbiesbrouck's remarks: terms
+like "respect" and "united" and the Beezer's characterization of his team as
+"new" and "expansion" are veiled references to the covertly revolutionary
+nature of his organization. 
+
+In their first season the Panthers would register thirty-three victories and
+thirty-four losses, with some seventeen tie games in overtime rounding out
+their eighty-four game season. It was an auspicious beginning, and the message
+traveled along the grapevine that the time was short for the enemies of the
+people in southern Florida. Disappointingly, the plans of the Florida Panthers
+to lead a general uprising against the market economy and its crippling
+carrot-stick techniques would never materialize, and their brave beginnings,
+shrouded in secrecy and unknown by all save the most hidden layers of labor
+resistance, would be lost to history.
+
+Yet there remains the hope that the Florida Panthers, once a sleeping cell of
+strength and struggle, will rise from their shackles of luxuriant contracts
+and idle wealth and make good on the possibility they once seemed to exude.
+And while to date the team's most revolutionary act has been to make its
+owners and shareholders embarassingly rich --- an act which admittedly seems
+more sympathetic to the concerns of the bourgeoisie than to the historical
+struggle of the people for self-determination --- in the hearts and minds of
+the masses, from the telemarketing offices of Miami to the tracklit dance
+floors of Orlando, the dream remains: of a hockey team that would liberate the
+working man from his capitalist prison, demonstrating through innovative use
+of the three-on-three forecheck that the means of production rests with those
+who wield the implements of labor.
+
+Long live the revolutionary struggle of the people! *Long live the Florida
+Panthers!*
+
+## Porch ## {#porch}
+
+### Letter (next to wine bottle, titled Ray's Fine Liquors) ### {#letter}
+
+Dear \<blacked out\>
+
+Hi you guys. Listen, even though it's only been six months or so since you
+came to town, I feel like we know each other pretty well, so I'm going to
+speak openly with you and I hope that's OK.
+
+It's hard to write this letter because it goes against most of what people
+teach you when you're first starting up a business: "the customer's always
+right," don't say anything that might cause people to take their business
+elsewhere, etc. But over the course of your nightly visits to my store
+over the past half-year or so I've come to think of you both as something
+more than customers, and so I think it's only right that I share my
+concerns with you both. Of course I am delighted at the spike in business
+I've enjoyed since you started buying from me. But there is only so much
+drinking you can do before it starts to take a toll on your health, and
+I'm worried that you might be closer to that tollbridge than you think. If
+you were to cross it: well! You see how there's a kind of goose/golden egg
+thing going on here for me.
+
+So I hope you won't think I'm being nosy when I say that even though it'll
+mean a little less money for me --- OK, frankly, a lot less money for me
+--- I'd be happier if you tried switching from brandy to beer or
+something. Taking a little break. Maybe just on Tuesdays, I don't know. I
+think in the end you'll both find yourselves happier, too, and that would
+please me even more than all the extra money I've made since you two came
+to town.
+
+Just something to think about. Again I hope you won't think I'm speaking
+out of turn. If you do --- well, forget I said anything, then, and I'll
+see you tomorrow! :)
+
+Best wishes
+
+\<signature: Ray\>
+
+Ray Battaglia \\
+Owner & Sole Proprieter, Ray's Fine Liquors
+
+### Today (on table) ### {#today}
+
+*Just for today ...*
+
+*Just for today* I will try to live through this day only, and not tackle my
+whole life problem at once. I can do something for twelve hours that would
+appall me if I felt that I had to keep it up for a lifetime.
+
+*Just for today* I will be happy. Most folks are as happy as they make up
+their minds to be.
+
+*Just for today* I will adjust myself to what is, and not try to adjust
+everything to my own desires. I will take my 'luck' as it comes, and fit
+myself to it.
+
+*Just for today* I will try to strengthen my mind. I will study. I will learn
+something useful. I will not be a mental loafer. I will read something that
+requires effort, thought and concentration.
+
+*Just for today* I will exercise my soul in three ways: I will do somebody a
+good turn, and not get found out; if anybody knows of it, it will not count. I
+will do at least two things I don't want to do --- just for the exercise. I
+will not show anyone that my feelings are hurt, they may be hurt, but today I
+will not show it.
+
+*Just for today* I will be agreeable. I will look as well as I can, dress
+becomingly, talk low, act courteously, criticise not one bit, not find fault
+with anything and not try to improve or regulate anybody except myself.
+
+*Just for today* I will have a program. I may not follow it exactly, but I
+will have it. I will save myself from two pests: hurry and indecision.
+
+*Just for today* I will have a quiet half hour all by myself and relax.
+During this half hour sometime, I will try and get a better perspective of my
+life.
+
+*Just for today* I will be unafraid. Especially I will not be afraid to enjoy
+what is beautiful, and to believe that as I give to the world, so the world
+will give to me.
+
+### Alcohol (glass) ### {#alcohol}
+
+(mixed historical images in series against alcohol abuse)
+
+## Front Yard ## {#yard}
+
+### Peacock ### {#peacock}
+
+*The Shocking Truth About Peacocks*
+
+Peacocks have a highly developed language, and are thought by many scientists
+to be the only animal besides man capable of expressing itself abstractly.
+
+In prehistoric cultures the peacock has been observed to hold totemic status.
+Archaeological evidence strongly suggests that several American communities
+prior to the continental drift considered the peacock an omen of death or
+disaster, and left ablutions at the entrances to their dwelling-places before
+retiring to sleep nightly.
+
+Between 1970 and 1978, peacocks were directly or indirectly responsible for no
+fewer than 37 deaths in the upper Ohio Valley --- more than any other animal,
+predator or prey, in the same region during the same timespan.
+
+Some peacock mating rituals can take as long as one full calendar year.
+
+Peacocks mate for life, but one mate will often attempt to kill the other just
+prior to migration.
+
+Contrary to popular belief, peacocks do not eat their young.
+
+However it is generally conceded that peacocks are scavengers, and will submit
+wholly on carrion for whole seasons at a time. Many once-prominent
+aviculturalists have left the profession entirely after tending to peacocks
+through several seasons. The turnover race within the profession is equalled
+only by that of severe trauma wards in urban hospitals.

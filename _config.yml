@@ -1,0 +1,54 @@
+# Site settings
+url:            https://annotatedtmg.org
+timezone:       America/Toronto
+destination:    ../site
+excerpt:        none
+# incremental:    true    # disable when changing files in _data and when updating
+#                         # pages with for loops, or add 'regenerate: true' to
+#                         # those files' front matter
+
+# Layout/CSS settings
+defaults:
+    # All pages
+  - scope:
+        path:       ''
+    values:
+        layout:     default
+        og_image:   media/tamg.png
+    # The Annotated tMG
+  - scope:
+        path:       tmg
+    values:
+        backref:    true
+        permalink:  /:basename
+    # Resources
+  - scope:
+        path:       'resources'
+    values:
+        layout:     none
+        sitemap:    false
+        permalink:  /:basename
+    # Hide posts
+  - scope:
+        path:       tmg/_posts
+    values:
+        permalink:  '.trash'
+        sitemap:    false
+
+# Build settings
+markdown:   kramdown
+kramdown:
+    smart_quotes:               apos,apos,quot,quot
+    typographic_symbols:        {hellip: ...}
+    footnote_backlink_inline:   true
+    show_warnings:              true
+liquid:
+    strict_filters:             true
+    stric_variables:            true
+sass:
+    style:      expanded
+    sourcemap:  never
+plugins:
+    - jekyll-email-protect
+    - jekyll-coffeescript
+    - jekyll-sitemap

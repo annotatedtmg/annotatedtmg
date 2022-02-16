@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8"/>
+<title>The Annotated Mountain Goats: {{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</title>
+<meta name="description" content="{{ page.meta }}"/>
+<meta property="og:image" content="https://annotatedtmg.org/media/tamg.png"/>
+<meta property="og:description" content="{{ page.meta }}"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="{{ "general.css" | relativize_url }}" title="Default stylesheet"/>
+<link rel="alternate" type="application/rss+xml" title="RSS feed for the
+    Annotated Mountain Goats" href="{{ "tmg-rss.xml" | relativize_url }}"/>
+<link rel="icon" href="{{ "media/favicon.ico" | absolute_url }}" />
+</head>
+
+<body>
+<nav>
+    <div id="home">
+        <ul>
+            <li><a href="{{ "index.html" | relativize_url }}">home</a></li>
+        </ul>
+    </div>
+    <div id="nav-content">
+        <ul>
+            <li><a href="{{ "songlist.html" | relativize_url }}">songs</a></li>
+            <li><a href="{{ "series.html" | relativize_url }}">series</a></li>
+            <li><a href="{{ "live.html" | relativize_url }}">live</a></li>
+        </ul>
+    </div>
+    <div id="nav-about">
+        <ul>
+            <li><a href="{{ "about.html" | relativize_url }}">about</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="main">
+<div id="tmg">
+{%- if page.backref %}
+
+<div class="backref">
+<em><a href="{{ "." | relativize_url }}">back to the annotated mountain goats index</a></em>
+</div>
+{%- endif %}
+
+{{ content }}
+
+</div>
+</div>
+
+</body>
+</html>
