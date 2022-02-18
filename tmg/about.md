@@ -49,4 +49,30 @@ This will convert all the links to point to the local files so everything will
 still work, and saves the site to a local directory called `tamg`. wget is
 available on all platforms and is free, open source software.
 
+If command line tools are unfamiliar, [contact me](#contact) and I'll try to
+help.
+
 [wget]:         https://www.gnu.org/software/wget/
+
+# Contributing #
+
+Thank you for considering helping out with the site! There's lots to do.
+Corrections, suggestions, feedback, and other input is always welcome.
+
+If you're curious about what would help and wanted to contribute directly, a
+number of albums need lyrics and annotations. You can see which ones these are
+by looking at the [discography on the front page](index.html). Links *in
+italics* are incomplete: those prefixed with a dash (-) contain lyrics but
+have yet to be annotated; those prefixed with a plus (+) instead need
+transcription as well.
+
+If you're comfortable with git and Markdown, please feel free to submit
+contributions via the [git repository][repo] by creating a pull request. If
+that's unfamiliar, please feel free to email me. If you've never heard of git,
+you can create a GitHub account and edit directly in the browser, with a few
+small complexities that we can work out together.
+
+[repo]: https://github.com/annotatedtmg/annotatedtmg
+
+If you're unfamiliar with this workflow, don't feel any need to learn.
+Emailing me works just as well.

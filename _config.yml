@@ -52,3 +52,5 @@ plugins:
     - jekyll-email-protect
     - jekyll-coffeescript
     - jekyll-sitemap
+exclude:
+    - README.md

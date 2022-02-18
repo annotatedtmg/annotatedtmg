@@ -25,7 +25,7 @@ Pick the release you're looking for. In the below tables, links indicate
 annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
 contain lyrics but have yet to be annotated; those prefixed with a plus (+)
 instead need transcription as well. If you'd like to help, please [read
-below](#notabene) and reach out!
+here](about.html#contributing) and [reach out](about.html#contact)!
 
 To subscribe to updates, use [the RSS feed](tmg-rss.xml).
 
