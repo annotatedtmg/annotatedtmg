@@ -293,7 +293,7 @@ period, these categories include songs through 2018.
 | __The Extra Glenns/Lens__     | __Year__ | __Label__      | __Format__ |
 |:------------------------------+:-----+:-------------------+:------|
 | - [*Undercard*](undercard.html)   | 2010 | Merge              | CD/LP |
-| + [*Martial Arts Weekend*](martial.html) | 2002 | Absolutely Kosher | CD |
+| - [*Martial Arts Weekend*](martial.html) | 2002 | Absolutely Kosher | CD |
 | + [*Infidelity + 2*](infidelity.html) | 1994 | Harriet        | 7"    |
 | + [*other appearances*](teg-compilation.html) | |             |       |
 |:------------------------------+:-----+:-------------------+:------|
@@ -391,12 +391,12 @@ much discussion and analysis helping me to find more information, the
 [Mountain Goats subreddit][reddit] for similar reasons, and commenters on many
 websites (particularly on [Songmeanings][]) for helping me track down obscure
 references. Of these people, four in particular stand out: Thomas Fidler, also
-known as [Drumhax][], [Riley Routh][], who
-spontaneously drafted entire pages about albums and spurred me to write more,
-[Wil Hall][wil], who transcribed entire albums' worth of lyrics, and Stephen
-Plummer, a frequent chatter on [#themountaingoats][irc], whose impeccable
-memory and knowledge of live material corrected many errors in the live show
-directory. Thank you all! You have made this website so much better.
+known as [Drumhax][], [Riley Routh][riley], who spontaneously drafted entire
+pages about albums and spurred me to write more, [Wil Hall][wil], who
+transcribed entire albums' worth of lyrics, and Stephen Plummer, a frequent
+chatter on [#themountaingoats][irc], whose impeccable memory and knowledge of
+live material corrected many errors in the live show directory. Thank you all!
+You have made this website so much better.
 
 I was inspired to make this website in part because of other annotations that
 helped me fall more deeply in love with music and literature that kept me

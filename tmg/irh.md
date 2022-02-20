@@ -261,12 +261,9 @@ Yeah, yeah
 
 ## Credits ## {#credits}
 
-This page was written almost entirely by the amazing Patrick Lickman, also
-known as
-[echo](http://www.mountain-goats.com/forums/search.php?0,author=3544,match_type=USER_ID)
-on the Mountain Goats forum. He can be contacted most easily on Twitter, where
-his username is [@PatrickEchoEcho](http://twitter.com/PatrickEchoEcho). Thanks
-as ever to Caliclimber, from whose comprehensive [Flickr
+This page was written almost entirely by the amazing Riley Routh, also known
+as [echo](https://rileyrouth.com) on the Mountain Goats forum. Thanks as ever
+to Caliclimber, from whose comprehensive [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/) the
 album art comes.
 

@@ -26,7 +26,7 @@ Label: Absolutely Kosher
 
 __*This page is a skeleton!*__
 
-Want to help? [Read here](index.html#notabene) and pitch in!
+Want to help? [Read here](about.html#contributing) and pitch in!
 
 ### Liner notes ### {#liner}
 
@@ -58,6 +58,8 @@ Want to help? [Read here](index.html#notabene) and pitch in!
 
 ## Baltimore ## {#baltimore}
 
+*"One, two. One, two, three, four."*
+
 When I walked past the chain link fence \\
 And the guard dog came forward to attack me \\
 I knew you were coming home \\
@@ -78,7 +80,7 @@ Will you hold on while I catch my breath
 
 Listen, in Baltimore \\
 You'll uncover what you're digging for \\
-In Baltimore, ah \\
+In Baltimore \\
 You will find what you've been waiting for
 
 ## All Rooms Cable A/C Free Coffee ## {#cableac}
@@ -116,22 +118,22 @@ Lost a quart of blood since Tuesday
 
 Light in the doorways \\
 Light up the streets of this town \\
-Ultra Violet, Ultra Violet
+Ultraviolet, ultraviolet
 
 And when they cut loose, you gotta stand back \\
 You gotta reinforce the places that they're likely to attack \\
 I spent the whole week down at St. Vincent de Paul's \\
 Wholly immersed in prayer
 
-And Ultra Violet, Ultra Violet
+And ultraviolet, ultraviolet
 
 Down where the river rushes into the sea \\
 I didn't let 'em get the best of me \\
 I didn't let 'em take the very best part \\
 The last lone bit of light left flickering in my heart
 
-Ultra Violet, Ultra Violet \\
-Ultra Violet, Ultra Violet
+Ultraviolet, ultraviolet \\
+Ultraviolet, ultraviolet
 
 ## Twelve Hands High ## {#twelve}
 
@@ -187,7 +189,7 @@ Let them see if my rivers won't suit them \\
 Let them drown
 
 The fish that swim there in the current \\
-With their machine like faces should be no deterrent \\
+With their machine-like faces should be no deterrent \\
 They'll all come toward me but I won't move \\
 I know where I stand, I have nothing to prove \\
 Because I had it in my heart that you were walking by \\
@@ -217,13 +219,13 @@ On whom all living things depend
 
 Sweet strains of Guiseppe Verdi \\
 Suffused the evening air \\
-I wished I wished I wished that God would kill me \\
+I wished, I wished, I wished that God would kill me \\
 Instead of leaving me alone to see you standing there before me \\
 That sad look on your face \\
 You took me to so many places I never thought I'd go \\
 That was the worst place
 
-Yeah we did our manners proud \\
+Yeah, we did our manners proud \\
 On the night we said goodbye \\
 No big scenes out there on the sidewalk \\
 As we pinpointed the place where all good things go to die
@@ -231,7 +233,7 @@ As we pinpointed the place where all good things go to die
 I know you hate it when I get my headaches \\
 I got a real gem tonight \\
 Listening to Katia Ricciarelli \\
-It's not going to be alright
+It's not gonna be all right
 
 And I'd like to think that this will pass, this will pass \\
 I know it's not the case \\
@@ -240,73 +242,81 @@ This is the worst place
 
 ## Memories ## {#memories}
 
-Frankie Lane, he was singing Jezebel \\
+Frankie Laine, he was singing Jezebel \\
 I pinned an Iron Cross to my lapel \\
 I walked up to the tallest and the blondest girl \\
 I said, "Look, you don't know me now \\
 But very soon you will \\
-So won't you let me see \\
-Won't you let me see \\
-Won't you let me see \\
+So won't you let me see" \\
+I said, "Won't you let me see" \\
+I said, "Won't you let me see \\
 Your naked body"
 
 "Just dance me to the dark side of the gym \\
 Chances are I'll let you do most anything" \\
 She said "I know you're hungry, I can hear it in your voice \\
-They're many parts of me to touch, you have your choice \\
-But no you cannot see \\
-No you cannot see \\
-No you cannot see \\
+And there are many parts of me to touch, you have your choice \\
+But no, you cannot see" \\
+She said, "No, you cannot see" \\
+She said, "No you cannot see \\
 My naked body"
 
-We are dancing close, the band is playing Stardust \\
+So we're dancing close, the band is playing Stardust \\
 Balloons and paper streamers, they're floating down on us \\
-She says, "You've got a minute left to fall in love" \\
-In solemn moments such as this I've put my trust \\
+She said, "You've got a minute left to fall in love" \\
+In solemn moments such as this I have put my trust \\
 And all my faith to see \\
-I said all my faith to see \\
-I said all my faith to see \\
+I set all my faith to see \\
+I set all my faith to see \\
 Her naked body
 
 ## Going to Morocco ## {#morocco}
 
 There's no wolves around here \\
 There's no wolves around here \\
+You can \\
 Have a drink \\
 Drink your fill \\
 From the tap \\
 From the still \\
-If you won't, I will \\
+If you won't \\
+I will \\
 But there are no wolves around here
 
 There's no reason to cry \\
 There's no reason to cry \\
-You can have a seat for a while \\
+You can sit down \\
+For a while \\
 Relax \\
 Smile \\
-But don't touch that dial \\
+But don't \\
+Touch that dial \\
 'Cause there is no reason to cry
 
 There's a guttural stop in my throat \\
 There's a guttural stop in my throat \\
-The wind comes in from far and wide \\
+The desert stretches \\
+Far and wide \\
 Sands blow \\
 Grains collide \\
-I'm changing inside \\
+I'm changing \\
+Inside \\
 And there's a guttural stop in my throat
 
 ## Going to Michigan ## {#michigan}
 
-As the car rolled north towards Michigan, you complained \\
+As the car rolled north \\
+Towards Michigan \\
+You complained \\
 That all I like to listen to is Gary Numan and the Tubeway Army \\
-Well, maybe that's true - \\
+Well, maybe that's true \\
 But what about you \\
 And the Blue Cheer comprehensive retrospective box set? \\
 That’s pretty annoying too
 
 The wing window flew open \\
 The air was thin \\
-I heard you say so and I heard shadings of meaning therein
+I heard you say so and I heard the shadings of meaning therein
 And your fingers touched mine \\
 And that supersonic whine began \\
 Near the back of my skull
@@ -318,15 +328,15 @@ Yes, you do
 
 ## Terminal Grain ## {#grain}
 
-Well the train touched down in Sioux City, Iowa \\
+Well, the train touched down in Sioux City, Iowa \\
 The train touched down in Sioux City, Iowa \\
 It fell cleanly from the dark sky under the track \\
 Saw you from the window, there was no turning back
 
-Well, the whistle went off, I was leaning up against the window \\
-Yeah, the whistle went off, I was leaning up against the window \\
-I saw the blue passengers walking past me \\
-And you called up the calvary \\
+Well, the whistle went off, I was breathing up against the window \\
+Yeah, the whistle went off, I was breathing up against the window \\
+I saw familiar passengers walking past me \\
+And you'd called up the cavalry \\
 It was so easy, and it was so hard \\
 You were clutching your copy of Kierkegaard \\
 Repetition, repetition
@@ -336,19 +346,19 @@ Repetition, repetition
 We saw the ship meet the horizon \\
 We saw it carry him away \\
 And the streamers on the hull were the last things to wink out of existence \\
-As a cool breeze came in from across the bay \\
+As a light breeze came in from across the bay \\
 You dug around in the sand \\
 You came up holding something \\
 And when you handed it over with that smile on your face \\
 I knew the three of us meant less than nothing
 
-I held the seashell next to my ear, but I didn't hear anything \\
+I held the seashell next to my ears, but I didn't hear anything \\
 I held the seashell next to my ear, but I didn't hear anything
 
 The dogfish swam beneath the jetty \\
 Where our legs hung down \\
 And the ocean hugged the sun with her long arms \\
-As the lights came up above chinatown \\
+As the lights came up above Chinatown \\
 I guess this makes it all easier \\
 I guess it's smooth sailing now \\
 I guess this irons out all the wrinkles from the fabric \\
@@ -359,6 +369,9 @@ I held the seashell next to my ear, but I didn't hear anything
 
 ## Going to Marrakesh ## {#marrakesh}
 
+*"OK. Franklin, I can't count this one off for some reason, I'm not sure why.
+Sorry."*
+
 The fog is lifting from the water \\
 The bells are sounding on the boats \\
 And our love is a monster, plain and simple \\
@@ -368,7 +381,7 @@ It floats
 
 The day of reckoning is coming \\
 Faster than anyone here realizes \\
-And our love is like Jesus but worse \\
+And our love is like Jesus, but worse \\
 Though you seal the cave up where you've lain its body \\
 It rises \\
 It rises
@@ -381,11 +394,14 @@ And it perks up when the nurses bring its medication by
 I wish our love could go the way of all flesh \\
 But it's not right and it's not nice \\
 To try to kill the same thing twice \\
-Would you pack your things? We are going to Marrakesh
+Would you pack your things \\
+We are going to Marrakesh
 
 ## Credits ## {#credits}
 
-Thanks as always to the superlative Caliclimber, whose [Flickr
+Thanks tremendously to [Riley Routh](https://rileyrouth.com) for yet again
+transcribing this album. And of course, thanks as always to the superlative
+Caliclimber, whose [Flickr
 page](https://www.flickr.com/photos/caliclimber/sets/72157616741868919/)
 provided the album art.
 
