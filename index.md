@@ -391,7 +391,7 @@ much discussion and analysis helping me to find more information, the
 [Mountain Goats subreddit][reddit] for similar reasons, and commenters on many
 websites (particularly on [Songmeanings][]) for helping me track down obscure
 references. Of these people, four in particular stand out: Thomas Fidler, also
-known as [Drumhax][], Patrick Lickman, also known as [echo][], who
+known as [Drumhax][], [Riley Routh][], who
 spontaneously drafted entire pages about albums and spurred me to write more,
 [Wil Hall][wil], who transcribed entire albums' worth of lyrics, and Stephen
 Plummer, a frequent chatter on [#themountaingoats][irc], whose impeccable
@@ -425,7 +425,7 @@ community and for supporting excellent independent music.
 [extra-covers]: http://www.flickr.com/photos/caliclimber/sets/72157616741868919/
 [songmeanings]: http://www.songmeanings.net/artist/view/songs/7770/
 [drumhax]: http://www.mountain-goats.com/forums/search.php?2,author=2446,match_type=USER_ID
-[echo]: http://www.mountain-goats.com/forums/search.php?0,author=3544,match_type=USER_ID
+[riley]: https://www.rileyrouth.com
 [wil]: http://wilhall.com
 [irc]: irc://irc.dal.net:7000/themountaingoats
 
