@@ -2,7 +2,8 @@
 
 Thank you for considering helping out with the site! There's lots to do.
 Corrections, suggestions, feedback, and other input is always welcome. You're
-welcome and encouraged to [send your thoughts to me][contact].
+encouraged to send your thoughts to me [via email][contact] or via the git
+repository as described below.
 
 [contact]: https://annotatedtmg.org/about.html#contact
 

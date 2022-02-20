@@ -439,7 +439,7 @@ Come down
     commander from the War of 1812, who stated, "We have met the enemy, and
     they are ours."
 
-## Standard Bitter Love Song \#7 [^sbls7series]## {#sbls7}
+## Standard Bitter Love Song \#7 [^sbls7series] ## {#sbls7}
 
 You smile at me in total defiance of all decency \\
 You got it down to a science, that innocent look \\
