@@ -58,7 +58,7 @@ you'd like to help, please [email me](../about.html#contact)! This page is
 just a placeholder so that you can read the lyrics. Full annotations, liner
 notes, and the rest will come when the page is fully annotated.
 
-Want to help? [Read here](index.html#notabene) and pitch in!
+Want to help? [Read here](about.html#contributing) and pitch in!
 
 ### Liner notes ### {#liner}
 

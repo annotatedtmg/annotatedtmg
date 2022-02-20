@@ -21,7 +21,7 @@ Apologies, but I haven't had the chance to annotate this album yet --- if
 you'd like to help, please [email me](../about.html#contact)! This page is
 just a placeholder so that you can read the lyrics. Full annotations will come
 hopefully soon --- [and you could be the one to make it
-happen](index.html#notabene)!
+happen](about.html#contributing)!
 
 ### Liner notes ### {#liner}
 

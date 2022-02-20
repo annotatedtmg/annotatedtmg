@@ -17,7 +17,7 @@ TODO:
 
 __*This page is a skeleton!*__
 
-Want to help? [Read here](index.html#notabene) and pitch in!
+Want to help? [Read here](about.html#contributing) and pitch in!
 
 ### Related material ### {#related}
 
