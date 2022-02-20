@@ -293,7 +293,7 @@ period, these categories include songs through 2018.
 | __The Extra Glenns/Lens__     | __Year__ | __Label__      | __Format__ |
 |:------------------------------+:-----+:-------------------+:------|
 | - [*Undercard*](undercard.html)   | 2010 | Merge              | CD/LP |
-| + [*Martial Arts Weekend*](martial.html) | 2002 | Absolutely Kosher | CD |
+| - [*Martial Arts Weekend*](martial.html) | 2002 | Absolutely Kosher | CD |
 | + [*Infidelity + 2*](infidelity.html) | 1994 | Harriet        | 7"    |
 | + [*other appearances*](teg-compilation.html) | |             |       |
 |:------------------------------+:-----+:-------------------+:------|
@@ -391,12 +391,12 @@ much discussion and analysis helping me to find more information, the
 [Mountain Goats subreddit][reddit] for similar reasons, and commenters on many
 websites (particularly on [Songmeanings][]) for helping me track down obscure
 references. Of these people, four in particular stand out: Thomas Fidler, also
-known as [Drumhax][], Patrick Lickman, also known as [echo][], who
-spontaneously drafted entire pages about albums and spurred me to write more,
-[Wil Hall][wil], who transcribed entire albums' worth of lyrics, and Stephen
-Plummer, a frequent chatter on [#themountaingoats][irc], whose impeccable
-memory and knowledge of live material corrected many errors in the live show
-directory. Thank you all! You have made this website so much better.
+known as [Drumhax][], [Riley Routh][riley], who spontaneously drafted entire
+pages about albums and spurred me to write more, [Wil Hall][wil], who
+transcribed entire albums' worth of lyrics, and Stephen Plummer, a frequent
+chatter on [#themountaingoats][irc], whose impeccable memory and knowledge of
+live material corrected many errors in the live show directory. Thank you all!
+You have made this website so much better.
 
 I was inspired to make this website in part because of other annotations that
 helped me fall more deeply in love with music and literature that kept me
@@ -425,7 +425,7 @@ community and for supporting excellent independent music.
 [extra-covers]: http://www.flickr.com/photos/caliclimber/sets/72157616741868919/
 [songmeanings]: http://www.songmeanings.net/artist/view/songs/7770/
 [drumhax]: http://www.mountain-goats.com/forums/search.php?2,author=2446,match_type=USER_ID
-[echo]: http://www.mountain-goats.com/forums/search.php?0,author=3544,match_type=USER_ID
+[riley]: https://www.rileyrouth.com
 [wil]: http://wilhall.com
 [irc]: irc://irc.dal.net:7000/themountaingoats
 

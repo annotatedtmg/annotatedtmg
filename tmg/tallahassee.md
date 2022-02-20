@@ -1327,11 +1327,11 @@ And I will sing for you
 
 ## Credits ## {#credits}
 
-A huge thanks to the generous contributions of Patrick Lickman, also known as
-[echo](http://www.mountain-goats.com/forums/search.php?0,author=3544,match_type=USER_ID)
-on the Mountain Goats forums, who wrote much of this page. He has a website of
-his own, which you can view [here](http://www.patricklickman.com) Also, as
-ever, Caliclimber, you are awesome, thank you for your amazing [Flickr
+A huge thanks to the generous contributions of Riley Routh, also known as
+[echo](https://rileyrouth.com) on the Mountain Goats forums, who wrote much of
+this page. They have a website of their own, which you can view
+[here](https://rileyrouth.com) Also, as ever, Caliclimber, you are awesome,
+thank you for your amazing [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/) from
 which the album art comes. Thanks also to Mairead Beeson for noting the Dylan
 Thomas reference in Alpha Rats Nest and the reference to Homer in The House

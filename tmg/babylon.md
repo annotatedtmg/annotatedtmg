@@ -368,11 +368,10 @@ Nothing anyone could do I suppose
 
 ## Credits ## {#credits}
 
-An enormous thank you to the truly awesome Patrick Lickman, also known as echo
-on the Mountain Goats forum, who did a huge amount of work on this and other
-pages. He is a rock star. He can be contacted most easily on Twitter, where
-his username is [@PatrickEchoEcho](http://twitter.com/PatrickEchoEcho). Thanks
-also to Caliclimber, from whose incredible [Flickr
+An enormous thank you to the truly awesome [Riley
+Routh](https://rileyrouth.com), also known as echo on the Mountain Goats
+forum, who did a huge amount of work on this and other pages. They are a rock
+star. Thanks also to Caliclimber, from whose incredible [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/) the
 album art comes, and compared to whom I am not worthy, etc.
 
