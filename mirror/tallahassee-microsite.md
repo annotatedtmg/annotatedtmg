@@ -630,5 +630,5 @@ Contrary to popular belief, peacocks do not eat their young.
 However it is generally conceded that peacocks are scavengers, and will submit
 wholly on carrion for whole seasons at a time. Many once-prominent
 aviculturalists have left the profession entirely after tending to peacocks
-through several seasons. The turnover race within the profession is equalled
+through several seasons. The turnover rate within the profession is equalled
 only by that of severe trauma wards in urban hospitals.
