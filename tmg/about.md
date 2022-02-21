@@ -52,7 +52,8 @@ help.
 # Contributing #
 
 Thank you for considering helping out with the site! There's lots to do.
-Corrections, suggestions, feedback, and other input is always welcome.
+Corrections, suggestions, feedback, and other input is always welcome. A guide
+for contributing is available in the [git repository][repo].
 
 If you're curious about what would help and wanted to contribute directly, a
 number of albums need lyrics and annotations. You can see which ones these are
