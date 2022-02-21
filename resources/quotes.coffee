@@ -324,6 +324,8 @@ quotes = [
     "I let her right on in",
     "I got lost when my lucky stars crossed",
     "the burning and the electricity",
+    "our love is like jesus but worse",
+    "this is the worst place",
 ]
 
 numQuote = Math.floor(Math.random() * quotes.length)
