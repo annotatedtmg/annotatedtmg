@@ -1,0 +1,4 @@
+{% capture email_buttons %}
+<span style="unicode-bidi:bidi-override; direction: rtl;">gro.gmtdetatonna@snottub</span>
+{% endcapture %}
+[{{ email_buttons }}](mailto:%62%75%74%74%6F%6E%73@%61%6E%6E%6F%74%61%74%65%64%74%6D%67.%6F%72%67)

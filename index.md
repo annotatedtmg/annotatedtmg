@@ -102,9 +102,8 @@ button maker. A fellow DIY fan has been making stickers and those are
 available here as well! While I no longer travel to shows like I used to,
 there are still a few remaining buttons from those years.
 
-To obtain one, make a self-addressed, stamped envelope, and then email me so I
-can give you the address to send it to. [You can see previous designs and
-further instructions here!](buttons.html)
+To see the designs, and for information about how to obtain some, [see
+here!](buttons.html)
 
 ## Albums ## {#albums}
 
