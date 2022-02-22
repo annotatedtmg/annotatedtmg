@@ -32,7 +32,7 @@ defaults:
   - scope:
         path:       tmg/_posts
     values:
-        permalink:  '.trash'
+        permalink:  /.posts/:name
         sitemap:    false
 
 # Build settings

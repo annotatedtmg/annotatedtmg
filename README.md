@@ -138,17 +138,13 @@ should be able to build the site as follows:
     $ cd annotatedtmg
     $ jekyll build
 
-If successful, you will get an error stating:
+Congratulations! You have successfully built the site.
 
-    Conflict: The following destination is shared by multiple files.
-              The written file may end up with unexpected contents.
-              .../.trash.html
-
-Congratulations! You have successfully built the site. This is an artifact of
-a Jekyll requirement that all posts (which are used to create the [changelog
-and RSS feed][changelog]) have individual permalinks. Since the site doesn't
-use individual post pages, my kludge to get around this repeatedly clobbers an
-unused file. Please let me know if you have a superior solution, particularly
+You may notice that posts are output to an unused directory, `.posts`. This is
+an artifact of a Jekyll requirement that all posts (which are used to create
+the [changelog and RSS feed][changelog]) have individual permalinks. Ideally,
+I could suppress their output entirely, but this seems to be the least bad
+compromise. Please let me know if you have a superior solution, particularly
 if it can support Jekyll via a pull request at the [relevant bug
 report][jekyll-bug].
 
