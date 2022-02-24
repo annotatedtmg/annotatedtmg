@@ -151,10 +151,10 @@ The following songs are generally considered to be Alpha couple songs.
 | [Alpha in Tauris](zopilote.html#tauris) | Zopilote Machine    | 1994      |
 | [Alpha Incipiens](zopilote.html#incipiens) | Zopilote Machine | 1994      |
 | [Alpha Negative](hound.html#negative) | The Hound Chronicles  | 1992      |
-| [Alpha Omega](protein.html#omega)     | Protein Source Of The Future... NOW! | 1999 |
+| [Alpha Omega](protein.html#omega)     | Protein Source of the Future... NOW! | 1999 |
 | [Alpha Rats Nest](tallahassee.html#rats) | Tallahassee        | 2002      |
 | [Alpha Sun Hat](zopilote.html#sunhat) | Zopilote Machine      | 1994      |
-| [Alphabetizing](chile.html#alphabetizing) | Chile de Árbol; Protein Source Of The Future... NOW! | 1993; 1999 |
+| [Alphabetizing](chile.html#alphabetizing) | Chile de Árbol; Protein Source of the Future... NOW! | 1993; 1999 |
 | [Alphonse Mambo](coroner.html#alphonse) | The Coroner's Gambit | 2000     |
 | [Design Your Own Container Garden](america.html#container) | See America Right | 2002 |
 | [Ending the Alphabet](hafg.html#alphabet) | Hail and Farewell, Gothenburg | 1995 |
@@ -162,16 +162,16 @@ The following songs are generally considered to be Alpha couple songs.
 | [First Few Desperate Hours](tallahassee.html#hours) | Tallahassee | 2002  |
 | [Game Shows Touch Our Lives](tallahassee.html#gameshows) | Tallahassee | 2002 |
 | [Going to Dade County](unreleased-_f.html#dade) | Unreleased  | 1998?     |
-| [Have To Explode](tallahassee.html#explode) | Tallahassee     | 2002      |
+| [Have to Explode](tallahassee.html#explode) | Tallahassee     | 2002      |
 | [The House That Dripped Blood](tallahassee.html#dripped) | Tallahassee | 2002 |
-| [Idylls Of The King](tallahassee.html#idylls) | Tallahassee   | 2002      |
+| [Idylls of the King](tallahassee.html#idylls) | Tallahassee   | 2002      |
 | [International Small Arms Traffic Blues](tallahassee.html#smallarms) | Tallahassee | 2002 |
 | [Letter from a Motel](unreleased-gl.html#motel) | Unreleased  | 1999?     |
 | [New Chevrolet in Flames](america.html#chevrolet) | See America Right | 2002 |
 | [No Children](tallahassee.html#nochildren) | Tallahassee      | 2002      |
 | [Oceanographer's Choice](tallahassee.html#oceanographer) | Tallahassee | 2002 |
 | [Old College Try](tallahassee.html#college) | Tallahassee     | 2002      |
-| [One Winter At Point Alpha Privative](taboo.html#privative) | Taboo VI: The Homecoming | 1992 |
+| [One Winter at Point Alpha Privative](taboo.html#privative) | Taboo VI: The Homecoming | 1992 |
 | [Peacocks](tallahassee.html#peacocks) | Tallahassee           | 2002      |
 | [See America Right](tallahassee.html#america) | Tallahassee; See America Right | 2002 |
 | [Southwood Plantation Road](tallahassee.html#southwood) | Tallahassee | 2002 |

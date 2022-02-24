@@ -1,20 +1,34 @@
-# Contributing #
+# The Annotated Mountain Goats #
+
+Hi, we're the Annotated Mountain Goats. Welcome!
+
+This is a comprehesive, accurate, and referenced guide to the first 25 years
+of the music of the Mountain Goats. The site covers the boombox, early studio,
+biographical, and later studio eras of the band. This period, lasting from
+approximately 1992 to 2017, contains a massive corpus of staggering
+complexity, range, and humanity. This site does not include releases from 2017
+on, after the band moved on stylistically and thematically.
+
+
+## Contributing ##
 
 Thank you for considering helping out with the site! There's lots to do.
 Corrections, suggestions, feedback, and other input is always welcome. You're
 encouraged to send your thoughts to me [via email][contact] or via the git
-repository as described below.
+repository as described below. Please read the [contributing guide][contrib]
+for more information and read below.
 
 [contact]: https://annotatedtmg.org/about.html#contact
 
 If you're curious about what would help and wanted to contribute directly, a
 number of albums need lyrics and annotations. You can see which ones these are
-by looking at the [discography on the front page][tamg]. Links *in italics*
-are incomplete: those prefixed with a dash (-) contain lyrics but have yet to
-be annotated; those prefixed with a plus (+) instead need transcription as
-well.
+by looking at the [contributing page][contrib] or the [discography on the
+front page][tamg]. Links *in italics* are incomplete: those prefixed with a
+dash (-) contain lyrics but have yet to be annotated; those prefixed with a
+plus (+) instead need transcription as well.
 
-[tamg]: https://annotatedtmg.org/index.html
+[contrib]:  https://github.com/annotatedtmg/annotatedtmg/blob/main/CONTRIBUTING.md
+[tamg]:     https://annotatedtmg.org/index.html
 
 If you're comfortable with git and Markdown, please feel free to submit
 contributions via the [git repository][repo] by creating a pull request. If

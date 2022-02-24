@@ -250,7 +250,7 @@ will really deliver 30,000 volts.* \\
 Tallahassee and We Shall All Be Healed both featured microsites on 4AD's
 Mountain Goats page. As described by 4AD, "Visit the amazing new web site for
 'Tallahassee', The Mountain Goats new album, due for release on 27th January
-2003. This fantastic site has been put together by the band themselves and
+2003\. This fantastic site has been put together by the band themselves and
 features a room-by-room tour of the house in Tallahassee. Go to the
 [Tallahassee site](http://4ad.com/tallahassee/) now..." While the site is no
 longer available, much of it is contained at [the Internet

@@ -6,12 +6,7 @@ info:   Biographical and website information
 
 # Contact info # {#contact}
 
-You can reach me at:
-
-{%- capture email %}
-<span style="unicode-bidi:bidi-override; direction: rtl;">gro.gmtdetatonna@toor</span>
-{% endcapture %}
-[{{ email }}](mailto:{{ 'root@annotatedtmg.org' | encode_email }})
+You can reach me at: {% include root.contact %}
 
 # Site information # {#site}
 
@@ -57,7 +52,8 @@ help.
 # Contributing #
 
 Thank you for considering helping out with the site! There's lots to do.
-Corrections, suggestions, feedback, and other input is always welcome.
+Corrections, suggestions, feedback, and other input is always welcome. A guide
+for contributing is available in the [git repository][repo].
 
 If you're curious about what would help and wanted to contribute directly, a
 number of albums need lyrics and annotations. You can see which ones these are

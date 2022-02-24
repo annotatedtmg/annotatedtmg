@@ -12,7 +12,7 @@ info:       Front page for the Annotated Mountain Goats
 
 # Welcome! #
 
-Welcome to the Annotated Mountain Goats!
+Hi, we're the Annotated Mountain Goats. Welcome!
 
 This is a comprehesive, accurate, and referenced guide to the first 25 years
 of the music of the Mountain Goats. The site covers the boombox, early studio,
@@ -102,15 +102,8 @@ button maker. A fellow DIY fan has been making stickers and those are
 available here as well! While I no longer travel to shows like I used to,
 there are still a few remaining buttons from those years.
 
-To obtain one, make a self-addressed, stamped envelope, and then email me so I
-can give you the address to send it to:
-
-{% capture email_buttons %}
-<span style="unicode-bidi:bidi-override; direction: rtl;">gro.gmtdetatonna@snottub</span>
-{% endcapture %}
-[{{ email_buttons }}](mailto:{{ 'buttons@annotatedtmg.org' | encode_email }})
-
-[You can see previous designs here!](buttons.html)
+To see the designs, and for information about how to obtain some, [see
+here!](buttons.html)
 
 ## Albums ## {#albums}
 
