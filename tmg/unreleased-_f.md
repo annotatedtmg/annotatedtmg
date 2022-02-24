@@ -291,17 +291,50 @@ Is any available surface that you've rested your head on
 [^surfacelive]:
   These lyrics were transcribed from a live performance at Swedish American Hall, San Francisco, February 25, 2009.
 
-## Birthday Song: This Time Has Gone ## {#birthday}
+## Birthday Song: This Time Has Gone [^birthdaywfmu] ## {#birthday}
 
-*not yet transcribed*
+The sun came out this morning, I was wide awake \\
+I stumbled on down to the kitchen and I cut myself a piece of my birthday cake \\
+With raspberry filling in the middle \\
+I thought about you a little \\
+And there was a time when you wanted me so bad \\
+It was eating you up inside \\
+But this time has gone away
+
+I poured myself a tall glass of milk, it was deep and cold \\
+And I checked my driver's license, I was 28 years old \\
+And there was a time when you wanted me so bad \\
+It was eating you up inside \\
+But this time has gone away
+
+[^birthdaywfmu]:
+  These lyrics were transcribed from the [WFMU session][wfmuyoutube] performance on October 19, 2000.
+
+[wfmuyoutube]:https://www.youtube.com/watch?v=HIgB6gj35Eg
 
 ## Blues for Cicero ## {#cicero}
 
 *not yet transcribed*
 
-## Calcutta ## {#calcutta}
+<!-- Notably, Nall doesn't have this. Only thing I've been able to find on this song is this reddit comment: https://www.reddit.com/r/themountaingoats/comments/j6g1lt/still_looking_for_a_few_songs/g7zyjxa/ -->
 
-*not yet transcribed*
+## Calcutta [^calcuttalive] ## {#calcutta}
+
+Wild donkeys kicking, braying in the meadow \\
+Made you wanna kick and bray yourself, at least you said so \\
+And you were wild eyed, your lips were flecked with foam \\
+'Til warm Calcutta called you home
+
+Twin rivers flowing brought a flush into your cheek \\
+At the spot where the trickling streams and rivers meet \\
+The wind from off the snowcapped mountain cooled you down \\
+'Til warm Calcutta brought you back around
+
+I could hear the prophets yelling in the street \\
+How your eyes were pure poison, but your skin was sweet
+
+[^calcuttalive]:
+  These lyrics were transcribed from a live performance at New York University, New York, March 1997 (exact date unknown).
 
 ## The Car Song ## {#carsong}
 
