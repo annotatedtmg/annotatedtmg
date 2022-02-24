@@ -56,17 +56,57 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Footnotes](#footnotes)
 {: .none}
 
-## 02-75 ## {#n02-75}
+## 02-75 [^daytrotterlyrics] ## {#n02-75}
 
-*not yet transcribed*
+I got your letter \\
+And I read what it said \\
+And I blushed with recognition \\
+At every word you said
+
+And you are my best friend \\
+And I have always known you
+
+I dreamed of your house \\
+And I looked around \\
+And I saw the real rain \\
+Real power rolling down
+
+And you, you are my best friend \\
+And I have always known you
+
+[^daytrotterlyrics]:
+  These lyrics were transcribed from the [Daytrotter session][daytrotter] performance on May 26, 2008.
+
+[daytrotter]:https://www.pastemagazine.com/noisetrade/music/the-mountain-goats/may-26-2008-daytrotter-studio-rock-island-il
 
 ## 15--2 ## {#n15-2}
 
-*not yet transcribed*
+Those may be the most beautiful shades of red I've ever seen \\
+Those may be the most beautiful shades of red I've ever seen \\
+But don't be fooled \\
+If the sun goes down on us here tonight \\
+It's not gonna be alright anymore
+
+None of this has anything really to do with us, that's my belief \\
+As the desert sky throws the glowing neon into bold relief \\
+Your mouth is open and your eyes are wide \\
+Hold on, because it's dark outside now
+
+The smell of roses comes thickly through the open window now \\
+The smell of roses comes thickly through the open window now \\
+As the darkness closes in, our bodies draw the roses in \\
+And those may be the most beautiful shades of red i've ever seen
+
+[^kucilyrics]:
+  These lyrics were transcribed from the [KUCI session][kuciyoutube] performance on October 1, 1992.
+
+[kuciyoutube]: https://www.youtube.com/watch?v=9OWdZPNpa2Y
 
 ## 25 ## {#n25}
 
 *not yet transcribed*
+
+<!-- Nall has lyrics for this, and it apparently used to be on YouTube but isn't now. Only known show is March 7 1993, Walker Lounge, Pomona, CA. -->
 
 ## Abandoning My Father Talking Blues ## {#talking}
 
@@ -107,25 +147,149 @@ Keep the home fires \\
 Burning \\
 Keep the home, home fires
 
-## Agemo's Hoops ## {#agemo}
+## Agemo's Hoops [^agemocologne] ## {#agemo}
 
-*not yet transcribed*
+You were breathing against my throat \\
+Covering your laugh up with your long black overcoat \\
+All circuits warming up \\
+And you told me what you were going to do \\
+And I promised to do the same thing too
 
-## All Frosting ## {#frosting}
+And the air \\
+The air in New England \\
+Was pure  \\
+Poison
 
-*not yet transcribed*
+The car was parked out back among the trees \\
+Your voice was getting higher by slow degrees \\
+You were giving me directions \\
+And you told me where I came from \\
+Well God bless us, every one
 
-## Alpha Aquae ## {#aquae}
+And the air \\
+The air in New England \\
+Was pure \\
+Poison, poison, poison, poison
 
-*not yet transcribed*
+[^agemocologne]:
+  These lyrics were transcribed from a live performance at Underground, Cologne, April 15, 1995.
 
-## Alpha Chum Gatherer ## {#chum}
+## All Frosting [^glenns] [^frostinglive] ## {#frosting}
 
-*not yet transcribed*
+Let's meet out in San Bernardino \\
+Let's get a case of Polish vodka \\
+Let's bring out the big guns \\
+The modified Israeli ones
 
-## Any Available Surface ## {#surface}
+Let's go back to where we let it all go \\
+Let's quit scavenging for bones down in the snow \\
+Let's follow the freeway from here \\
+Let's disappear
 
-*not yet transcribed*
+Let's get our stuff back from the pawnshop \\
+Let's put a bedroom in the attic \\
+Let's stay up real late \\
+And see if we don't suffocate
+
+Let's practice our smiles 'til we're they're freezing cold \\
+Let's dig up the graveyard 'til we find ourselves some gold \\
+I'll tell you when the coast is clear \\
+Let's disappear
+
+[^glenns]:
+  This is an Extra Glenns song. 
+
+[^frostinglive]:
+  These lyrics were transcribed from a live performance at Cafe Du Nord, San Francisco, February 27, 2002.
+
+## Alpha Aquae [^aquaelive] ## {#aquae}
+
+I've grown rather tired \\
+Of our little game \\
+You ask me the question \\
+My answer's the same
+
+And I couldn't say \\
+The day or the year \\
+But it must be summer, 'cause there's flies in here \\
+I need water \\
+I need water
+
+Ants on the window ledge \\
+Caught my attention \\
+And I wanted to say so \\
+But I was too tired to mention it
+
+And we crawled in bed \\
+And melted together \\
+Cursing each other \\
+Cursing the weather \\
+And I need water \\
+I need water
+
+[^aquaelive]:
+  These lyrics were transcribed from a live performance at Absolutely Kosher House, San Francisco, March 5, 2000.
+
+## Alpha Chum Gatherer [^chumlive] ## {#chum}
+
+Rise up real early shaking \\
+Try to steady my hand \\
+Make my way down to the water \\
+Sail a half a mile from land \\
+
+See where the sharks have been breeding \\
+Out on the ocean alone \\
+And I scrutinize the carnage \\
+Like it was the goddamn Rosetta Stone
+
+When I crack \\
+That secret code \\
+It's sure to lighten my load \\
+Won’t you come out sailing with me \\
+Into the warmth of the afternoon 
+
+Scoop up the guts and brains \\
+Drizzle them into a plastic bag \\
+Let 'em drop onto the deck \\
+Feel the day drag
+
+And when I get back to the car \\
+It's like a furnace inside \\
+And I head on down the highway \\
+Throttle open wide
+
+Back home in the high heat \\
+I spill out all my presents for you \\
+There's blood all over the floor now \\
+What are we going to do
+
+Won't you come out sailing with me \\
+Into the warmth of the afternoon
+
+[^chumlive]:
+  These lyrics were transcribed from a live performance at Bottletree, Birmingham, June 22, 2013.
+<!-- Which, by the way, has some killer banter to annotate at some point. -->
+
+## Any Available Surface [^surfacelive] ## {#surface}
+
+I waved at you when you hit the disappearing point \\
+Turned in for the night the next day around ten \\
+I caught the sweet scent of your hair on my pillowcase \\
+Felt so much in love, I felt like myself again \\
+
+Someday the only thing I want to rely upon \\
+Is any available surface that you've rested your head on \\
+
+Back in the cave I traced the arc of our awakening \\
+Shimmering down in the darkness like hidden gold \\
+And I said my secret to myself out loud again \\
+We may live to see miracles, if our faith can hold
+
+Someday the only thing I want to rely upon \\
+Is any available surface that you've rested your head on
+
+[^surfacelive]:
+  These lyrics were transcribed from a live performance at Swedish American Hall, San Francisco, February 25, 2009.
 
 ## Birthday Song: This Time Has Gone ## {#birthday}
 
