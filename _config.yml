@@ -54,3 +54,4 @@ plugins:
     - jekyll-sitemap
 exclude:
     - README.md
+    - CONTRIBUTING.md

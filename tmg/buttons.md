@@ -25,10 +25,7 @@ you'd like some, send a self-addressed, stamped envelope (padded ones get
 through the USPS better than regular envelopes) my way. To get the address,
 drop a line to:
 
-{% capture email_buttons %}
-<span style="unicode-bidi:bidi-override; direction: rtl;">gro.gmtdetatonna@snottub</span>
-{% endcapture %}
-[{{ email_buttons }}](mailto:{{ 'buttons@annotatedtmg.org' | encode_email }})
+{% include buttons.contact %}
 
 ... and if any are still available, some will be on their way shortly.
 

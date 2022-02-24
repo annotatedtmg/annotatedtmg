@@ -9,7 +9,7 @@ meta:   Archive of the Tallahassee microsite.
 [Tallahassee] and [We Shall All Be Healed] both featured microsites on 4AD's
 Mountain Goats page. As described by 4AD, "Visit the amazing new web site for
 'Tallahassee', The Mountain Goats new album, due for release on 27th January
-2003. This fantastic site has been put together by the band themselves and
+2003\. This fantastic site has been put together by the band themselves and
 features a room-by-room tour of the house in Tallahassee. Go to the
 [Tallahassee site](http://4ad.com/tallahassee/) now..." While the site is no
 longer available, much of it is contained at [the Internet
@@ -630,5 +630,5 @@ Contrary to popular belief, peacocks do not eat their young.
 However it is generally conceded that peacocks are scavengers, and will submit
 wholly on carrion for whole seasons at a time. Many once-prominent
 aviculturalists have left the profession entirely after tending to peacocks
-through several seasons. The turnover race within the profession is equalled
+through several seasons. The turnover rate within the profession is equalled
 only by that of severe trauma wards in urban hospitals.
