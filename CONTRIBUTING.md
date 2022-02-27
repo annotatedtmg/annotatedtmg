@@ -57,7 +57,7 @@ were recorded:
 * [Miscellaneous unreleased songs, S - Z][unrel-sz]
 
 [collab]:   https://annotatedtmg.org/collaboration.html
-[unrel-_f]: https://annotatedtmg.org/unreleased-_f.html
+[unrel-_f]: https://annotatedtmg.org/unreleased-\_f.html
 [unrel-gl]: https://annotatedtmg.org/unreleased-gl.html
 [unrel-mr]: https://annotatedtmg.org/unreleased-mr.html
 [unrel-sz]: https://annotatedtmg.org/unreleased-sz.html

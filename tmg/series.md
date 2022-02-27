@@ -592,12 +592,12 @@ References contained in liner notes are listed under the release name.
 | [Dilaudid](sunset.html#dilaudid)      | Psalms 90:10          | TST; 2005                 |
 | [The Doll Song](unreleased-_f.html#dollsong) | 1 Corinthians 13 | Unreleased; 1992?       |
 | [Down Here](galesburg.html#downhere)  | Psalms                | FFG; 1997                 |
-| [Down to the Ark](unreleased-_f.html#ark) | Noah's Ark        | Unreleased; 2008          |
+| [Down to the Ark](unreleased-_f.html#ark) | Ark of the Covenant; Romans 8:39; Revelation; Satan; All Things Bright and Beautiful | Unreleased; 2008 |
 | [Dutch Orchestra Blues](irh.html#dutch) | God                 | IRH; 1998                 |
 | [Elijah](coroner.html#elijah)         | Galatians 4:4; Luke 1:44; resurrection of Jesus | TCG; 2000 |
 | [Enoch 18:14](tlotwtc.html#enoch)     | Enoch 18:14           | TLOTWTC extra, TLOTWIF; 2009 |
 | [Ezekiel 7 and the Permanent Efficacy of Grace](tlotwtc.html#ezekiel) | Ezekiel 7; efficacious grace | TLOTWTC; 2009 |
-| [From the Lake Trials](compilation.html#trials) | God's creatures | Compilation; 2017 |
+| [From the Lake Trials](compilation.html#trials) | God's creatures | Compilation; 2017     |
 | [Genesis 19:1 -- 2](devil.html#genesis) | Genesis 19:1 -- 2   | DITS; 2002                |
 | [Genesis 3:23](tlotwtc.html#genesis3) | Genesis 3:23          | TLOTWTC/IF; 2009          |
 | [Genesis 30:3](tlotwtc.html#genesis30) | Genesis 30:3         | TLOTWTC; 2009             |
@@ -645,7 +645,7 @@ References contained in liner notes are listed under the release name.
 | [Psalms 40:2](tlotwtc.html#psalms)    | Jeremiah 10:2; Luke 21:11; Matthew 11:28; Psalms 40:2, 119:171 | TLOTWTC/IF; 2009 |
 | [Romans 10:9](tlotwtc.html#romans)    | Romans 10:9           | TLOTWTC/IF; 2009          |
 | [Sail Babylon Springs](babylon.html#sail) | Psalms 137:1; Babylon | BS; 2006              |
-| [1 Samuel 15:23](tlotwtc.html#samuel) | 1 Samuel 15:23        | TLOTWTC; 2009             |
+| [1 Samuel 15:23](tlotwtc.html#samuel) | 1 Samuel 15:23; Isaiah 56:7 | TLOTWTC; 2009       |
 | [San Bernardino](heretic.html#bernardino) | Genesis 3:24      | HP; 2008                  |
 | [Satanic Messiah](messiah.html#messiah) | Satan; the Messiah  | SM; 2008                  |
 | [Sept 15th 1983](heretic.html#sept)   | Psalms 137:5          | HP; 2008                  |
@@ -654,7 +654,7 @@ References contained in liner notes are listed under the release name.
 | [Snow Owl](galesburg.html#owl)        | Heaven                | FFG; 1997                 |
 | [Solomon Revisited](taboo.html#solomon) | Solomon             | T6:TH; 1992               |
 | [Song for John Davis](fire.html#johndavis) | 1 Corinthians 13:11 | SAF, G; 1995, 1999     |
-| [Song for God](unreleased-sz.html#god) | Revelations; God      | Unreleased; 2002          |
+| [Song for God](unreleased-sz.html#god) | Revelations; God      | Unreleased; 2002         |
 | [Store](jam.html#store)               | Heavenly choir; Lucifer | JEB; 2001               |
 | [Supergenesis](blackpear.html#supergenesis) | Genesis 3       | BPT; 2008                 |
 | [Tallahassee](tallahassee.html#tallahassee) | Destroying angel | T; 2002                  |

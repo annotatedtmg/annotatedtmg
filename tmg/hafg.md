@@ -55,18 +55,19 @@ Label: unreleased
     forums.
 
     This website exists in a strange balance. On the one hand, I actually
-    share John's often-repeated love of ephemeral things. I've made one some
-    significant art projects where the piece would never have had the impact
-    it had on me and the other people involved if it survived, and making it
-    again would be against the point. I love that some things that the
-    Mountain Goats have made will never circulate outside the small group that
-    initially participated in them, and I strongly support the tape trading
-    culture that is opposed to everything being permanently uploaded to the
-    internet, instead having more personal interactions. On the other hand, I
-    love learning more about the Mountain Goats and other artists, and sites
-    like this have helped me enormously with other things I fell in love with.
-    I've found as I've dug deeper and deeper into the band's music that many
-    people feel the same and want to share the joy and knowledge they have.
+    share John's often-repeated love of ephemeral things. I've made at least
+    one significant art project where the piece would never have had the
+    impact it had on me and the other people involved if it survived, and
+    making it again would be against the point. I love that some things that
+    the Mountain Goats have made will never circulate outside the small group
+    that initially participated in them, and I strongly support the tape
+    trading culture that is opposed to everything being permanently uploaded
+    to the internet, instead having more personal interactions. On the other
+    hand, I love learning more about the Mountain Goats and other artists, and
+    sites like this have helped me enormously with other things I fell in love
+    with. I've found as I've dug deeper and deeper into the band's music that
+    many people feel the same and want to share the joy and knowledge they
+    have.
 
     I don't know where the line is, although I'm always aware of it, and
     there's a number of things that I refrain from hosting on the site in

@@ -1211,9 +1211,17 @@ Hey
     Pure Sound is part of the [Pure ... series](series.html#pure).
 
 [^taylor]:
-    There being many streets with this name, I'm not sure where this refers to
-    --- if you know more about the song and can narrow it down, [drop me a
-    line](../about.html#contact).
+    Most likely referring to SE Taylor Street in Portland, Oregon, given
+    John's personal connection to this neighborhood in Portland especially
+    during this era. Taylor Street is close to the Plaid Pantry and Burnside
+    Bridge in [Steal Smoked Fish](steal.html#steal) and related to several
+    tracks in [All Eternals Deck](aed.html), Lloyd Center of [Standard Bitter
+    Love Song \#8](dative.html#sbls8), and a number of locations in [We Shall
+    All Be Healed](wsabh.html), among others.
+
+    Thank you tremendously to [Abbey
+    Lawrence](https://twitter.com/midwestvulture) for recognizing this!
+
 
 ## Going to Maine [^mainejohn] [^maineseries] [^hardcore] ## {#maine}
 
@@ -1426,7 +1434,9 @@ Everywhere
 Thanks as always to Caliclimber, whose [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/)
 provided the album art and who painstakingly transcribed the liner notes.
-Although thank you to Harrison Lemke who helped me understand [which Augustine
-was being referenced](#fn:augustine) in the Anglo-Saxons.
+Also, thank you to Harrison Lemke who helped me understand [which Augustine
+was being referenced](#fn:augustine) in The Anglo-Saxons, and to [Abbey
+Lawrence](https://twitter.com/midwestvulture) for recognizing the location of
+[Taylor St.](#fn:taylor) in Pure Sound.
 
 ## Footnotes ## {#footnotes}

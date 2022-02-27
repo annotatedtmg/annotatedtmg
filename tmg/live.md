@@ -683,13 +683,12 @@ If you have any ideas about where these could be from, please be in touch!
 * [The Eck Family's gigography][eck]
 * [romme's trade list][romme]
 * [The Mountain Goats Wiki][wiki]
-* Luigi Falagario's trade list (at *I Hear Strange Music*) --- sadly now
-  defunct. If you find an archive, [email me!](../about.html#contact) <!-- was [underwater] -->
+* [Luigi Falagario's trade list][underwater]
 
 [romme]: http://www.phishhook.com/lists//romme?listid=4
 [tmg-archive]: http://www.themountaingoats.net/cgi-bin/songs.cgi
 [eck]: https://web-beta.archive.org/web/20130628182017/http://www.theeckfamily.net/tmg/tmg_gigography.htm
-[underwater]: http://www.underwaternow.com/trades/mylist3.htm
+[underwater]: https://web.archive.org/web/20040604235057/http://www.geocities.com/underwaternow/mylist3.htm
 [wiki]: http://themountaingoats.wikia.com/wiki/The_Mountain_Goats_Wiki
 
 <!-- tMG show download links -->

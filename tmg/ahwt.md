@@ -333,7 +333,9 @@ hail! All hail! All hail!
     45:23](http://www.biblegateway.com/passage/?search=Isaiah%2045:23&version=HCSB):
     "By Myself I have sworn; Truth has gone from My mouth, a word that will
     not be revoked: Every knee will bow to Me, every tongue will swear
-    allegiance." Holman Christian Standard Bible, retrieved May 16, 2012.
+    allegiance." This is stated very similarly to the line in [Isaiah
+    45:23](tlotwtc.html#isaiah), which obviously references the same verse.
+    Holman Christian Standard Bible, retrieved May 16, 2012.
 
 [^reissuevariations]:
     The text on the CD booklet and vinyl gatefold of the reissue is identical

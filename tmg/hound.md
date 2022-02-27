@@ -471,7 +471,7 @@ I love the cows \\
 I love the cows
 
 They're smiling in your face \\
-All the time they want to take your place \\
+All the time they want to take your place [^backstabbers] \\
 Yeah, you know who I mean \\
 Talking about those cow machines
 
@@ -479,6 +479,24 @@ I love the cows \\
 I love the cows \\
 I love the cows \\
 I love the cows
+
+[^backstabbers]:
+    An homage to classic R&B group [The O'Jays][ojays], whose 1972 song [Back
+    Stabbers][backstabbers] opens with the lines:
+
+    > They smiling in your face \\
+    > All the time they want to take your place \\
+    > The back stabbers
+
+    The lines repeat as the chorus throughout the song. The song is about
+    other men attempting to seduce women already in relationships. Back
+    Stabbers rose to \#3 on the Billboard charts in the year of its release.
+
+    Thanks to Noah Lesgold for pointing this out!
+
+[ojays]: https://en.wikipedia.org/wiki/The_O%27Jays
+[backstabbers]: https://en.wikipedia.org/wiki/Back_Stabbers_(song)
+
 
 ## --- ## {#dash}
 
@@ -915,6 +933,7 @@ Thanks as always to Caliclimber, whose [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/)
 provided the album art, and who painstakingly transcribed the original liner
 notes. Thanks also to Sophie Kreeger for her Hebrew fluency and help
-understanding שקט.
+understanding [שקט](#fn:sheket), and to Noah Lesgold for identifying the
+O'Jays reference in [The Cow Song](#fn:backstabbers).
 
 ## Footnotes ## {#footnotes}

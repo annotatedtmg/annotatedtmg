@@ -314,7 +314,7 @@ And I am saved by the blood of the lamb
     referring to lands bordering and east of the [Jordan
     River](https://en.wikipedia.org/wiki/Jordan_River). Jordan is a
     present-day country as well as an ancient region bordering modern
-    Palestine, Israel, Iraq, and Saudi Arabian. Transjordan is a Biblical term
+    Palestine, Israel, Iraq, and Saudi Arabia. Transjordan is a Biblical term
     for Gilead, referring to the land owned by the Israeli tribes of Reuben,
     Gad, and Manasseh. The term literally translates to "across the Jordan" in
     Latin, coming from a Hebrew word for the same.

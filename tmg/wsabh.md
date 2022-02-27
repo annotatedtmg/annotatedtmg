@@ -68,6 +68,17 @@ Jerry Jeff Walker SELF-TITLED [^walker] \\
 Ready for the World "LONG TIME COMING" [^ready]
 {: .in}
 
+I began to compile lists in my head. I remembered having read someplace that
+making lists was a way of calming the nerves. For me it only made things
+worse.
+
+PERSONS THOUGHT TO HAVE DISAPPEARED INTO THE CAVALCADE OF MONSTERS \\
+Rosie \\
+You \\
+Me \\
+Tracy in Portland \\
+Emil [^people]
+
 I would reach for the telephone and then suddenly retract my hand as though
 I'd nearly grabbed hold of a snake. That was me: letting it slide. Watching
 unthinkable things on the stolen VCR hooked up through no small effort to the
@@ -151,6 +162,10 @@ Hold on with both hands.*
     of any number of stores, and I'm not sure which it would be. My best guess
     is the chain of Viva Bargain Centers in the Los Angeles and Inland Empire
     areas.
+
+[^people]:
+    If you know the significance of any of these names, please [let me
+    know](about.html#contact)!
 
 [^chavo]:
     [Chavo Guerrero](http://en.wikipedia.org/wiki/Chavo_Guerrero,_Sr.) was a
@@ -1313,8 +1328,8 @@ page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/)
 provided the album art and who sent photos of the
 liner to allow transcription. Thanks as well to [AKM
 Adam](http://akma.disseminary.org/about/) for his help with the film reference
-in Your Belgian Things and the identity of Tate, and to Mairead Beeson for her
+in Your Belgian Things and the identity of Tate, to Mairead Beeson for her
 thoughts on allusions to the works of Jacques Lusseyran and Thomas Hardy in
-Against Pollution.
+Against Pollution, and to Tim Mitchell for adding some missing liner notes.
 
 ## Footnotes ## {#footnotes}

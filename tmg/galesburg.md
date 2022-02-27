@@ -157,34 +157,34 @@ to do this: All songs written by John Darnielle, © and ℗ 1997 Cadmean Dawn
     is a collection of the poems he wrote during his fourteen-month
     imprisonment.
 
-    Unfortunately, I was unable to find the translation that John used here.
-    However, I was able to find another, which reveals this to be the third
-    stanza of a poem reprinted in full below, given the title (at least in the
-    translation I found) *Hard is the Road of Life* (pp. 22 -- 23):
+    Unfortunately, I was unable to find the edition that John used here.
+    However, an astute reader found another which reveals this to be the third
+    stanza of a poem reprinted in full below with the title  *Hard is the Road
+    of Life* (p. 135):
 
-    > I \\
-    > Having travelled o'er steep mount and deep vale, \\
-    > How could I expect in the plain to meet even greater danger? \\
-    > In the mountain I suffered no harm when meeting a tiger; \\
-    > In the plain I ran into men and was thrown in jail.
-    > 
-    > II \\
-    > I am a delegate of the Vietnamese people \\
-    > On his way to China to meet an important official. \\
-    > Why should a storm break out o'er a serene scenery \\
-    > And I be flung into prison by way of hospitality?
-    > 
-    > III \\
-    > A loyal man, with my heart torn by no remorse, \\
-    > I'm suspected of being a Chinese traitor somehow. \\
-    > It has ne'er been easy in life to steer one's course, \\
-    > But how difficult it all has become now!
+    > Having climbed over steep mountains and high peaks, \\
+    > How should I expect on the plains to meet greater danger? \\
+    > In the mountains, I met the tiger and came out unscathed, \\
+    > On the plains, I encountered men, and was thrown into prison.
+    >
+    > I was a representative of Viet-Nam \\
+    > On my way to China to meet an important personage. \\
+    > On the quiet road a sudden storm broke loose, \\
+    > And I was thrust into jail as an honored guest.
+    >
+    > I am a straightfoward man, with no crime on my conscience, \\
+    > But I was accused of being a spy for China. \\
+    > So life, you see, is never a very smooth business, \\
+    > And now the present bristles with difficulties.
 
     The poem is somewhat unusual in being so long; most poems in the book are
     four lines exactly, with some exceptions other than this.
 
-    Minh, Ho Chi (1972). *Prison Diary*, fifth edition. Dang The Binh,
-    translator. Hanoi: Foreign Languages Publishing House, Tien Bo Press.
+    Minh, Ho Chi (1967). *Ho Chi Minh on Revolution: Selected
+    Writings, 1920--66*. Bernard B. Fall, editor. New York: Signet.
+
+    Thank you to Steve Brinson for finding a copy of the same translation used
+    here!
 
 [^smet]:
     De Smet and Van Diest was a Belgian gasoline company before being acquired
@@ -1131,7 +1131,9 @@ reference in the title! And Caliclimber is awesome --- his [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/)
 provided the album images. I hereby dedicate Evening in Stalingrad to him. Go
 check out his site, it rocks. Thanks also to Evan Perez for noting the
-interpolation of Trouble in Mind in Song for the Julian Calendar.
+interpolation of Trouble in Mind in Song for the Julian Calendar, and to
+Steve Brinson for finding the right translation of the Ho Chi Minh poem in the
+liner notes.
 
 ## Further reading ## {#links}
 

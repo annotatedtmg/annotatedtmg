@@ -82,9 +82,90 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 
 *not yet transcribed*
 
-## Going to Bridlington ## {#bridlington}
+## Going to Bridlington [^bridlingtonjohn] [^bridlingtonseries] [^bridlington] ## {#bridlington}
 
-*not yet transcribed*
+Stopped by for the coffee and cake that you promised \\
+Saw your porch light on \\
+Saw your wire-haired terrier [^terrier] \\
+Lazing on the lawn \\
+Came right in through the front door \\
+Went right down the main hall \\
+Turned right into the kitchen \\
+There you were, all right
+
+The moon was rising over Bridlington \\
+And you had blood all over your hands \\
+Someone was singing in the yard next door \\
+And you had blood all over your hands
+
+Sat down on the kitchen floor \\
+Looked up at you \\
+Saw you smoothing down your skirt around your thighs \\
+Wondered what good that was supposed to do \\
+And I saw you pull your hair back \\
+Saw you messing with your earrings [^towardme] \\
+Saw you trying to smile \\
+Hey, you don't have to smile for me
+
+The moon was rising over Bridlington \\
+And you had blood all over your hands \\
+Something was cracking in the rafters of our house [^floorboards] \\
+And you had blood all over your hands \\
+The moon was rising over Bridlington \\
+The moon was rising over Bridlington \\
+The moon was rising
+
+[^bridlingtonjohn]:
+    John has said multiple times that he doesn't like this song: 
+
+    "I have no love for this song because I think it blows esp. the lyrics are
+    plenty lame but am happy if people are getting pleasure from it."
+
+    Mountain Goats forums, [Going to
+    Bridlington](http://www.mountain-goats.com/forums/read.php?2,37630,37759#msg-37759),
+    September 22, 2008, retrieved June 17, 2015.
+
+    "Now, you know, I'll tell you the truth, it's that I don't like that song,
+    but I'll play it, if you want to hear it. ... I mean, I'm gonna play this
+    song, that I don't like, but --- I get into it anyway. \<plays song\>
+
+    "I mean, let me tell you why I don't like it. It's like, it seems like a
+    decent enough idea, but when I hear the chorus, it just sounds like the
+    laziest little placeholder of all time. It just sounds like, 'Yeah, I
+    know, John had an idea, but he was so anxious to get the second verse of
+    it --- yeah, we'll put some blood on the hands in the chorus and we'll
+    come back and fix it later'. But then, I was on a radio show that day, and
+    so I went and played it. Well, then, once you play it on a radio show,
+    then it's set in stone and you must play it the same forever, otherwise
+    you suffer in Hell for eternity, and --- this is an obscure provision of
+    the Bible that you guys don't know about, but I'm here to tell you about
+    it --- radio shows and playing songs the same way. So yeah, so that's what
+    happened with that one. One of these days I'll fix it, maybe, after I
+    retire. It'll be my hobby --- you know, some people woodwork? I'll iron
+    out the choruses of songs that were denied the good choruses they
+    deserved." --- Attucks Theatre, Norfolk, March 20, 2009
+
+[^bridlingtonseries]:
+    Going to Bridlington is part of the [Going to ...
+    series](series.html#goingto).
+
+[^bridlington]:
+    [Bridlington][] is a town in Yorkshire, England.
+
+[bridlington]: https://en.wikipedia.org/wiki/Bridlington
+
+[^terrier]:
+    Likely referring to a [wire fox
+    terrier](https://en.wikipedia.org/wiki/Wire_Fox_Terrier). 
+
+[^floorboards]:
+    Also sung, "Someone was kicking at the floorboards underneath". Attucks
+    Theatre, Norfolk, March 20, 2009
+
+[^towardme]:
+    Also sung, "Saw you look toward me", and "Saw you tie it together". Olde
+    Club, Swarthmore, April 21, 2001; Attucks Theatre, Norfolk, March 20,
+    2009.
 
 ## Going to Buffalo ## {#buffalo}
 
@@ -309,7 +390,9 @@ Hey
 
 Thank you tremendously to Austin Campbell, who transcribed and annotated [I've
 Got the Sex](#gotsex), as well as transcribing [If England Were What England
-Seemed, Then We Would Only Have Our Dreams](#englanddreams)!
+Seemed, Then We Would Only Have Our Dreams](#englanddreams). Similarly, thank
+you to Sam Duncan for transcribing and annotating [Going to
+Bridlington](#bridlington).
 
 As always, thanks to the superlative Caliclimber, whose
 [Flickr](https://www.flickr.com/photos/caliclimber/albums/72157604433641001)
@@ -317,5 +400,3 @@ As always, thanks to the superlative Caliclimber, whose
 provided essential information and release details.
 
 ## Footnotes ## {#footnotes}
-
-*someday!*

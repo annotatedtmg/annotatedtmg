@@ -1,6 +1,6 @@
-# The Annotated Mountain Goats #
+# Hi, we're the Annotated Mountain Goats #
 
-Hi, we're the Annotated Mountain Goats. Welcome!
+Welcome!
 
 This is a comprehesive, accurate, and referenced guide to the first 25 years
 of the music of the Mountain Goats. The site covers the boombox, early studio,

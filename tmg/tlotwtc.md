@@ -100,7 +100,7 @@ Cloaks and capes \\
 Go down to the netherworld \\
 Plant grapes
 
-My house will be for all people who have nowhere to go \\
+My house will be for all people who have nowhere to go [^isaiah567] \\
 My supply of shining crystals a shield against the snow \\
 There's more like me where I come from \\
 So mark our shapes [^shapes] \\
@@ -132,6 +132,17 @@ Plant grapes
     full with grapes. When he reached for either the vine or the water, it
     would recede out of his grasp. It is unknown whether this reference was
     intended.
+
+[^isaiah567]:
+    Likely a reference to [Isaiah 56:7][isaiah567]. This is clearest in the
+    King James Version, which reads, "Even them will I bring to my holy
+    mountain, and make them joyful in my house of prayer: their burnt
+    offerings and their sacrifices shall be accepted upon mine altar; for mine
+    house shall be called an house of prayer for all people."
+
+    Thanks to Sam Duncan for pointing this out!
+
+[isaiah567]: https://www.biblegateway.com/passage/?search=Isaiah%2056%3A7&version=KJV
 
 [^shapes]:
     These lines in 1 Samuel 15:23 and Proverbs 6:27 bear a remarkable
@@ -964,7 +975,8 @@ And I won't get better but someday I'll be free \\
 [^isaiah]:
     "By Myself I have sworn; Truth has gone from My mouth, a word that will
     not be revoked: Every knee will bow to Me, every tongue will swear
-    allegiance." [Isaiah
+    allegiance." Stated very similarly to in the liner notes to [All Hail West
+    Texas](ahwt.html#fn:isaiah4523). [Isaiah
     45:23](http://www.biblegateway.com/passage/?search=Isaiah%2045:23&version=HCSB),
     Holman Christian Standard Bible, retrieved May 16, 2012.
 
@@ -1193,7 +1205,8 @@ the album art, to Harrison Lemke for pointing out additional Biblical
 references in Psalms 40:2 and Isaiah 45:23, to [AKM
 Adam](http://akma.disseminary.org/) for correcting the lyrics of [Romans
 10:9](#fn:list), to Mairead Beeson for noting the [reference to
-Blake](#fn:blake) in Philippians 3:20--21, and to Dan Coffey for mentioning
-the town of Clear Lake near Ames, Iowa.
+Blake](#fn:blake) in Philippians 3:20--21, to Dan Coffey for mentioning the
+town of Clear Lake near Ames, Iowa, and to Sam Duncan for noticing the link to
+[Isaiah 56:7](#fn:isaiah567) in 1 Samuel 15:23.
 
 ## Footnotes ## {#footnotes}

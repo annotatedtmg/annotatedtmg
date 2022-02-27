@@ -461,7 +461,7 @@ Discourse](https://desertislanddiscourse.com/2017/03/18/the-mountain-goats-show-
 "It's cool as fuck... However ... [Venetian blinds](philyra.html#fn:venetian)? Are they a mystery to people?"
 : --- an anonymous English fan who may have a song written about him
 
-"I have no particular conclusion to give in a rambling piece aboutjnothingness, save for my gratitude to God, the Mountain Goats, and \[the author of the Annotated Mountain Goats\], and my hope that all our beings and becomings will find themselves freed from their bonds on some glorious day."
+"I have no particular conclusion to give in a rambling piece about nothingness, save for my gratitude to God, the Mountain Goats, and \[the author of the Annotated Mountain Goats\], and my hope that all our beings and becomings will find themselves freed from their bonds on some glorious day."
 : --- Alyssa Kai, [lyskoi](http://lyskoi.net) and [Ramshackle
 Glory](https://ramshackleglory.bandcamp.com/)
 

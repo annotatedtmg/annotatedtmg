@@ -783,7 +783,7 @@ For what they've done to me
     Retrieved November 26, 2015.
 
     Kirk, J. R. Daniel (2015). [The Gospel According to the Mountain
-    Goats](http://www.jrdkirk.com/2015/07/13/the-gospel-according-to-the-mountain-goats/).
+    Goats](https://web.archive.org/web/20160405171958/http://www.jrdkirk.com/2015/07/13/the-gospel-according-to-the-mountain-goats/).
     Retrieved November 26, 2015.
 
 ## Birth of Serpents [^serpentsjohn] [^serpentsseries] ## {#serpents}

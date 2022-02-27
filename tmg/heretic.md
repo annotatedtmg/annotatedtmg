@@ -74,17 +74,17 @@ Babaji,[^vamsidasajohn] [^vamsidasa] [^vamsidasaseries] as they are all tagged a
     still included it in the [Song for ... series](series.html#songfor)), but
     that the tagging was part of his organization process:
 
-    I feel like I addressed this at one point, maybe with a different title,
-    but: back in the old days, when every time I'd write a song it'd go on a
-    tape, the tapes had their own titles. Occasionally these titles would go
-    on to title a release ("Beautiful Rat Sunset" was one of them) but more
-    often they were just spur-of-the-moment/whimsical/inside-joke titles. Now
-    that demos are stored on a hard drive instead of on tapes, the playlists
-    have titles like that. That's all. There is no "Songs for Vamsidasa
-    Babaji," but there are a bunch of demos whose tags claim that they come
-    from such an album The more you know!
-
-    tap-tap no followup questions lawl
+    > I feel like I addressed this at one point, maybe with a different title,
+    > but: back in the old days, when every time I'd write a song it'd go on a
+    > tape, the tapes had their own titles. Occasionally these titles would go
+    > on to title a release ("Beautiful Rat Sunset" was one of them) but more
+    > often they were just spur-of-the-moment/whimsical/inside-joke titles.
+    > Now that demos are stored on a hard drive instead of on tapes, the
+    > playlists have titles like that. That's all. There is no "Songs for
+    > Vamsidasa Babaji," but there are a bunch of demos whose tags claim that
+    > they come from such an album The more you know!
+    >
+    > tap-tap no followup questions lawl
 
     Mountain Goats forums. [songs for vamsidasa
     babaji](http://www.mountain-goats.com/forums/read.php?2,16290,16322#msg-16322).

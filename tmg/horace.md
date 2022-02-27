@@ -42,9 +42,9 @@ HEUS FORTUNA QUID CRUDELIOR [^heu]
 TRANSMISSIONS TO HORACE was recorded 12/7/92 & seq. by the Mountain Goats in
 California and is:
 
-1. Going to Cleveland 2. Early Spring 3. Historiography 4. No, I Can't. Alpha
-Desperation March 6. Going to Monaco 7. Star Dusting 8. Teenage World 9. Going
-to Santiago 10. Sail On.
+1\. Going to Cleveland 2. Early Spring 3. Historiography 4. No, I Can't. 5.
+Alpha Desperation March 6. Going to Monaco 7. Star Dusting 8. Teenage World
+9\. Going to Santiago 10. Sail On.
 
 HEUS FORTUNA HEUS FORTUNA HEU [^heu]
 
@@ -251,7 +251,7 @@ And I know you
 There was rain \\
 There was wind \\
 There was spring coming in \\
-There was a feeling approaching doom \\
+There was a feeling of approaching doom \\
 And I was happy to see you \\
 And it was cold in your room \\
 And you were warm and that's all I remember \\
@@ -272,7 +272,7 @@ And your hands were soft and that's all I remember \\
 And the hall was well-lit as I walked down it and that's all I remember \\
 And the rain was light and it felt soft on my face and that's all I remember \\
 And the car was quiet inside and that's all I remember \\
-And it was talk but the sunlight was coming and that's all I remember
+And it was dark but the sunlight was coming and that's all I remember
 
 [^historiography]:
     [Historiography](https://en.wikipedia.org/wiki/Historiography) is the
@@ -754,6 +754,8 @@ sample that introduces Going to Santiago. Soren is the host of the tMG radio
 show Isopanisad Radio Hour
 ([Soundcloud](https://soundcloud.com/user-438627870/),
 [Facebook](https://facebook.com/IsopanisadRadioHour/)) which readers of this
-site are most likely sufficiently obsessive to enjoy a great deal.
+site are most likely sufficiently obsessive to enjoy a great deal. Finally,
+thanks to Sam Duncan for his eagle eye which corrected some errors in
+the Historiography lyrics and liner notes.
 
 ## Footnotes ## {#footnotes}
