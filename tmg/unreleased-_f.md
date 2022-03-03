@@ -270,7 +270,7 @@ Headed down to the ark
     cosmic war between good and evil, and describes the coming of the Four
     Horsemen of the Apocalpyse, followed by mass slaughter, death, and
     suffering. Ultimately, Jesus promises to return with an army of angels and
-    creates a new world, known as the Second Coming.
+    create a new world, known as the Second Coming.
 
     As Revelation progresses, the Throne of God appears with a scroll covered
     with seven seals. The opening of the seals release the Horsemen and other
@@ -353,7 +353,7 @@ Headed down to the ark
 
 [^serpent]:
     Throughout the Bible, beginning in Genesis with Adam, Eve, the snake, and
-    the apple, serpents are associated with Satan. Specifically to Revelation,
+    the apple, serpents are associated with Satan. In Revelation specifically,
     a dragon --- equivalently called the ancient serpent --- arises,
     identified with Satan, and wages war against Heaven. Michael, chief among
     the archangels, fights the dragon and defeats it.
