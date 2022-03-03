@@ -567,8 +567,18 @@ I sure do love you
     between the sex center of your brain and the anger center gets crossed."
     --- Argo, Denton, September 11, 1996
 
+    John has discussed Orange Ball of Hate in the context of other Alpha
+    songs, suggesting that it is both about the Alpha couple and one of the
+    few songs specifically sung from one member of the couple ---
+    specifically, the husband, given the gendered pronoun in the opening
+    verse. William Caxton Fan Club, [Hi! Tallahassee has been one of my
+    favorite
+    albums...](https://johndarnielle.tumblr.com/post/119711150476/hi-tallahassee-has-been-one-of-my-favorite-albums),
+    retrieved March 3, 2022.
+
 [^hateseries]:
-    Orange Ball of Hate is part of the [Orange Ball of ...
+    Orange Ball of Hate is part of the [Alpha couple
+    series](series.html#alpha) and [Orange Ball of ...
     series](series.html#orangeball).
 
 [^smoking]:

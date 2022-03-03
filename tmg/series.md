@@ -172,6 +172,7 @@ The following songs are generally considered to be Alpha couple songs.
 | [Oceanographer's Choice](tallahassee.html#oceanographer) | Tallahassee | 2002 |
 | [Old College Try](tallahassee.html#college) | Tallahassee     | 2002      |
 | [One Winter at Point Alpha Privative](taboo.html#privative) | Taboo VI: The Homecoming | 1992 |
+| [Orange Ball of Hate](zopilote.html#hate) | Zopilote Machine  | 1994      |
 | [Peacocks](tallahassee.html#peacocks) | Tallahassee           | 2002      |
 | [See America Right](tallahassee.html#america) | Tallahassee; See America Right | 2002 |
 | [Southwood Plantation Road](tallahassee.html#southwood) | Tallahassee | 2002 |
