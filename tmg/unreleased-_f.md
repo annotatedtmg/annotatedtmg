@@ -257,8 +257,8 @@ Headed down to the ark
     references](series.html#bible).
 
 [^ark]:
-    Given that John was considering Revelation in writing the song [see
-    below](#fn:ivoted), this more likely refers to the [Ark of the
+    Given that John was considering Revelation in writing the song ([see
+    below](#fn:ivoted)), this more likely refers to the [Ark of the
     Covenant][covenant] than [Noah's Ark][noah]. The Ark of the Covenant is a
     chest believed to contain the stone tablets inscribed with the Ten
     Commandments, brought down by Moses from Mount Sinai. The location and
