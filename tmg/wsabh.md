@@ -354,9 +354,12 @@ And the headstones climbed up the hills
 [^yajnajohn]:
     "It's about all my old friends up in Portland, may most of them rest in
     peace." --- Mains d'Oeuvres, Mofo Festival, Paris, France, June 27, 2003.
-    See also Opalis, Norman, Oklahoma, November 13, 2002; VPRO session, Amstel
-    Festival, December 7, 2002; Mains d'Oeuvres, Mofo Festival, Paris, June
-    27, 2003.
+    See also VPRO session, Amstel Festival, December 7, 2002; Mains d'Oeuvres,
+    Mofo Festival, Paris, June 27, 2003.
+
+    "... \[This is\] about a bunch of people I used to know. I have moved them
+    from Portland, where I knew them, to Pomona, where I'm glad I didn't know
+    them." ---Opalis, Norman, Oklahoma ... November 13, 2002.
 
     "... \[This is\] a song about methamphetamine abuse." ---Troubadour, Los
     Angeles, December 16, 2011
