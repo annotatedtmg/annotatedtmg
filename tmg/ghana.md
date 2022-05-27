@@ -9,8 +9,8 @@ meta:   Annotated lyrics for the Mountain Goats album Ghana.
 ![Back of Ghana](media/ghana-back.jpg)
 {: .release-art}
 
-Released: 1999; 2002 \\
-Label: Ajax; 3 Beads of Sweat
+Released: 2002 \\
+Label: 3 Beads of Sweat
 
 *[Jump to the table of contents](#contents){: .jump}*
 

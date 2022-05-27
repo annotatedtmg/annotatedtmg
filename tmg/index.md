@@ -210,7 +210,7 @@ other compilations page.
 | __Title__                         | __Year__ | __Label__        | __Format__ |
 |:--------------------------------------+:-----+:-----------------+:----|
 | - [The Hound Chronicles](hound.html)/[*Hot Garden Stomp*](stomp.html) | 2012 | Shrimper | CD |
-| [Ghana](ghana.html)                   | 1999; 2002 | Ajax; 3 Beads of Sweat | CD |
+| [Ghana](ghana.html)               | 2002     | 3 Beads of Sweat | CD  |
 | [Bitter Melon Farm](bitter.html)      | 1999; 2002 | Ajax; 3 Beads of Sweat | CD |
 | [Protein Source of the Future... NOW!](protein.html) | 1999; 2002 | Ajax; 3 Beads of Sweat | CD |
 | - [*other compilation appearances*](compilation.html) | |           |     |
