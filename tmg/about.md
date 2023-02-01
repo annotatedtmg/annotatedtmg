@@ -8,6 +8,9 @@ info:   Biographical and website information
 
 You can reach me at: {% include root.contact %}
 
+I love hearing from you, but it can take me a long time to reply. I'm very
+sorry and hope you understand.
+
 # Site information # {#site}
 
 Why .org? [RFC 1591][].
@@ -54,6 +57,12 @@ help.
 Thank you for considering helping out with the site! There's lots to do.
 Corrections, suggestions, feedback, and other input is always welcome. A guide
 for contributing is available in the [git repository][repo].
+
+As you've probably noticed, I have an obsessive and meticulous approach, which
+unfortunately leads to very long delays in replying to people and making
+updates. Please forgive me. I am always delighted by contributions and do make
+my way through them, but it's slow. Feel free to reach out again if you're
+concerned your message was lost or forgotten.
 
 If you're curious about what would help and wanted to contribute directly, a
 number of albums need lyrics and annotations. You can see which ones these are
