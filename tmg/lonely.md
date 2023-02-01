@@ -941,7 +941,7 @@ Watching them go where they will go
     Edition*](https://en.wikipedia.org/wiki/Ariel_(poetry_collection)). New
     York: Harper Perennial. ISBN 978-0-06-073260-8
 
-## Woke Up New [^newjohn] [^newvideo]## {#new}
+## Woke Up New [^newjohn] [^newvideo] ## {#new}
 
 On the morning when I woke up without you for the first time \\
 I felt free and I felt lonely and I felt scared \\
