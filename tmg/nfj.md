@@ -564,7 +564,7 @@ And his little song \\
 Is a very pretty song \\
 But it's something I won't stand for
 
-And as the sun rises over Columbia \\
+And as the sun rises over Colombia \\
 I know we're done for
 
 When the holes started forming in the tent \\
@@ -574,11 +574,11 @@ But I didn't want to hurt you \\
 And if I knew how to form the words \\
 I would ask you what you'd come for
 
-But as the sun rises over Columbia \\
+But as the sun rises over Colombia \\
 I know we're done for \\
-Yeah, as the sun rises over Columbia \\
+Yeah, as the sun rises over Colombia \\
 I know we're done for \\
-As the sun rises over Columbia \\
+As the sun rises over Colombia \\
 I know we're done for
 
 [^bogotaseries]:
