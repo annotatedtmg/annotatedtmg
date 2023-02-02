@@ -907,7 +907,7 @@ No brothers left, and there'll be no more after me [^toad] [^others]
 
 [^tiger]:
     This refers to the thylacine (or Tasmanian tiger), which became extinct in
-    1936. The last known thylacine died in captivity in the Hobart Zoo in
+    1936\. The last known thylacine died in captivity in the Hobart Zoo in
     Australia, as described here. John confirmed that this is about the
     thylacine at the Troubadour show on December 16, 2011.  McKnight, M.
     (2008) *[Thylacinus

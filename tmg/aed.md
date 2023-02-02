@@ -855,7 +855,7 @@ Where the snakes get born
     around for a long time, I slept for two hours and I woke up and I wrote
     the lyric and put it to bed for three months, and when I woke it back up
     this is the song that came out." --- Cat's Cradle, Carrboro, April 8,
-    2011. See also Wexner Center, Columbus, April 11, 2011; Varsity Theater,
+    2011\. See also Wexner Center, Columbus, April 11, 2011; Varsity Theater,
     Minneapolis, June 14, 2011; Lollapalooza, Chicago, August 5, 2011; The
     Metro, Sydney, May 6, 2012.
 

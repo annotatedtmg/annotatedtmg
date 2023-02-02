@@ -504,7 +504,7 @@ We're going downtown
     people I knew in Portland up around 13th and Taylor. And that is in fact
     is where this song takes place, but that's a secret. It is about our
     mutual friends, the tweak fiends." --- Berbati's Pan, Portland, October 3,
-    2003. See also Wow Hall, Eugene, June 21, 2005.
+    2003\. See also Wow Hall, Eugene, June 21, 2005.
 
     "I challenged myself to not write love songs, and instead to write songs
     about junkies... I have a lot of dead friends, this is about some of

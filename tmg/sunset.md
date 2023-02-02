@@ -520,7 +520,7 @@ For Christ's sake
 [^dilaudidjohn]:
     "This is a song about how when you're in love but you know it's going to
     hell, you take drugs and have sex." --- Canopy Club, Urbana, October 12,
-    2005. See Andy Warhol Museum, Pittsburgh, September 20, 2006; Black Cat,
+    2005\. See Andy Warhol Museum, Pittsburgh, September 20, 2006; Black Cat,
     Washington, DC, September 20, 2007; Bluebird Theater, Denver, October 17,
     2008.
 
@@ -821,7 +821,7 @@ But there's gonna be a party when the wolf comes home
     York, October 1, 2007. See also Showbox, Seattle, December 17, 2012.
 
     "This is a song for survivors." --- Troubadour, Los Angeles, December 16,
-    2011. See also Bowery Ballroom, New York, October 15, 2012;
+    2011\. See also Bowery Ballroom, New York, October 15, 2012;
     Burkirk-Chumley Theatre, Bloomington, June 15, 2013.
 
     "When people talk about triumph over adversity, adversity sounds like a

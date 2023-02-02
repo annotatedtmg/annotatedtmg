@@ -371,7 +371,7 @@ With my bare fingers
     time I have a pretty good idea of what's going on with the people, and I
     don't really know what is behind the refrigerator in this song. I hope
     someday to find out." --- Swedish-American Hall, San Francisco, June 28,
-    2012. See also McCabe's Guitar Shop, Santa Monica, June 30, 2012.
+    2012\. See also McCabe's Guitar Shop, Santa Monica, June 30, 2012.
 
     "I'm pretty sure that both the people in it are crazy, and I know --- I
     have people that I talk to about, like, trying to, like, eliminate the

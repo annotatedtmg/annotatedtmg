@@ -1110,7 +1110,7 @@ When the scum begins to circle the drain
 
     Mountain Goats news.
     [Julekage](http://www.mountain-goats.com/archives/2006/12/). December 17.
-    2006. Retrieved April 8, 2014.
+    2006\. Retrieved April 8, 2014.
 
 [^halloween]:
     Michael Myers is the masked antagonist of the slasher film series
