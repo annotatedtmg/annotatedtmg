@@ -204,7 +204,7 @@ When I bring my curses home
     connections --- I have no evidence that these inspired the song title):
 
     1. In J. R. R. Tolkien's superb novel [*The
-    Hobbit](https://en.wikipedia.org/wiki/The_Hobbit), the story opens with
+    Hobbit*](https://en.wikipedia.org/wiki/The_Hobbit), the story opens with
     Bilbo Baggins involuntarily entertaining the wizard Gandalf and a company
     of thirteen dwarves, led by Thorin Oakenshield, who are attempting to
     convince the reluctant hobbit to join them on their quest to recover their
