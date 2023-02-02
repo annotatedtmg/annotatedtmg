@@ -978,7 +978,7 @@ I'm gonna wriggle up on dry land
     figure out why I'm gonna right a self-help book about it. But in the
     meantime, this is a song about the headphones that were most important to
     me when I was 14." --- Durham Armory, Durham Be Easy Festival, August 14,
-    2009. See also Troubadour, Los Angeles, December 13, 2012.
+    2009\. See also Troubadour, Los Angeles, December 13, 2012.
 
     John has explained that this describes a literally true story. Duke
     Coffeehouse, Durham, November 5, 2005; 9:30 Club, Washington, DC, November
