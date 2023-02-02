@@ -299,7 +299,7 @@ This morning I know who you are
     Britain*](https://en.wikipedia.org/wiki/New_Britain_(album)) by the
     English band
     [Whitehouse](https://en.wikipedia.org/wiki/Whitehouse_(band)), released in
-    1982. Like their other albums, this set the stage for industrial music to
+    1982\. Like their other albums, this set the stage for industrial music to
     come.
 
     Other allusions in this title include the following. [New
