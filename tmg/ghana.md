@@ -822,7 +822,7 @@ There is nothing
     Legacy Tobacco Documents Library, UCSF. [William Esty Company, Camel
     Cigarettes, The Camel
     Program](http://legacy.library.ucsf.edu/tid/khw03d00). Aired April 29,
-    1943. Retrieved October 31, 2014.
+    1943\. Retrieved October 31, 2014.
 
 [^cool]:
     Originally released on the *Cool Beans! #4* compilation 7", which came
