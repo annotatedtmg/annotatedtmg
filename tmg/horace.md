@@ -418,16 +418,18 @@ Yeah
     socks; a starfish; a Panasonic DX-4500 with dual cassette heads; a
     Panasonic AM/FM DX-4500; a Panasonic DX-4800 with dual cassette decks; a
     Panasonic RX-FT500, the one with the dual cassette decks (also erroneously
-    sung as RX-FT5000); a camera; a monkey jug; a pound of coffee; a reading
-    light; some pastels; some whiskey; a glass; fine silverware; a WHPK coffee
-    mug; plateware; a Marantz PMD200 Professional Series; a really nice,
-    really old Panasonic; an original 1978 copy of *Ça plane pour moi* by
-    Plastic Bertrand; a voter registration form which I'm extraordinarily
-    grateful for; a wristwatch; a notebook; some plants; a subscription to
-    *Road & Track*; a subscription to *Donk, Box & Bubble*, a blanket; a
-    television; a record; brand-new microphone cable; a copy of Arab Strap's
-    *The Weekend Never Starts Around Here*; the truly outstanding Arab Strap
-    record; a sandwich; a table; a typewriter; and a Dictaphone.
+    sung as RX-FT5000); a Panasonic SS-4700 with dual cassettes; a camera; a
+    monkey jug; a pound of coffee; a reading light; some pastels; some
+    whiskey; a glass; fine silverware; a WHPK coffee mug; plateware; a Marantz
+    PMD200 Professional Series; a really nice, really old Panasonic; an
+    original 1978 copy of *Ça plane pour moi* by Plastic Bertrand; a voter
+    registration form which I'm extraordinarily grateful for; a wristwatch; a
+    notebook; some plants; a subscription to *Road & Track*; a subscription to
+    *Donk, Box & Bubble*, a blanket; a television; a record; brand-new
+    microphone cable; a copy of Arab Strap's *The Weekend Never Starts Around
+    Here*; the truly outstanding Arab Strap record; a sandwich; a table; a
+    typewriter; a Dictaphone; an asp; a microphone; a Mr. Microphone; and a
+    Fisher-Price toy microphone.
 
     If you know of others, please [let me know](../about.html#contact) and I'd
     love to hear about it!
@@ -438,13 +440,14 @@ Yeah
     August 8, 2009 10:58 AM, retrieved July 17, 2014.
 
     Baystate, Northampton, August 23, 1994; Fast Forward II, April 2004; VPRO
-    session, April 19, 1995; Garage, London, March 20, 1996; Duke Coffeehouse,
-    Durham, April 4, 1997; Crossing Border, Amsterdam, October 9, 1999;
-    Guinguette Pirate, Paris, July 2, 2003; Dennis Kucinich benefit, San
-    Francisco, February 11, 2004; Chameleon, San Francisco, January 15, 1995;
-    Lintfabrik, Kontich, Belgium, March 16, 1996; Spitz, London, February 6,
-    2003; Strand, York, Pennsylvania, June 4, 2013; Under Acme, New York,
-    August 18, 1994; Bottom of the Hill, San Francisco, June 14, 2014.
+    session, April 19, 1995; Tower, Bremen, February 25, 1996; Garage, London,
+    March 20, 1996; Duke Coffeehouse, Durham, April 4, 1997; Crossing Border,
+    Amsterdam, October 9, 1999; Guinguette Pirate, Paris, July 2, 2003; Dennis
+    Kucinich benefit, San Francisco, February 11, 2004; Chameleon, San
+    Francisco, January 15, 1995; Lintfabrik, Kontich, Belgium, March 16, 1996;
+    Spitz, London, February 6, 2003; Strand, York, Pennsylvania, June 4, 2013;
+    Under Acme, New York, August 18, 1994; Bottom of the Hill, San Francisco,
+    June 14, 2014.
 
 ## Alpha Desperation March [^desperationseries] ## {#desperation}
 

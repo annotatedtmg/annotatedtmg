@@ -133,7 +133,7 @@ But the Devil is in the details [^details]
 
 ## No, I Can't ## {#cant}
 
-No, I Can't is annotated with Transmissions to Horace.
+No, I Can't is annotated with [Transmissions to Horace](horace.html#no).
 
 ## Song for Dana Plato [^danaplatojohn] [^danaplatoseries] [^danaplato] ## {#danaplato}
 
