@@ -351,7 +351,7 @@ Shower and Tampa are outtakes from the album.
 
 ## Jaipur [^jaipurseries] [^jaipur] ## {#jaipur}
 
-*This house is so haunted with dead men I can't lose* [^bessiesmith]
+*"This house is so haunted with dead men I can't lose"* [^bessiesmith]
 
 I was having visions of sugared pastry \\
 Cooked up in clarified butter [^ghee] \\

@@ -239,9 +239,9 @@ We stood on the shore, we heard the old songs, hey!
 
 ## Sendero Luminoso Verdadero [^sendero] ## {#sendero}
 
-*As they age, men encounter the 6th fear --- loss of virility. Just look him
+*"As they age, men encounter the 6th fear --- loss of virility. Just look him
 straight in the eye, invade his space by standing a little closer than
-normal...* [^selfhelp]
+normal..."* [^selfhelp]
 
 By 8:30 am the sun was so hot that it made me remember \\
 And I pulled on the jacket with the bars on the pocket \\

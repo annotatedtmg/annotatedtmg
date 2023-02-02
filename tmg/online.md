@@ -1519,7 +1519,7 @@ Up on the top line
 
 ## Thucydides II -- 58 [^thucydidesjohn] [^thucydides] ## {#thucydides}
 
-*One, two, three, and*
+*"One, two, three, and."*
 
 Red face at noon \\
 Strip naked we can't get free \\
