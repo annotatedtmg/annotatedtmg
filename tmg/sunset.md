@@ -121,9 +121,6 @@ Label: 4AD
         Your browser doesn't support the HTML5 audio tag: consider upgrading!
     </audio>
 
-    [download](media/tyrolese-evening-hymn.m4a)
-    {: .download}
-
     Hemans, Felicia. [*Tyrolese Evening
     Hymn*](https://jscholarship.library.jhu.edu/handle/1774.2/19630). Levy
     Sheet Music Collection, Box 115, Item 133, Johns Hopkins University.
