@@ -71,11 +71,64 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 
 ## Going through Pomona ## {#pomona}
 
-*not yet transcribed*
+The lights are on in your room, so tell me \\
+Who's your friend? \\
+And the lights are burning in the \\
+Little house on East End
+
+And I remembered who I was \\
+And what I came here for \\
+The moon was caught \\
+High in the branches of the sycamore
+
+And on my neck \\
+I felt the cold wind \\
+And it licked around my ears and it asked me to ask you \\
+Yeah --- who's your friend?
+
+And the lights came down over Pomona \\
+Blazed again before your front door \\
+The moon was caught \\
+High in the branches of the sycamore
 
 ## Going to Brazil ## {#brazil}
 
-*not yet transcribed*
+*"For the record, this is the fifth attempt at get --- Going to Brazil."*
+
+You've got something magic in your eyes \\
+You don't have to say you're sorry \\
+You've got a sentence waiting on your tongue \\
+Pronounce it now
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+I'm going to South America \\
+Don't wait up for me
+
+You've got what I need but I can't have it \\
+That's all right \\
+You're everything I want and I can't touch you \\
+Let me touch you anyhow
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah, I am going to South America \\
+Don't wait up for me
+
+I've got what you want but that's enough of that \\
+That'll be enough of that for now \\
+It's gonna clear cut twenty thousand acres \\
+When I touch your hair
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah, I am going to South America \\
+Don't wait up for me
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah I am going to South America \\
+Don't wait up for me
 
 ## Going to Bridlington [^bridlingtonjohn] [^bridlingtonseries] [^bridlington] ## {#bridlington}
 
