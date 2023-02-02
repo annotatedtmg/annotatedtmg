@@ -207,7 +207,7 @@ Lakeside view for my whole crew
 Some things you do just to see \\
 How bad they'll make you feel \\
 Sometimes you try to freeze time \\
-'Til those thoughts are a blur of spinning wheels
+'Til the slots are a blur of spinning wheels
 
 But I am just a broken machine \\
 And I do things that I don't really mean \\
