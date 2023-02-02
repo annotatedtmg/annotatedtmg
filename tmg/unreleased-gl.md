@@ -26,7 +26,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 ### Table of contents ### {#contents}
 
 * [Garbage Eaters](#eaters)
-* [Get High and Listen to the Cure](#gethigh)
 * [Going through Pomona](#pomona)
 * [Going to Brazil](#brazil)
 * [Going to Bridlington](#bridlington)
@@ -67,10 +66,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 {: .none}
 
 ## Garbage Eaters ## {#eaters}
-
-*not yet transcribed*
-
-## Get High and Listen to the Cure ## {#gethigh}
 
 *not yet transcribed*
 
