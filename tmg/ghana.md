@@ -130,7 +130,7 @@ generally monstrous feel. Recommended musical accompaniment: Frank Sinatra's
 
 [^luke1311]:
     A reference to the suffering of an old woman, whom Jesus heals. The phrase
-    originates from[Luke
+    originates from [Luke
     13:11](https://www.biblegateway.com/passage/?search=Luke%2013:11&version=KJV):
 
     > And, behold, there was a woman which had a spirit of infirmity eighteen
