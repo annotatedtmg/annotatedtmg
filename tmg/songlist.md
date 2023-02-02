@@ -233,7 +233,6 @@ if you figure out what they are, get in touch :)
 * [Feed This End](stomp.html#feed)
 * [Fire Editorial](champ.html#editorial)
 * [First Few Desperate Hours](tallahassee.html#hours)
-* Flash Drives and Firearms
 * [Flashing Lights](sweden.html#lights)
 * [Flight 717: Going to Denmark](ghana.html#denmark)
 * [Flower Song](unreleased-_f.html#flower)
