@@ -32,7 +32,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Going to Buffalo](#buffalo)
 * [Going to Dade County](#dade)
 * [Going to France](#france)
-* [Going to Malibu](#malibu)
 * [Going to Palestine](#palestine)
 * [Going to San Diego](#sandiego)
 * [Going to Some Damned English City](#damnedcity)
@@ -308,10 +307,6 @@ Right now
     1994.
 
 ## Going to France ## {#france}
-
-*not yet transcribed*
-
-## Going to Malibu ## {#malibu}
 
 *not yet transcribed*
 
