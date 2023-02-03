@@ -246,9 +246,10 @@ nav ul {
         list-style-type: none;
         padding: 0px;
         margin: 0px;
+        text-align: center;
 
     li {
-        display: inline;
+        display: inline-block;
         padding: 0px;
         margin: 0px 4px 0px 0px;
 
@@ -256,6 +257,18 @@ nav ul {
             padding: 0px;
             margin: 0px;
             text-decoration: none;
+        }
+
+        &:first-child {
+            margin-right: 50px;
+        }
+
+        &:nth-last-child(2) {
+            margin: 0px;
+        }
+
+        &:last-child {
+            margin-left: 50px;
         }
     }
 }
@@ -270,24 +283,6 @@ nav a {
         text-shadow: 0px 0px 8px $lgt_blue;
     }
 }
-
-nav #home {
-    float: left;
-    width: 15%;
-}
-
-nav #nav-content {
-    float: left;
-    width: 70%;
-    text-align: center;
-}
-
-nav #nav-about {
-    float: right;
-    width: 15%;
-    text-align: right;
-}
-
 
 /* Configurations for the Annotated tMG */
 #tmg .footnotes {
