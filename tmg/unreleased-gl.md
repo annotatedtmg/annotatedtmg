@@ -281,7 +281,31 @@ To breathe
 
 ## Going to Dade County ## {#dade}
 
-*not yet transcribed*
+When the rainbows disappeared from the skies of northern Florida \\
+'Cause the rain had gone away \\
+And I looked out on the front lawn and I saw you there \\
+It was 6:31 AM on a Saturday
+
+And you turned into a housecat \\
+And you all think I'm making this part up \\
+But you're wrong
+
+And the wind came through the window \\
+And licked at my face \\
+And I heard the sound of about a thousand housecats [^tomcats] \\
+Squalling up from all over the place
+
+And you all think I'm crazy \\
+Or trying to make up some kind of a cheap story \\
+Or telling little stories to amuse myself with \\
+But you're wrong
+
+I am going to Dade County \\
+Right now
+
+[^tomcats]:
+    Also sung, "... a thousand tomcats". Under Acme, New York, August 18,
+    1994.
 
 ## Going to France ## {#france}
 
