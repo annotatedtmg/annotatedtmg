@@ -19,17 +19,13 @@ Why .org? [RFC 1591][].
 
 This website was written with [vim][] on [Linux][] systems. The site is
 generated with [Jekyll][] using [kramdown][], an excellent extended
-implementation of [Markdown][], to produce the HTML. Many of the non-HTML
-documents were written in [LaTeX][], particularly using the [TeX Live
-distribution][texlive]. I highly recommend all of these fine pieces of
-software.
+implementation of [Markdown][], to produce the HTML. I highly recommend all of
+these fine pieces of software.
 
 [linux]:        https://archlinux.org/
 [kramdown]:     http://kramdown.gettalong.org
-[latex]:        http://www.latex-project.org
 [markdown]:     http://daringfireball.net/projects/markdown/
 [python]:       http://python.org
-[texlive]:      http://www.tug.org/texlive
 [vim]:          http://www.vim.org
 [jekyll]:       http://jekyllrb.com
 
