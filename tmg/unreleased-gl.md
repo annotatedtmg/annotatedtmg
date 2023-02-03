@@ -30,7 +30,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Going to Brazil](#brazil)
 * [Going to Bridlington](#bridlington)
 * [Going to Buffalo](#buffalo)
-* [Going to California](#california)
 * [Going to Dade County](#dade)
 * [Going to France](#france)
 * [Going to Malibu](#malibu)
@@ -65,9 +64,42 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Footnotes](#footnotes)
 {: .none}
 
-## Garbage Eaters ## {#eaters}
+## Garbage Eaters [^eatersjohn] ## {#eaters}
 
-*not yet transcribed*
+I recognize your dirty face \\
+I know you're from uptown \\
+Hold your head high \\
+Hold your head high
+
+We're going to colonize this place \\
+And stop the sun from going down \\
+By and by all right \\
+By and by
+
+Keep your countenance as bright as can be \\
+And hold the dumpster open for me \\
+Me
+
+The water level's going down \\
+The table's never going to rise \\
+We will be all right \\
+We will be all right
+
+Come in alone, go out alone \\
+Feel lonesome in between \\
+Keep your hands wet \\
+In the red clay
+
+Let your light be a beacon \\
+To cruel and heartless men \\
+Learn from your mistakes \\
+Then make the same mistakes again \\
+Hey
+
+[^eatersjohn]:
+    Written for a friend's wedding. "As most wedding songs are called
+    eventually, it's called Garbage Eaters. It's a love song." --- Cat's
+    Cradle, Carrboro, July 17, 2004.
 
 ## Going through Pomona ## {#pomona}
 
@@ -217,11 +249,35 @@ The moon was rising
 
 ## Going to Buffalo ## {#buffalo}
 
-*not yet transcribed*
+Lay down just a little while \\
+Honey lemon chamomile \\
+Very soon the plane's coming in
 
-## Going to California ## {#california}
+One hour worth of quicksand \\
+The glass warm against your hand \\
+Very soon the airplane will take me away
 
-*not yet transcribed*
+I will nuzzle up against you and then \\
+I will never see you again
+
+Fires burning  \\
+The world's turning \\
+Around
+
+Words that lose their meanings \\
+And then swell up like balloons \\
+Very soon the taxi will come
+
+All the lies you told me \\
+Can no longer hold me \\
+Very soon the taxi will take me away
+
+I will forget how you've done me wrong \\
+How you've strung me along
+
+Fires burning \\
+Burning \\
+To breathe
 
 ## Going to Dade County ## {#dade}
 

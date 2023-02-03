@@ -289,6 +289,7 @@ period, these categories include songs through 2018.
 | - [*Martial Arts Weekend*](martial.html) | 2002 | Absolutely Kosher | CD |
 | + [*Infidelity + 2*](infidelity.html) | 1994 | Harriet        | 7"    |
 | + [*other appearances*](teg-compilation.html) | |             |       |
+| - [*unreleased songs*](teg-unreleased.html) | |               |       |
 |:------------------------------+:-----+:-------------------+:------|
 | __The Seneca Twins__          |      |                    |       |
 |:------------------------------+:-----+:-------------------+:------|
