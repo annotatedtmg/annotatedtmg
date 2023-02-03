@@ -612,7 +612,7 @@ God is my salvation [^johnson]
     49). While many versions lack this final stanza, some later versions add
     it in. See for example Brave Boys: New England Traditions in Folk Music,
     released by New World Records, which includes such a recording made in
-    1964. The song itself depicts the murder of a boy by his brother.
+    1964\. The song itself depicts the murder of a boy by his brother.
 
 ## Twin Human Highway Flares [^twinhumanjohn] [^twinhumanseries] ## {#twinhuman}
 
