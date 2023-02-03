@@ -176,7 +176,6 @@ Climb the turnbuckle high \\
 Take two falls out of three \\
 Black out for local TV
 
-
 ## The Legend of Chavo Guerrero [^legendjohn] [^legendvideo] ## {#legend}
 
 Born down in El Paso, where the tumbleweeds blow \\
@@ -230,9 +229,9 @@ Chavo Guerrero coming off the top rope
     January 20, 2015, retrieved July 29, 2019.
 
 [^legendvideo]:
-  The [music video](https://www.youtube.com/watch?v=Q9YvDfiAXT8), stylized as
-  an '80s VHS-tape, features JD and the real Chavo Guerrero Sr. and a number
-  of others in various ring/ringside activities.
+    The [music video](https://www.youtube.com/watch?v=Q9YvDfiAXT8), stylized
+    as an '80s VHS-tape, features JD and the real Chavo Guerrero Sr. and a
+    number of others in various ring/ringside activities.
 
 ## Foreign Object [^foreignobject] ## {#foreign}
 
@@ -266,14 +265,15 @@ Ba, ba da da, ba ba ba da, foreign object \\
 Ba, ba da da, ba ba ba da, foreign object
 
 [^foreignobject]:
-  A [foreign
-  object](https://en.wikipedia.org/wiki/Glossary_of_professional_wrestling_terms#foreign_object)
-  is an object inserted into a professional wrestling match, typically
-  contravening the official rules of the game. Various [types and
-  methods](https://prowrestling.fandom.com/wiki/Foreign_object) have been used
-  --- often by [Eddie Guerrero](https://en.wikipedia.org/wiki/Eddie_Guerrero),
-  Chavo Sr.'s brother, in line with his "I lie! I cheat! I steal!" catchphrase
-  anm persona.
+    A [foreign
+    object](https://en.wikipedia.org/wiki/Glossary_of_professional_wrestling_terms#foreign_object)
+    is an object inserted into a professional wrestling match, typically
+    contravening the official rules of the game. Various [types and
+    methods](https://prowrestling.fandom.com/wiki/Foreign_object) have been
+    used --- often by [Eddie
+    Guerrero](https://en.wikipedia.org/wiki/Eddie_Guerrero), Chavo Sr.'s
+    brother, in line with his "I lie! I cheat! I steal!" catchphrase anm
+    persona.
 
 ## Animal Mask ## {#animal}
 
