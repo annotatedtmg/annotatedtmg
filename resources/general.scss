@@ -7,9 +7,6 @@ info:   Sitewide CSS file
     Location: ~/general.css (http://annotatedtmg.org/general.css)
 */
 
-// margin order reminder:
-//     margin: top right bottom left;
-
 // fonts
 $fonts_sans:    "DejaVu Sans", "Bitstream Vera Sans", sans-serif;
 $fonts_serif:   "DejaVu Serif", "Bitstream Vera Serif", serif;
@@ -243,15 +240,15 @@ nav {
 }
 
 nav ul {
+        text-align: center;
         list-style-type: none;
         padding: 0px;
         margin: 0px;
-        text-align: center;
 
     li {
-        display: inline-block;
+        display: inline;
         padding: 0px;
-        margin: 0px 4px 0px 0px;
+        margin: 0px 15px 0px 0px;
 
         a {
             padding: 0px;
@@ -259,16 +256,8 @@ nav ul {
             text-decoration: none;
         }
 
-        &:first-child {
-            margin-right: 50px;
-        }
-
-        &:nth-last-child(2) {
-            margin: 0px;
-        }
-
         &:last-child {
-            margin-left: 50px;
+            margin: 0px;
         }
     }
 }
