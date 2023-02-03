@@ -14,12 +14,12 @@ info:       Front page for the Annotated Mountain Goats
 
 Welcome!
 
-This is a comprehesive, verified, and referenced guide to the first 25 years
+This is a comprehesive, verifiable, and referenced guide to the first 25 years
 of the music of the Mountain Goats. The site covers the boombox, early studio,
 biographical, and later studio eras of the band. This period, lasting from
 approximately 1992 to 2017, contains a massive corpus of staggering
-complexity, range, and humanity. This site does not include releases from 2017
-on, after the band moved on stylistically and in some ways thematically. 
+complexity, range, and humanity. With few exceptions, this site does not
+include releases after 2017.
 
 Pick the release you're looking for. In the below tables, links indicate
 annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
@@ -80,19 +80,31 @@ existence I've been able to personally verify.
 
 [forums]:   http://www.mountain-goats.com/forums/
 
-Many references and excellent banter are left unannotated. The goal of this
-website is to help discover and understand the Mountain Goats as opposed to
-revealing every gem. Listening to live shows and banter yourself will continue
-to yield moments which cannot be had otherwise. Many particularly amazing
-descriptions are summarized rather than quoted, and a great deal of banter not
-pertaining to explaining a song are left for the listener to discover. John
-himself has said with some frequency that [he doesn't believe in parsing every
-detail][parsing] --- that the meanings of songs change and should be
-interpreted by the listeners. That said, I love hearing what he thinks about
-his music, hence this website. So, please be careful with overanalyzing and
-avoid dogma as you use these annotations.
+Much excellent banter and some references are left unannotated. The goal of
+this website is to help discover and understand the Mountain Goats as opposed
+to revealing every gem. Listening to live shows and banter yourself will
+continue to yield moments which cannot be had otherwise. Many particularly
+amazing descriptions are summarized rather than quoted, and a great deal of
+banter not pertaining to explaining a song are left for the listener to
+discover. John himself has said with some frequency that [he doesn't believe
+in parsing every detail][parsing] --- that the meanings of songs change and
+should be interpreted by the listeners. That said, I love hearing what he
+thinks about his music, hence this website. So, please be careful with
+overanalyzing and avoid dogma as you use these annotations.
 
 [parsing]: http://johndarnielle.tumblr.com/post/55954481765/would-you-care-to-comment-on-the-minor-changes-between
+
+This website focuses on the first 25 years of the Mountain Goats due to my
+intense love of the music from this period and to define borders on this
+massive project to make it feasible. One of the delightful things about the
+Mountain Goats is that they have no hard rules and incredible stylistic range,
+from solo folk punk boombox recordings to highly produced and sophisticated
+orchestration with numerous musicians. Although their releases after 2017 are,
+to my ear, distinct in many ways from their early material, this is clearly
+gradual, and there is not a hard boundary. Who knows? The earlier style may
+even someday return, as we saw with [Songs for Pierre Chuvin][chuvin].
+
+[chuvin]: https://themountaingoats.bandcamp.com/album/songs-for-pierre-chuvin
 
 ## Buttons ## {#buttons}
 
