@@ -14,12 +14,12 @@ info:       Front page for the Annotated Mountain Goats
 
 Welcome!
 
-This is a comprehesive, accurate, and referenced guide to the first 25 years
+This is a comprehesive, verified, and referenced guide to the first 25 years
 of the music of the Mountain Goats. The site covers the boombox, early studio,
 biographical, and later studio eras of the band. This period, lasting from
 approximately 1992 to 2017, contains a massive corpus of staggering
 complexity, range, and humanity. This site does not include releases from 2017
-on, after the band moved on stylistically and thematically. 
+on, after the band moved on stylistically and in some ways thematically. 
 
 Pick the release you're looking for. In the below tables, links indicate
 annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
