@@ -495,9 +495,8 @@ Firefox][firefox-ext]!
 * [The Mountain Goats homepage][tmg], where John posts everything he so
         desires related to the band, and especially the [discography][].
 * [John Darnielle's][john] beautifully spartan homepage
-* [The Mountain Goats Almanac and Star
-        Chart](https://tinyletter.com/MountainGoats), being the Mountain Goats
-        newsletter as of late 2016.
+* [The Mountain Goats Almanac and Star Chart][almanac], being the Mountain
+        Goats newsletter as of late 2016.
 * [Last Plane to Jakarta][lptj], where John blogs primarily about death metal
         and boxing, alongside some forums.
 * [Jon Nall's excellent lyrics website][nall] and the oldest Mountain Goats
@@ -508,12 +507,16 @@ Firefox][firefox-ext]!
 * [Reddit's Mountain Goats forum][reddit], another active fan community.
 * [Sad Young Cardinals][syc], essays about the Mountain Goats
 * [Isopanisad Radio Hour][irh], a radio show about the Mountain Goats out of
-WIIT 88.9 FM in Chicago
+        WIIT 88.9 FM in Chicago
 * [I Hear Strange Music][ihsm], excellent discographies from hometaping labels
         and musicians, including the Mountain Goats and related bands
+* [Emily Esten's][esten] delightful Markov chain Mountain Goats bots,
+        including [faketmglyrics][faketmg] and [tmgdnd][], with code on
+        [GitHub][estengh] and a guide on [Medium][estenmed]
 
 [discography]:  http://www.mountain-goats.com/discog.html
 [lptj]:         http://www.lastplanetojakarta.com
+[almanac]:      https://tinyletter.com/MountainGoats
 [nall]:         http://themountaingoats.net
 [reddit]:       http://reddit.com/r/themountaingoats
 [syc]:          http://sadyoungcardinals.blogspot.com
@@ -521,4 +524,9 @@ WIIT 88.9 FM in Chicago
 [wiki]:         http://themountaingoats.wikia.com
 [irh]:          https://soundcloud.com/user-438627870/
 [john]:         http://www.johndarnielle.com/
+[esten]:        https://emilyesten.com/
+[faketmg]:      https://twitter.com/faketmglyrics
+[tmgdnd]:       https://twitter.com/tmgdnd
+[estengh]:      https://github.com/sheishistoric/
+[estenmed]:     https://medium.com/@sheishistoric/i-only-make-bots-for-the-mountain-goats-35f10c4bedc5
 </div>
