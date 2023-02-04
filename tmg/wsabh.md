@@ -362,7 +362,7 @@ And the headstones climbed up the hills
 
     "... It's about a bunch of people I used to know. I have moved them
     from Portland, where I knew them, to Pomona, where I'm glad I didn't know
-    them." --- Opolis, Norman, Oklahoma ... November 13, 2002.
+    them." --- Opolis, Norman, Oklahoma, November 13, 2002
 
     "This is a love song to a motel room. You know, the kind of room sometimes
     you got to go to for a couple weeks. People come, and they say, 'What
