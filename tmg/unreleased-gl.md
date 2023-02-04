@@ -308,23 +308,124 @@ Right now
 
 ## Going to France ## {#france}
 
-*not yet transcribed*
+You say \\
+It's too cold over there anyway \\
+It's far too cold
+
+I'm going to France \\
+And I'm taking you with me
+
+Wild berries \\
+Wild sheep \\
+You know you want to see them
+
+Well I'm going to France \\
+And I'm taking you with me
+
+We always said one day we were going there \\
+Well I don't know about you \\
+But I keep my promises
+
+And I'm going to France \\
+And I'm taking you with me
 
 ## Going to Palestine ## {#palestine}
 
-*not yet transcribed*
+That woman set herself on fire \\
+They said it on the radio \\
+They said she lit up the skies of Palestine \\
+I could not stand to hear them say so
+
+I saw the stars come out \\
+Smelled the oranges on the breeze \\
+Later on they played some Caribbean song \\
+Man they sure know how to pick 'em
+
+The rich voice burning like a fuse \\
+The syncopated rhythms \\
+I saw the stars come out \\
+I saw the oranges cracking open
+
+I saw you standing there \\
+Orange blossom in your hair \\
+Going to Palestine \\
+Going to Palestine \\
+Yeah
 
 ## Going to San Diego ## {#sandiego}
 
-*not yet transcribed*
+Long rain \\
+It must be June again \\
+Warm air \\
+And it's so warm down there
+
+I'm coming soon, open the blinds \\
+Your friends all tell me that you've lost your mind \\
+I don't believe them
+
+The seashore \\
+I don't want to see it anymore \\
+The bus runs smoothly \\
+The back window's open and the burning air cools me
+
+Hold your breath \\
+Your friends all swear you're one step away from death \\
+I don't believe them
+
+Mmm, here it comes \\
+My head is throbbing and my hands are numb \\
+It's you \\
+What was I thinking, what should I do
+
+Your eyes are open, it's more than I can take \\
+My friends all told me I was making a mistake \\
+I don't believe them
 
 ## Going to Some Damned English City ## {#damnedcity}
 
-*not yet transcribed*
+Your skirt was red and flowing, your blouse was blue \\
+On the night I locked eyes with you \\
+It seemed to me like I hadn't seen your eyes since last December
+
+My shredding muscles, my popping joints \\
+I saw the pupils of your eyes by the firelight shrinking down to pinpoints \\
+You were poking at the embers
+
+There's a cold wind coming off the ocean \\
+There's a cold wind coming off the ocean
+
+I wet my finger with my tongue and pressed it in the ashes \\
+Rubbed it up against your perfect eyelashes \\
+You said something really important, something pretty seems to have slipped my mind
+
+Walls were freezing, so was the floor \\
+I didn't want to hurt you anymore \\
+You had a sad, sad friend in front of you, that dying fire behind
+
+There was a cold wind coming off the ocean \\
+There was a cold wind coming off the ocean
 
 ## Going to Spirit Lake ## {#spiritlake}
 
-*not yet transcribed*
+Why did you say what you said \\
+When the hummingbird vanished from sight \\
+In the sudden swelling heat \\
+Of the dark October night
+
+You were laughing and your eyes were alive \\
+And I knew that the moment had finally arrived \\
+And I reached out through the air for your hand \\
+And held on tight
+
+You said the right thing \\
+You fixed everything \\
+As the stars formed a canopy \\
+Over Spirit Lake
+
+You said what you said \\
+The stars grew softer overhead \\
+I was on fire \\
+I was on fire for you
 
 ## Good Morning to All Vultures ## {#vultures}
 
