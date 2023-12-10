@@ -24,10 +24,13 @@ include releases after 2017.
 Pick the release you're looking for. In the below tables, links indicate
 annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
 contain lyrics but have yet to be annotated; those prefixed with a plus (+)
-instead need transcription as well. If you'd like to help, please [read
-here](about.html#contributing) and [reach out](about.html#contact)!
+instead need transcription as well.
 
-To subscribe to updates, use [the RSS feed](tmg-rss.xml).
+The Annotated Mountain Goats is presently in an archival state. It is likely
+permanently incomplete. Nonetheless, I love hearing from you. Please feel free
+to [reach out](about.html#contact)!
+
+To subscribe to updates, unlikely as they are, use [the RSS feed](tmg-rss.xml).
 
 *[Jump to the table of contents](#indexes){: .jump }*
 {: style="text-align: center;"}
@@ -65,9 +68,7 @@ To subscribe to updates, use [the RSS feed](tmg-rss.xml).
 
 The objective of this website is to provide a comprehensive, referenced source
 for information about the lyrics of [the Mountain Goats][tmg]. John's
-commentaries and details about obscure references can all be found inside. If
-you'd like to contribute, please let me know! I'd love to hear from you and if
-I've gotten something wrong, or you have more information, send it in.
+commentaries and details about obscure references can all be found inside.
 
 [tmg]:      http://mountain-goats.com
 
@@ -111,11 +112,9 @@ even someday return, as we saw with [Songs for Pierre Chuvin][chuvin].
 Once upon a time, I made buttons for each Mountain Goats tour and passed them
 out at shows and through the mail. They were 100% free; I made them with my
 button maker. A fellow DIY fan has been making stickers and those are
-available here as well! While I no longer travel to shows like I used to,
-there are still a few remaining buttons from those years.
+viewable here as well.
 
-To see the designs, and for information about how to obtain some, [see
-here!](buttons.html)
+To see the designs, [see here!](buttons.html)
 
 ## Albums ## {#albums}
 

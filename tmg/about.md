@@ -50,30 +50,21 @@ help.
 
 # Contributing #
 
-Thank you for considering helping out with the site! There's lots to do.
-Corrections, suggestions, feedback, and other input is always welcome. A guide
-for contributing is available in the [git repository][repo].
+The Annotated Mountain Goats is presently in an archival state. Further edits
+are unlikely, although the future is always uncertain. You are welcome to take
+from this work in your own Mountain Goats projects. Please consider crediting
+the Annotated Mountain Goats by linking back to the site.
 
-As you've probably noticed, I have an obsessive and meticulous approach, which
-unfortunately leads to very long delays in replying to people and making
-updates. Please forgive me. I am always delighted by contributions and do make
-my way through them, but it's slow. Feel free to reach out again if you're
-concerned your message was lost or forgotten.
+A former guide for contributing, as well as all of the source code, is
+available in the [git repository][repo]. This hopefully makes it easier to
+navigate if you choose to borrow from the site. You are welcome to reach out
+to me using the contact information above if you have questions or just want
+to talk.
 
-If you're curious about what would help and wanted to contribute directly, a
-number of albums need lyrics and annotations. You can see which ones these are
-by looking at the [discography on the front page](index.html). Links *in
-italics* are incomplete: those prefixed with a dash (-) contain lyrics but
-have yet to be annotated; those prefixed with a plus (+) instead need
-transcription as well.
-
-If you're comfortable with git and Markdown, please feel free to submit
-contributions via the [git repository][repo] by creating a pull request. If
-that's unfamiliar, please feel free to email me. If you've never heard of git,
-you can create a GitHub account and edit directly in the browser, with a few
-small complexities that we can work out together.
+If you're curious about what is incomplete, a number of albums need lyrics and
+annotations. You can see which ones these are by looking at the [discography
+on the front page](index.html). Links *in italics* are incomplete: those
+prefixed with a dash (-) contain lyrics but have yet to be annotated; those
+prefixed with a plus (+) instead need transcription as well.
 
 [repo]: https://github.com/annotatedtmg/annotatedtmg
-
-If you're unfamiliar with this workflow, don't feel any need to learn.
-Emailing me works just as well.
