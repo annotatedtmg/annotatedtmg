@@ -161,7 +161,7 @@ The following songs are generally considered to be Alpha couple songs.
 | [Ethiopians](unreleased-_f.html#ethopians) | Unreleased       | 2007?     |
 | [First Few Desperate Hours](tallahassee.html#hours) | Tallahassee | 2002  |
 | [Game Shows Touch Our Lives](tallahassee.html#gameshows) | Tallahassee | 2002 |
-| [Going to Dade County](unreleased-_f.html#dade) | Unreleased  | 1998?     |
+| [Going to Dade County](unreleased-_f.html#dade) | Unreleased  | 1994?     |
 | [Have to Explode](tallahassee.html#explode) | Tallahassee     | 2002      |
 | [The House That Dripped Blood](tallahassee.html#dripped) | Tallahassee | 2002 |
 | [Idylls of the King](tallahassee.html#idylls) | Tallahassee   | 2002      |
@@ -222,7 +222,7 @@ are only very loosely thematically connected. [^nomain]
 | [Going to California](unreleased-gl.html#california) | Unreleased | 1992? |
 | [Going to Chino](hound.html#chino)    | The Hound Chronicles  | 1992      |
 | [Going to Cleveland](horace.html#cleveland) | Transmissions to Horace; Bitter Melon Farm | 1993; 1999 |
-| [Going to Dade County](unreleased-gl.html#dade) | Unreleased  | 1998?     |
+| [Going to Dade County](unreleased-gl.html#dade) | Unreleased  | 1994?     |
 | [Going to France](unreleased-gl.html#frace) | Unreleased      | 1992?     |
 | [Going to Georgia](zopilote.html#georgia) | Zopilote Machine  | 1994      |
 | [Going to Hungary](tropical.html#hungary) | Tropical Depression; Ghana | 1997; 1999 |

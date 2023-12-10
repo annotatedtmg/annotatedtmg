@@ -30,10 +30,8 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Going to Brazil](#brazil)
 * [Going to Bridlington](#bridlington)
 * [Going to Buffalo](#buffalo)
-* [Going to California](#california)
 * [Going to Dade County](#dade)
 * [Going to France](#france)
-* [Going to Malibu](#malibu)
 * [Going to Palestine](#palestine)
 * [Going to San Diego](#sandiego)
 * [Going to Some Damned English City](#damnedcity)
@@ -65,17 +63,103 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Footnotes](#footnotes)
 {: .none}
 
-## Garbage Eaters ## {#eaters}
+## Garbage Eaters [^eatersjohn] ## {#eaters}
 
-*not yet transcribed*
+I recognize your dirty face \\
+I know you're from uptown \\
+Hold your head high \\
+Hold your head high
+
+We're going to colonize this place \\
+And stop the sun from going down \\
+By and by all right \\
+By and by
+
+Keep your countenance as bright as can be \\
+And hold the dumpster open for me \\
+Me
+
+The water level's going down \\
+The table's never going to rise \\
+We will be all right \\
+We will be all right
+
+Come in alone, go out alone \\
+Feel lonesome in between \\
+Keep your hands wet \\
+In the red clay
+
+Let your light be a beacon \\
+To cruel and heartless men \\
+Learn from your mistakes \\
+Then make the same mistakes again \\
+Hey
+
+[^eatersjohn]:
+    Written for a friend's wedding. "As most wedding songs are called
+    eventually, it's called Garbage Eaters. It's a love song." --- Cat's
+    Cradle, Carrboro, July 17, 2004.
 
 ## Going through Pomona ## {#pomona}
 
-*not yet transcribed*
+The lights are on in your room, so tell me \\
+Who's your friend? \\
+And the lights are burning in the \\
+Little house on East End
+
+And I remembered who I was \\
+And what I came here for \\
+The moon was caught \\
+High in the branches of the sycamore
+
+And on my neck \\
+I felt the cold wind \\
+And it licked around my ears and it asked me to ask you \\
+Yeah --- who's your friend?
+
+And the lights came down over Pomona \\
+Blazed again before your front door \\
+The moon was caught \\
+High in the branches of the sycamore
 
 ## Going to Brazil ## {#brazil}
 
-*not yet transcribed*
+*"For the record, this is the fifth attempt at get --- Going to Brazil."*
+
+You've got something magic in your eyes \\
+You don't have to say you're sorry \\
+You've got a sentence waiting on your tongue \\
+Pronounce it now
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+I'm going to South America \\
+Don't wait up for me
+
+You've got what I need but I can't have it \\
+That's all right \\
+You're everything I want and I can't touch you \\
+Let me touch you anyhow
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah, I am going to South America \\
+Don't wait up for me
+
+I've got what you want but that's enough of that \\
+That'll be enough of that for now \\
+It's gonna clear cut twenty thousand acres \\
+When I touch your hair
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah, I am going to South America \\
+Don't wait up for me
+
+I'm going where the air is hot \\
+Where they speak a language sort of like one I can speak \\
+Yeah I am going to South America \\
+Don't wait up for me
 
 ## Going to Bridlington [^bridlingtonjohn] [^bridlingtonseries] [^bridlington] ## {#bridlington}
 
@@ -164,39 +248,184 @@ The moon was rising
 
 ## Going to Buffalo ## {#buffalo}
 
-*not yet transcribed*
+Lay down just a little while \\
+Honey lemon chamomile \\
+Very soon the plane's coming in
 
-## Going to California ## {#california}
+One hour worth of quicksand \\
+The glass warm against your hand \\
+Very soon the airplane will take me away
 
-*not yet transcribed*
+I will nuzzle up against you and then \\
+I will never see you again
+
+Fires burning  \\
+The world's turning \\
+Around
+
+Words that lose their meanings \\
+And then swell up like balloons \\
+Very soon the taxi will come
+
+All the lies you told me \\
+Can no longer hold me \\
+Very soon the taxi will take me away
+
+I will forget how you've done me wrong \\
+How you've strung me along
+
+Fires burning \\
+Burning \\
+To breathe
 
 ## Going to Dade County ## {#dade}
 
-*not yet transcribed*
+When the rainbows disappeared from the skies of northern Florida \\
+'Cause the rain had gone away \\
+And I looked out on the front lawn and I saw you there \\
+It was 6:31 AM on a Saturday
+
+And you turned into a housecat \\
+And you all think I'm making this part up \\
+But you're wrong
+
+And the wind came through the window \\
+And licked at my face \\
+And I heard the sound of about a thousand housecats [^tomcats] \\
+Squalling up from all over the place
+
+And you all think I'm crazy \\
+Or trying to make up some kind of a cheap story \\
+Or telling little stories to amuse myself with \\
+But you're wrong
+
+I am going to Dade County \\
+Right now
+
+[^tomcats]:
+    Also sung, "... a thousand tomcats". Under Acme, New York, August 18,
+    1994.
 
 ## Going to France ## {#france}
 
-*not yet transcribed*
+You say \\
+It's too cold over there anyway \\
+It's far too cold
 
-## Going to Malibu ## {#malibu}
+I'm going to France \\
+And I'm taking you with me
 
-*not yet transcribed*
+Wild berries \\
+Wild sheep \\
+You know you want to see them
+
+Well I'm going to France \\
+And I'm taking you with me
+
+We always said one day we were going there \\
+Well I don't know about you \\
+But I keep my promises
+
+And I'm going to France \\
+And I'm taking you with me
 
 ## Going to Palestine ## {#palestine}
 
-*not yet transcribed*
+That woman set herself on fire \\
+They said it on the radio \\
+They said she lit up the skies of Palestine \\
+I could not stand to hear them say so
+
+I saw the stars come out \\
+Smelled the oranges on the breeze \\
+Later on they played some Caribbean song \\
+Man they sure know how to pick 'em
+
+The rich voice burning like a fuse \\
+The syncopated rhythms \\
+I saw the stars come out \\
+I saw the oranges cracking open
+
+I saw you standing there \\
+Orange blossom in your hair \\
+Going to Palestine \\
+Going to Palestine \\
+Yeah
 
 ## Going to San Diego ## {#sandiego}
 
-*not yet transcribed*
+Long rain \\
+It must be June again \\
+Warm air \\
+And it's so warm down there
+
+I'm coming soon, open the blinds \\
+Your friends all tell me that you've lost your mind \\
+I don't believe them
+
+The seashore \\
+I don't want to see it anymore \\
+The bus runs smoothly \\
+The back window's open and the burning air cools me
+
+Hold your breath \\
+Your friends all swear you're one step away from death \\
+I don't believe them
+
+Mmm, here it comes \\
+My head is throbbing and my hands are numb \\
+It's you \\
+What was I thinking, what should I do
+
+Your eyes are open, it's more than I can take \\
+My friends all told me I was making a mistake \\
+I don't believe them
 
 ## Going to Some Damned English City ## {#damnedcity}
 
-*not yet transcribed*
+Your skirt was red and flowing, your blouse was blue \\
+On the night I locked eyes with you \\
+It seemed to me like I hadn't seen your eyes since last December
+
+My shredding muscles, my popping joints \\
+I saw the pupils of your eyes by the firelight shrinking down to pinpoints \\
+You were poking at the embers
+
+There's a cold wind coming off the ocean \\
+There's a cold wind coming off the ocean
+
+I wet my finger with my tongue and pressed it in the ashes \\
+Rubbed it up against your perfect eyelashes \\
+You said something really important, something pretty seems to have slipped my mind
+
+Walls were freezing, so was the floor \\
+I didn't want to hurt you anymore \\
+You had a sad, sad friend in front of you, that dying fire behind
+
+There was a cold wind coming off the ocean \\
+There was a cold wind coming off the ocean
 
 ## Going to Spirit Lake ## {#spiritlake}
 
-*not yet transcribed*
+Why did you say what you said \\
+When the hummingbird vanished from sight \\
+In the sudden swelling heat \\
+Of the dark October night
+
+You were laughing and your eyes were alive \\
+And I knew that the moment had finally arrived \\
+And I reached out through the air for your hand \\
+And held on tight
+
+You said the right thing \\
+You fixed everything \\
+As the stars formed a canopy \\
+Over Spirit Lake
+
+You said what you said \\
+The stars grew softer overhead \\
+I was on fire \\
+I was on fire for you
 
 ## Good Morning to All Vultures ## {#vultures}
 
