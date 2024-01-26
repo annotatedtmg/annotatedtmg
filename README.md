@@ -9,6 +9,11 @@ approximately 1992 to 2017, contains a massive corpus of staggering
 complexity, range, and humanity. With few exceptions, this site does not
 include releases after 2017.
 
+__*The Annotated Mountain Goats is presently in an archival state. It is
+likely permanently incomplete. The information here is left to help the
+reader, facilitate other projects, and in case that changes.*__
+
+
 ## Contributing ##
 
 Thank you for considering helping out with the site! There's lots to do.
