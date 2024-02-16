@@ -143,7 +143,7 @@ The following songs are generally considered to be Alpha couple songs.
 |---------------------------------------+-----------------------+-----------|
 | __Song__                              | __Release__           | __Year__  |
 |:--------------------------------------+:----------------------+:----------|
-| [Alpha Aquae](unreleased-_f.html#aquae) | Unreleased          | 1995?     |
+| [Alpha Aquae](teg-unreleased.html#aquae) | Unreleased         | 1995?     |
 | [Alpha Chum Gatherer](unreleased-_f.html#chum) | Unreleased   | 2013?     |
 | [Alpha Desperation March](horace.html#desperation) | Transmissions to Horace; Bitter Melon Farm | 1993; 1999 |
 | [Alpha Double Negative: Going to Catalina](petronius.html#catalina) | Songs for Petronius; Nothing for Juice; Bitter Melon Farm | 1992; 1996; 1999 |

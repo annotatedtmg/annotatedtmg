@@ -30,11 +30,60 @@ notes, and the rest will come when the page is fully annotated.
 
 ### Table of contents ### {#contents}
 
+* [All Frosting](#frosting)
+* [Alpha Aquae](#aquae)
 * [Going to California](#california)
 ^
 * [Credits](#credits)
 * [Footnotes](#footnotes)
 {: .none}
+
+## All Frosting ## {#frosting}
+
+Let's meet out in San Bernardino \\
+Let's get a case of Polish vodka \\
+Let's bring out the big guns \\
+The modified Israeli ones
+
+Let's go back to where we let it all go \\
+Let's quit scavenging for bones down in the snow \\
+Let's follow the freeway from here \\
+Let's disappear
+
+Let's get our stuff back from the pawnshop \\
+Let's put a bedroom in the attic \\
+Let's stay up real late \\
+And see if we don't suffocate
+
+Let's practice our smiles 'til we're they're freezing cold \\
+Let's dig up the graveyard 'til we find ourselves some gold \\
+I'll tell you when the coast is clear \\
+Let's disappear
+
+## Alpha Aquae ## {#aquae}
+
+I've grown rather tired \\
+Of our little game \\
+You ask me the question \\
+My answer's the same
+
+And I couldn't say \\
+The day or the year \\
+But it must be summer, 'cause there's flies in here \\
+I need water \\
+I need water
+
+Ants on the window ledge \\
+Caught my attention \\
+And I wanted to say so \\
+But I was too tired to mention it
+
+And we crawled in bed \\
+And melted together \\
+Cursing each other \\
+Cursing the weather \\
+And I need water \\
+I need water
 
 ## Going to California ## {#california}
 
