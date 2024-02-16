@@ -56,7 +56,7 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Footnotes](#footnotes)
 {: .none}
 
-## 02-75 [^daytrotterlyrics] ## {#n02-75}
+## 02-75 ## {#n02-75}
 
 I got your letter \\
 And I read what it said \\
@@ -68,16 +68,11 @@ And I have always known you
 
 I dreamed of your house \\
 And I looked around \\
-And I saw the real rain \\
-Real power rolling down
+And I felt the real rain \\
+Rolling down
 
-And you, you are my best friend \\
+And you are my best friend \\
 And I have always known you
-
-[^daytrotterlyrics]:
-  These lyrics were transcribed from the [Daytrotter session][daytrotter] performance on May 26, 2008.
-
-[daytrotter]:https://www.pastemagazine.com/noisetrade/music/the-mountain-goats/may-26-2008-daytrotter-studio-rock-island-il
 
 ## 15--2 ## {#n15-2}
 
@@ -85,7 +80,7 @@ Those may be the most beautiful shades of red I've ever seen \\
 Those may be the most beautiful shades of red I've ever seen \\
 But don't be fooled \\
 If the sun goes down on us here tonight \\
-It's not gonna be alright anymore
+It's not gonna be all right anymore
 
 None of this has anything really to do with us, that's my belief \\
 As the desert sky throws the glowing neon into bold relief \\
@@ -95,18 +90,27 @@ Hold on, because it's dark outside now
 The smell of roses comes thickly through the open window now \\
 The smell of roses comes thickly through the open window now \\
 As the darkness closes in, our bodies draw the roses in \\
-And those may be the most beautiful shades of red i've ever seen
-
-[^kucilyrics]:
-  These lyrics were transcribed from the [KUCI session][kuciyoutube] performance on October 1, 1992.
-
-[kuciyoutube]: https://www.youtube.com/watch?v=9OWdZPNpa2Y
+And those may be the most beautiful shades of red I've ever seen
 
 ## 25 ## {#n25}
 
-*not yet transcribed*
+In the front seat at about four in the morning \\
+Something came down without much warning \\
+It was bright and shiny and real nice \\
+And it prepared us both for the sacrifice \\
+I know what it is, and I know what it means \\
+But it's got wings \\
+I know what it is, and I know what it means \\
+But it's got wings
 
-<!-- Nall has lyrics for this, and it apparently used to be on YouTube but isn't now. Only known show is March 7 1993, Walker Lounge, Pomona, CA. -->
+In the front seat, you know what I mean \\
+That thing came down on us bright and hot and pure and clean and ready \\
+Ready for the kill, and I'll get ready \\
+But hold my hand, would you please hold me steady \\
+I know what it is, and I know what it means \\
+But it's got wings \\
+I know what it is, and I know what it means \\
+But it's got wings
 
 ## Abandoning My Father Talking Blues ## {#talking}
 
@@ -123,7 +127,7 @@ My sister looked sad and I tried to be strong \\
 It was hard just to get up and move along \\
 We were moving
 
-By 5 in the afternoon we were gone \\
+But by 5 in the afternoon we were gone \\
 And my stepfather welcomed me with open arms \\
 We walked right through that apartment door \\
 I had never lived in an apartment before \\
@@ -137,7 +141,7 @@ We were moving
 
 Out of our house \\
 Into a two-story apartment building across town \\
-With a swingset and a sandbox out in the parking lot \\
+With a swingset in a sandbox in the middle of a parking lot \\
 And a laundry room with four glistening washing machines \\
 And two dryers
 
@@ -147,32 +151,29 @@ Keep the home fires \\
 Burning \\
 Keep the home, home fires
 
-## Agemo's Hoops [^agemocologne] ## {#agemo}
+## Agemo's Hoops ## {#agemo}
 
 You were breathing against my throat \\
 Covering your laugh up with your long black overcoat \\
-All circuits warming up \\
-And you told me what you were going to do \\
-And I promised to do the same thing too
+All circuits warming up
 
+And you told me what you were going to do \\
+And I promised to do the same thing too \\
 And the air \\
 The air in New England \\
-Was pure  \\
+Was pure \\
 Poison
 
 The car was parked out back among the trees \\
 Your voice was getting higher by slow degrees \\
-You were giving me directions \\
-And you told me where I came from \\
-Well God bless us, every one
+You were giving me directions
 
+And you told me where I came from \\
+Well, God bless us, every one \\
 And the air \\
 The air in New England \\
 Was pure \\
 Poison, poison, poison, poison
-
-[^agemocologne]:
-  These lyrics were transcribed from a live performance at Underground, Cologne, April 15, 1995.
 
 ## All Frosting [^glenns] [^frostinglive] ## {#frosting}
 
