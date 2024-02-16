@@ -122,7 +122,7 @@ To see the designs, [see here!](buttons.html)
 | __Title__                               | __Year__ | __Label__ | __Format__ |
 |:------------------------------------------+:-----+:------------+:---------|
 | - [*Beat the Champ*](champ.html)            | 2015 | Merge       | CD/double 12" 45 rpm |
-| - [*Transcendental Youth*](youth.html)      | 2012 | Merge       | CD/LP    |
+| [*Transcendental Youth*](youth.html)      | 2012 | Merge       | CD/LP    |
 | [All Eternals Deck](aed.html)             | 2011 | Merge       | CD/LP    |
 | [The Life of the World to Come](tlotwtc.html) | 2009 | 4AD     | CD/LP    |
 | [Heretic Pride](heretic.html)             | 2008 | 4AD         | CD/LP    |

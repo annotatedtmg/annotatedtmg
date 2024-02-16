@@ -326,6 +326,7 @@ quotes = [
     "the burning and the electricity",
     "our love is like jesus but worse",
     "this is the worst place",
+    "bad things never die",
 ]
 
 numQuote = Math.floor(Math.random() * quotes.length)

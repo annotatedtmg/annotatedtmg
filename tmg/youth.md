@@ -3,7 +3,7 @@ title:  'Transcendental Youth'
 meta:   Annotated lyrics for the Mountain Goats album Transcendental Youth.
 ---
 
-# Transcendental Youth #
+# Transcendental Youth[^cover] #
 
 ![Cover of Transcendental Youth](media/ty-cover.jpg)
 ![Back of Transcendental Youth](media/ty-back.jpg)
@@ -14,14 +14,19 @@ Label: Merge
 
 *[Jump to the table of contents](#contents){: .jump}*
 
-### Lyrics only --- sorry! ###
-{: style="margin-top: 100px"}
-
-Apologies, but I haven't had the chance to annotate this album yet --- if
-you'd like to help, please [email me](../about.html#contact)! This page is
-just a placeholder so that you can read the lyrics. Full annotations will come
-hopefully soon --- [and you could be the one to make it
-happen](about.html#contributing)!
+[^cover]:
+    On the subject of the cover art, John says: "It's people escaping from 
+    something, but rising towards a demon-haunted universe. It represents 
+    learning to seek out the dark things that give you pleasure and seem 
+    threatening but which also belong to you. By taking possession of them, 
+    they lose their ability to harm, and instead become the things you can 
+    own. It feels terrible, but anything that is within you is a gift. To be 
+    able to take possession of that and say, "Whatever it is, I am bigger than 
+    it," is to learn to cherish even the hard and painful things. Every 
+    character on this album is mentally ill, to some extent." — [Pitchfork]
+    [pitchforkcover], October 1 2012
+    
+[pitchforkcover]:http://pitchfork.com/features/interviews/8946-the-mountain-goats/
 
 ### Liner notes ### {#liner}
 
@@ -130,7 +135,7 @@ rest of the bonus EP. A Merge Records promo disc contained a demo version of
 * [Footnotes](#footnotes)
 {: .none}
 
-## Amy aka Spent Gladiator 1 ## {#amy}
+## Amy AKA Spent Gladiator 1 [^winehouse] [^spent] ## {#amy}
 
 Do every stupid thing that makes you feel alive \\
 Do every stupid thing to try to drive the dark away \\
@@ -157,16 +162,30 @@ And stay alive \\
 Just stay alive \\
 Just stay alive
 
-## Lakeside View Apartments Suite ## {#lakeside}
+[^winehouse]:
+    “When Amy Winehouse died, I wrote the first ‘Spent Gladiator’. That’s what 
+    people don’t say when drug addicts die - that they are mentally ill, that 
+    it is a disease. I felt really sad and I thought about all the other Amy 
+    Winehouses in the world who aren’t famous, whose deaths go uncelebrated. 
+    Then I was sort of off to the races thinking—writing about people who were 
+    suffering with various psychic ills.” — [TIME.com][amytime], September 25, 
+    2012.
 
-Downtown north past the airport \\
+[amytime]:http://entertainment.time.com/2012/09/25/mountain-goats-john-darnielle-on-songwriting-for-tormented-souls/
+    
+[^spent]:
+    See also [Spent Gladiator 2](#gladiator).
+
+## Lakeside [^lakeview] View Apartments Suite ## {#lakeside}
+
+Downtown north past the airport [^smith] \\
 A dream in switchgrass and concrete \\
 Three gray floors of smoky windows \\
 Facing the street
 
 Michael pulls the blinds back up \\
 Stares blankly down at the intersection \\
-Watching for the guy who's got the angel dust \\
+Watching for the guy who's got the angel dust [^PCP] \\
 Crystal clear connection
 
 Days like dominoes, all in a line \\
@@ -194,7 +213,7 @@ Lakeside view for my whole crew
 And just before I leave \\
 I throw up in the sink \\
 One whole life recorded \\
-In disappearing ink
+In disappearing ink [^fondfarewell]
 
 And Ray left a message thumbtacked to the door \\
 I don't even bother trying to read them anymore \\
@@ -202,7 +221,32 @@ Lakeside view \\
 Lakeside view \\
 Lakeside view for my whole crew
 
-## Cry for Judas ## {#judas}
+[^lakeview]:
+    No specific suite of apartments exists in the specified area with this 
+    name, as far as I can see, but John says "This is an apartment building in 
+    Portland where I bought speed in in the 80s, and I was picturing sort of 
+    houses where people are living, but you can barely call it a life anymore.
+    " — [The Quietus][quietus], January 16th 2013. When John says "this is", 
+    it is unclear if he specifically means Lakeside View exists or that the 
+    building he visited is very much like this.
+    
+[quietus]:http://thequietus.com/articles/11137-mountain-goats-john-darnielle-interview-transcendental-youth
+
+[^smith]:
+    Portland International Airport is far north of the city, right on the 
+    border with Washington, the state north of Oregon. If it's downtown and 
+    past the airport, it's likely that the lake in question is Smith Lake.
+
+[^PCP]:
+    Angel dust is slang for Phencyclidine, also known as PCP. It can come in a crystal, hence the line that follows.
+
+[^fondfarewell]:
+    > "Veins full of disappearing ink \\
+    Vomiting in the kitchen sink"
+
+    Elliott Smith, A Fond Farewell
+
+## Cry for Judas [^judasshowbox] [^judasseries] [^video] ## {#judas}
 
 Some things you do just to see \\
 How bad they'll make you feel \\
@@ -225,10 +269,10 @@ Long black night, morning frost \\
 I'm still here, but all is lost
 
 Feel the storm every night, hope it passes by \\
-Hallucinate a shady grove where Judas went to die
+Hallucinate a shady grove where Judas went to die [^bible]
 
 Unfurl the black velvet altar cloth \\
-Draw a white chalk Baphomet \\
+Draw a white chalk Baphomet [^baphomet \\
 Mistreat your altar boys long enough \\
 And this is what you get
 
@@ -237,11 +281,36 @@ Still won't know how in the darkness of the grave \\
 Long black night, morning frost \\
 I'm still here, but all is lost
 
-## Harlem Roulette ## {#harlem}
+[^judasseries]:
+    Cry for Judas is part of the [informal series of Biblical
+    references](series.html#bible).
+
+[^judasshowbox]:
+    "It's a song about the shame that you carry within you throughout the 
+    world and that you can never seem to shrug yourself free of. You will get 
+    free of it someday, but I personally can't tell you how because I don't 
+    know." — The Showbox, Seattle, December 17, 2012.
+
+[^video]:
+    This song has a [music video][yt].
+    
+[^bible]:
+    The biblical Judas, upon being wracked with guilt after betraying his 
+    friend Jesus, hanged himself in a garden.
+    
+[^baphomet]:
+    [Baphomet][baphowiki] is a term used to describe multiple idols and gods 
+    connected with mysticism, occultism, and predominantly Satanism.
+
+[baphowiki]:http://en.wikipedia.org/wiki/Baphomet
+    
+[yt]:https://www.youtube.com/watch?v=bptnhUOG2GU
+
+## Harlem Roulette [^harlempitchfork] ## {#harlem}
 
 Unknown engines underneath the city \\
 Steam pushing up in billows through the grates \\
-Frankie Lymon's tracking Seabreeze in a studio in Harlem \\
+Frankie Lymon's tracking Seabreeze [^seabreeze] in a studio in Harlem \\
 It's 1968
 
 Just a pair of tunes to hammer out \\
@@ -263,7 +332,7 @@ And four hours north of Portland, a radio flips on \\
 And some no one from the future remembers that you're gone
 
 Armies massing in the dusky distance \\
-Ghosted in the ribbon microphone \\
+Ghosted in the ribbon microphone [^ribbon] \\
 Leave a little mark on something, maybe \\
 Take the secret circuit home
 
@@ -274,11 +343,38 @@ Are the ones you're never going to see again \\
 Yeah, the loneliest people in the whole wide world \\
 Are the ones you're never going to see again
 
-## White Cedar ## {#cedar}
+[^harlempitchfork]:
+    "It’s about the last night of Frankie Lymon’s life. Frankie Lymon, who 
+    sang Why Do Fools Fall in Love and had one of the most beautiful voices 
+    ever, and then got drafted in the middle of his fame and then went AWOL, 
+    but by that time his voice had changed and music had kind of moved on. He 
+    was having a hard time trying to fit in, but there were a bunch of little 
+    labels, and one called Roulette offered him a deal and he went in and 
+    tracked a bunch of songs, you know, in those days you’d go in and track 
+    ten songs, you know, and then leave. And he did, and he had gotten just 
+    enough money to, uh, buy some more dope, and he went home and overdosed. 
+    Seabreeze, the song I mention in the first verse, is one of the last 
+    things he recorded. Yeah, it’s uh—I don’t know why, because I myself was 
+    not a child star, but people who get famous too young, and then it just 
+    ruins them as people, I get really sad thinking about it." — [Pitchfork 
+    performance][pitchforkyt], 18 September, 2012. Video mirror thanks to 
+    notasfarwest.
+    
+[^seabreeze]:
+    [Seabreeze][seayt] is a song by Lymon.
+
+[^ribbon]:
+    Ribbon microphones are a type of microphone dating back to 1920.
+    
+[pitchforkyt]:https://www.youtube.com/watch?v=_seYw-92jn0
+    
+[seayt]:https://www.youtube.com/watch?v=8rr7D0UsPos
+
+## White Cedar [^cedarpitchfork] ## {#cedar}
 
 Like a star come down to walk the Earth in radiant array \\
 I saw the light of my spirit descend the other day \\
-I was standing by the bus stop on Northeast 33rd \\
+I was standing by the bus stop on Northeast 33rd [^avenue] \\
 When I got the word
 
 I will be made a new creature \\
@@ -300,9 +396,22 @@ I don't want to be afraid \\
 And you can't tell me what my spirit tells me isn't true \\
 Can you
 
-## Until I Am Whole ## {#whole}
+[^cedarpitchfork]:
+    "The song's about accepting the permanence of one's condition. The 
+    narrator is a guy who's in and out of hospitals a lot. I've worked with 
+    people who've experienced that, and I always assume there has to come a 
+    point where it's really hard, but then you try to find some way to be OK 
+    with it. There's a lot of sadness in that song." — [Pitchfork][pitchfork], 
+    October 1, 2012
 
-Sunset on Snohomish \\
+[^avenue]:
+    Likely Northeast 33rd Avenue, Portland.
+    
+[pitchfork]:http://pitchfork.com/features/interviews/8946-the-mountain-goats/
+
+## Until I Am Whole [^wholeshowbox] ## {#whole}
+
+Sunset on Snohomish [^snohomish] \\
 Burn the tree line down \\
 Hold my hopes underwater \\
 Stand there and watch them drown \\
@@ -327,6 +436,18 @@ Hope it leaves a mark
 I think I'll stay here \\
 'Til I feel whole again \\
 I don't know when
+
+[^wholeshowbox]:
+    "This is a song about the yoga of self-mutilation." — The Showbox, 
+    Seattle, December 17, 2012.
+    
+[^snohomish]:
+    Snohomish is a city in Washington. According to a [Shuffle]
+    [shufflesnohomish] interview conducted before the album was recorded, the 
+    original intention of the album was that all the songs would take place in 
+    Snohomish.
+
+[shufflesnohomish]:https://web.archive.org/web/20151229050037/http://www.shufflemag.com/john-darnielle-on-songwriting-101-and-the-next-mountain-goats-lp/
 
 ## Night Light [^nightseries] ## {#night}
 
@@ -387,7 +508,7 @@ Clutching gold coins in his claw
     in meaning if not literal personhood. I Only Listen to the Mountain Goats,
     season 1, episode 4: Jenny; November 9, 2017.
 
-## The Diaz Brothers ## {#diaz}
+## The Diaz Brothers [^diazmovie] [^diazfillmore] ## {#diaz}
 
 Cops and robbers, strictly bargain line \\
 Spent the wet night tracking visions through the pines \\
@@ -422,7 +543,18 @@ Mercy for the Diaz brothers \\
 Mercy for the Diaz brothers \\
 Mercy for the Diaz brothers
 
-## Counterfeit Florida Plates ## {#counterfeit}
+[^diazmovie]:
+    The Diaz Brothers are minor characters in *Scarface* (1983).
+
+[^diazfillmore]:
+    "This song was written while watching the film *Scarface* with a 
+    3-month-old baby in my arm. I would do it again. It was written because 
+    when these particular characters were mentioned, the baby smiled. And I 
+    thought, well, I should do something with that, so I wrote a song about 
+    paranoid visions in a hospital. I encourage all new parents to do the same." 
+    — The Fillmore, San Francisco, December 14, 2012.
+
+## Counterfeit Florida Plates [^counterfeitshuffle] ## {#counterfeit}
 
 Steal some sunscreen \\
 From the CVS \\
@@ -468,7 +600,14 @@ With the counterfeit Florida plates \\
 With the counterfeit Florida plates \\
 With the counterfeit Florida plates
 
-## In Memory of Satan ## {#satan}
+[^counterfeitshuffle]:
+    "I had a narrator in this song called "Counterfeit Florida Plates" who was 
+    schizophrenic — he was starting to see things and he had no place to sleep 
+    at night." — [Shuffle][shufflemagazine], January 27, 2012
+
+[shufflemagazine]:https://web.archive.org/web/20151229050037/http://www.shufflemag.com/john-darnielle-on-songwriting-101-and-the-next-mountain-goats-lp/
+
+## In Memory of Satan [^satanrolling] ## {#satan}
 
 Got my paintbox out last night \\
 Stayed up late and wrecked this place \\
@@ -500,7 +639,16 @@ One more season then I'm gone
 Black drapes over the crosses \\
 Call in a favor from an old friend
 
-## Spent Gladiator 2 ## {#gladiator}
+[^satanrolling]:
+    "Everyone has spent those years, or maybe entire seasons, indoors where you 
+    don't really leave. That's when you go into the inner realms of the spirit. 
+    This guy's in hiding, and it's this most spiritual realm. That old saying 
+    holds here, that you can't be in a cave unless there's an exit, or else it's 
+    a grave." — [Rolling Stone][rollingstone], January 20, 2012.
+
+[rollingstone]:https://www.rollingstone.com/music/music-news/mountain-goats-john-darnielle-discusses-the-satan-record-94055/#ixzz2IAUYV0t6
+
+## Spent Gladiator 2 [^amy] ## {#gladiator}
 
 *"And."*
 
@@ -537,7 +685,7 @@ Like the nagging flash of insight \\
 You're always desperate to avoid \\
 Like the bloody-knuckled gunman \\
 Still stationed at the breach \\
-Like that board game with the sliders \\
+Like that board game with the sliders [^game] \\
 And the children on the beach
 
 Stay alive \\
@@ -545,7 +693,17 @@ Maybe spit some blood at the camera \\
 Just stay alive \\
 Stay forever alive
 
-## Transcendental Youth ## {#transcendental}
+[^amy]:
+    See also [Amy AKA Spent Gladiator 1](#amy).
+
+[^game]:
+    "Stay Alive" was a board game originally published by Milton Bradley
+    in 1971. [A mid-70s commercial][commercial] features children on a beach 
+    playing the game.
+
+[commercial]:https://www.youtube.com/watch?v=lP7T8ZcLess
+
+## Transcendental Youth [^transcendentaltroubador] ## {#transcendental}
 
 Cold through broken baseboards \\
 I despise this town \\
@@ -567,7 +725,7 @@ Soar ever upwards \\
 On air gone black with flies \\
 Shroud ourselves in the cosmos \\
 Let the music play \\
-Bright star of the morning \\
+Bright star of the morning [^lucifer] \\
 Shine on his rising way
 
 Sing \\
@@ -595,7 +753,19 @@ Sing high \\
 While the fire climbs \\
 Sing one for the old times
 
-## Tomorrow ## {#tomorrow}
+[^transcendentaltroubador]:
+    "This song is about your sexuality. It's about how, if you find yourself 
+    alone, and desperate, and frightened, and literally yearning for death all 
+    of the time, but you find someone to sleep with, that *[audience laughter]* 
+    — I know, see, so people laugh, but those hours that you can spend in a 
+    place where your body feels like an okay thing to you and not your enemy, 
+    are the greatest hours that we're ever going to get." — Troubador, 
+    Hollywood, December 13th 2012.
+
+[^lucifer]:
+    The devil Lucifer's name means "morning star".
+
+## Tomorrow [^tomorrowseries] [^tomorrowcover] ## {#tomorrow}
 
 *"Tomorrow. Lyric by Martin Charnin. Music by Charles Strouse."*
 
@@ -653,16 +823,21 @@ Tomorrow, tomorrow \\
 I love ya, tomorrow \\
 You're only a day away
 
+[^tomorrowseries]:
+    Tomorrow is part of the [informal series of cover songs](series.html#covers).
+
+[^tomorrowcover]:
+    Tomorrow is a show tune from the musical *Annie*, originally published
+    in  1977. John accurately credits the lyricist and composer.
 
 ## Credits ## {#credits}
 
 [Wil Hall](http://www.wilhall.com) transcribed this entire album --- thank you
-so much! And thanks also to Tim Mitchell who transcribed the liner notes.
+so much! And thanks also to Tim Mitchell who transcribed the liner notes. [Riley 
+Routh](https://www.rileyrouth.com) drafted this page's annotations.
 
 Thanks as always to the inimitable Caliclimber, whose superb [Flickr
 page](http://www.flickr.com/photos/caliclimber/sets/72157604433641001/)
 provided the album art.
 
 ## Footnotes ## {#footnotes}
-
-*maybe someday*

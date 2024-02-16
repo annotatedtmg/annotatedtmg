@@ -596,7 +596,9 @@ References contained in liner notes are listed under the release name.
 | [Down to the Ark](unreleased-_f.html#ark) | Ark of the Covenant; Romans 8:39; Revelation; Satan; All Things Bright and Beautiful | Unreleased; 2008 |
 | [Dutch Orchestra Blues](irh.html#dutch) | God                 | IRH; 1998                 |
 | [Elijah](coroner.html#elijah)         | Galatians 4:4; Luke 1:44; resurrection of Jesus | TCG; 2000 |
+| [Elizabeth Barrett Browning](unreleased-_f.html#browning) | Saint Christopher | Unreleased; ? |
 | [Enoch 18:14](tlotwtc.html#enoch)     | Enoch 18:14           | TLOTWTC extra, TLOTWIF; 2009 |
+| [Eugene Sue](unreleased-_f.html#eugene | God                  | Unreleased; 2005?         |
 | [Ezekiel 7 and the Permanent Efficacy of Grace](tlotwtc.html#ezekiel) | Ezekiel 7; efficacious grace | TLOTWTC; 2009 |
 | [From the Lake Trials](compilation.html#trials) | God's creatures | Compilation; 2017     |
 | [Genesis 19:1 -- 2](devil.html#genesis) | Genesis 19:1 -- 2   | DITS; 2002                |

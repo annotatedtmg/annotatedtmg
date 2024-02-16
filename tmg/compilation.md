@@ -29,7 +29,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Brave](#brave)
 * [Daniel](#daniel)
 * [Drug Life](#drug)
-* [Elsa from Rialto](#elsa)
 * [Etruscans](#etruscans)
 * [François Mitterrand](#francois)
 * [From the Lake Trials](#trials)
@@ -209,10 +208,6 @@ You're messing with my drug life \\
 Yeah \\
 Yeah, quit messing with my drug life \\
 Na na na na
-
-## Elsa from Rialto ## {#elsa}
-
-*(no lyrics)*
 
 ## Etruscans ## {#etruscans}
 
