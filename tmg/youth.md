@@ -272,7 +272,7 @@ Feel the storm every night, hope it passes by \\
 Hallucinate a shady grove where Judas went to die [^bible]
 
 Unfurl the black velvet altar cloth \\
-Draw a white chalk Baphomet [^baphomet \\
+Draw a white chalk Baphomet [^baphomet] \\
 Mistreat your altar boys long enough \\
 And this is what you get
 
@@ -756,11 +756,11 @@ Sing one for the old times
 [^transcendentaltroubador]:
     "This song is about your sexuality. It's about how, if you find yourself 
     alone, and desperate, and frightened, and literally yearning for death all 
-    of the time, but you find someone to sleep with, that *[audience laughter]* 
-    — I know, see, so people laugh, but those hours that you can spend in a 
-    place where your body feels like an okay thing to you and not your enemy, 
-    are the greatest hours that we're ever going to get." — Troubador, 
-    Hollywood, December 13th 2012.
+    of the time, but you find someone to sleep with, that *\[audience
+    laughter\]* --- I know, see, so people laugh, but those hours that you can
+    spend in a place where your body feels like an okay thing to you and not
+    your enemy, are the greatest hours that we're ever going to get." ---
+    Troubador, Hollywood, December 13th 2012.
 
 [^lucifer]:
     The devil Lucifer's name means "morning star".
