@@ -180,7 +180,7 @@ Poison, poison, poison, poison
 Rise up real early shaking \\
 Try to steady my hand \\
 Make my way down to the water \\
-Sail a half a mile from land \\
+Sail a half a mile from land
 
 See where the sharks have been breeding \\
 Out on the ocean alone \\
@@ -739,7 +739,7 @@ And I can't wait because there's rats in the walls \\
 There are rats in the walls \\
 There are rats in the walls \\
 There are rats in the walls \\
-There are rats in the walls \\ \\
+There are rats in the walls \\
 There are rats beneath the floorboards \\
 Rats up in the ceiling \\
 Rats in the walls \\
@@ -812,8 +812,8 @@ And then rain will come down tonight
 
 ## Eugene Sue ## {#eugene}
 
-*"Oh yes, you bobble <unintelligible> the top of the thirteenth. It looks like
-Joe Girardi."*
+*"Oh yes, you bobble \<unintelligible\> the top of the thirteenth. It looks
+like Joe Girardi."*
 
 When the sky opens wide \\
 And the late winter rain goes wild \\
