@@ -94,7 +94,32 @@ Hey
 
 ## Shower ## {#shower}
 
-*not yet transcribed*
+Blackest storm I ever saw \\
+Was headed in from Omaha \\
+And the latest news from Tokyo was a lot of ugly numbers \\
+I was checking pay phones for forgotten coins \\
+When the clouds came over West Des Moines \\
+Got into the shower with all my clothes on \\
+Came into the house, got the curtains drawn \\
+Hey hey, let the water run down \\
+Hey hey, let the water run down
+
+By noon it was clear that winter'd come \\
+And I just let the water run \\
+And I got soap suds in my eyes \\
+And they stung like iodine \\
+The phone started ringing like a fire alarm \\
+And the voice on the machine was brutally calm \\
+New numbers coming down the wire \\
+Got out of the shower with my eyes on fire \\
+Hey hey let it fall on me \\
+Let it all come down relentlessly \\
+You swore that you would stick around \\
+When days like this started coming down \\
+Well, get out the crystal \\
+Break out the good champagne \\
+We're going down \\
+In flames
 
 ## \[Sliding Down the Right Pathway\] ## {#pathway}
 
