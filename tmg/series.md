@@ -592,10 +592,12 @@ References contained in liner notes are listed under the release name.
 | [Dilaudid](sunset.html#dilaudid)      | Psalms 90:10          | TST; 2005                 |
 | [The Doll Song](unreleased-_f.html#dollsong) | 1 Corinthians 13 | Unreleased; 1992?       |
 | [Down Here](galesburg.html#downhere)  | Psalms                | FFG; 1997                 |
-| [Down to the Ark](unreleased-_f.html#ark) | Noah's Ark        | Unreleased; 2008          |
+| [Down to the Ark](unreleased-_f.html#ark) | Noah's Ark; Romans 8:39; Psalm 104:25 | Unreleased; 2008 |
 | [Dutch Orchestra Blues](irh.html#dutch) | God                 | IRH; 1998                 |
 | [Elijah](coroner.html#elijah)         | Galatians 4:4; Luke 1:44; resurrection of Jesus | TCG; 2000 |
+| [Elizabeth Barrett Browning](unreleased-_f.html#browning) | Saint Christopher | Unreleased; ? |
 | [Enoch 18:14](tlotwtc.html#enoch)     | Enoch 18:14           | TLOTWTC extra, TLOTWIF; 2009 |
+| [Eugene Sue](unreleased-_f.html#eugene | God                  | Unreleased; 2005?         |
 | [Ezekiel 7 and the Permanent Efficacy of Grace](tlotwtc.html#ezekiel) | Ezekiel 7; efficacious grace | TLOTWTC; 2009 |
 | [From the Lake Trials](compilation.html#trials) | God's creatures | Compilation; 2017 |
 | [Genesis 19:1 -- 2](devil.html#genesis) | Genesis 19:1 -- 2   | DITS; 2002                |
