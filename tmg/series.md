@@ -677,8 +677,8 @@ References contained in liner notes are listed under the release name.
 
 Although metal themes permeate John's work (and of course, [Last Plane to
 Jakarta](http://lastplanetojakarta.com/)), Black Sabbath has received
-particular attention. John has explained that there many of these songs but
-that they are unlikely to have a release dedicated to them, although the
+particular attention. John has explained that there are many of these songs
+but that they are unlikely to have a release dedicated to them, although the
 online-only Marsh Witch Visions release eventually compiled 4 new songs and 1
 demo in 2017 (not covered here given its release date).[^sabbath] Although
 some of these songs simply mention Black Sabbath, many others are explorations
@@ -702,7 +702,7 @@ the band.
 | [Answering the Phone](ahwt.html#phone) | All Hail West Texas reissue | 2013 |
 | California Jam                        | Marsh Witch Visions   | 2016?     |
 | [Going Back to California](online.html#backtocalifornia) | Online release | 2016 |
-| Marsh Witch Vision                    | Marsh Witch Visions   | 2017      |
+| Marsh Witch Visions                   | Marsh Witch Visions   | 2017      |
 | No More Tears                         | Marsh Witch Visions   | 2017      |
 | Shirtless in Hamburg                  | Marsh Witch Visions   | 2017      |
 | [Song for Black Sabbath's Second North American Tour](unreleased-sz.html#tour) | Unreleased | 2014? |
