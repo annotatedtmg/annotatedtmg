@@ -33,6 +33,7 @@ notes, and the rest will come when the page is fully annotated.
 * [All Frosting](#frosting)
 * [Alpha Aquae](#aquae)
 * [Going to California](#california)
+* [\[Sliding Down the Right Pathway\]](#pathway)
 ^
 * [Credits](#credits)
 * [Footnotes](#footnotes)
@@ -121,6 +122,41 @@ Skin cracking \\
 The skies are clear \\
 There's no turning back now \\
 But there's no water here
+
+## \[Sliding Down the Right Pathway\] ## {#pathway}
+
+I came sliding down the right pathway \\
+I was shining like a migraine headache \\
+I came calling with my voice newly polished \\
+My throat was reflecting things you had left in the air \\
+And I could taste the air \\
+It was hot in my lungs \\
+It was strange to be in there without you \\
+Light from the window \\
+Burns my eyes \\
+And that tells me something about you
+
+I sold my soul to the man down the hallway \\
+And I crept lightly into the next room \\
+What was left of your heartbeat burned so brightly \\
+I could feel the light inside, I tightened up inside \\
+When I was in the places you had been in \\
+I could hear water \\
+Like I remembered hearing water around you \\
+It came clear in my mind \\
+The way the building was set up \\
+And that tells me something about you
+
+The traces you left gave off a weird sequence of lines \\
+And I marked everything in the building with a mark that only I could recognize \\
+And the things in my memory lined up next to each other and they started to burn \\
+And then the smell of your hair came alive within in me, I mean it came alive in me \\
+When I saw you there \\
+Something inside me changed \\
+And that's the last time I'll ever doubt you \\
+There were animal sounds \\
+Ringing within the walls \\
+And that tells me something about you
 
 ## Credits ## {#credits}
 

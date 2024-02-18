@@ -614,7 +614,7 @@ if you figure out what they are, get in touch :)
 * [The Sign (Ace of Base cover)](peter.html#thesign)
 * [Sign of the Crow 2](online.html#crow)
 * [Sinaloan Milk Snake Song](zopilote.html#sinaloan)
-* [\[Sliding Down the Right Pathway\]](unreleased-sz.html#pathway)
+* [\[Sliding Down the Right Pathway\]](teg-unreleased.html#pathway)
 * [\[Slip Away from Me\]](unreleased-sz.html#slip)
 * [Slow West Vultures](wsabh.html#vultures)
 * [Snakeheads](yajna.html#snakeheads)
@@ -952,6 +952,7 @@ These are songs that are purported to exist but which I have been unable to
 find or verify.
 
 * Alpha Compunction
+* Blues for Cicero
 * Dance the Night Away (Van Halen cover)
 * Dancing in the Moonlight (Thin Lizzy cover)
 * Escape to Wild Palm City

@@ -652,6 +652,7 @@ References contained in liner notes are listed under the release name.
 | [San Bernardino](heretic.html#bernardino) | Genesis 3:24      | HP; 2008                  |
 | [Satanic Messiah](messiah.html#messiah) | Satan; the Messiah  | SM; 2008                  |
 | [Sept 15th 1983](heretic.html#sept)   | Psalms 137:5          | HP; 2008                  |
+| [\[Shield My Eyes Against the Glare\]](unreleased-sz.html#glare) | Satan | Unreleased; 2010? |
 | [Short Song About the 10 Freeway](peter.html#tenfreeway) | God; Satan | SFPH, BMF; 1995, 1999 |
 | [Sign of the Crow 2](online.html#crow) | Matthew 12:39 -- 41; Mark 8:12 | Online release; 2008 |
 | [Snow Owl](galesburg.html#owl)        | Heaven                | FFG; 1997                 |
@@ -661,6 +662,7 @@ References contained in liner notes are listed under the release name.
 | [Store](jam.html#store)               | Heavenly choir; Lucifer | JEB; 2001               |
 | [Supergenesis](blackpear.html#supergenesis) | Genesis 3       | BPT; 2008                 |
 | [Tallahassee](tallahassee.html#tallahassee) | Destroying angel | T; 2002                  |
+| [That Hippolytine Feeling](unreleased-sz.html#hippolytine) | God | Unreleased; 1992?      |
 | [This Year](sunset.html#thisyear)     | Passover Seder        | TST; 2005                 |
 | [Tollund Man](sweden.html#tollund)    | This Is My Father's World hymn | S; 1995          |
 | [Toolshed](heretic.html#toolshed)     | Satan                 | HP extra; 2008            |

@@ -15,9 +15,13 @@ TODO:
   * Checking for related material?
 -->
 
-__*This page is a skeleton!*__
+### Lyrics only --- sorry! ###
+{: style="margin-top: 100px"}
 
-Want to help? [Read here](about.html#contributing) and pitch in!
+Apologies, but I haven't had the chance to annotate this album yet --- if
+you'd like to help, please [email me](../about.html#contact)! This page is
+just a placeholder so that you can read the lyrics. Full annotations, liner
+notes, and the rest will come when the page is fully annotated.
 
 ### Related material ### {#related}
 
@@ -29,7 +33,6 @@ Want to help? [Read here](about.html#contributing) and pitch in!
 * [Scavenger Babies](#scavenger)
 * [\[Shield My Eyes Against the Glare\]](#glare)
 * [Shower](#shower)
-* [\[Sliding Down the Right Pathway\]](#pathway)
 * [\[Slip Away from Me\]](#slip)
 * [Something Blue](#blue)
 * [Song for Black Sabbath's Second North American Tour](#tour)
@@ -82,68 +85,214 @@ Hey
 [^may1975]:
     This date is shortly after the [Fall (or Liberation, depending on your
     point of view) of Saigon](https://en.wikipedia.org/wiki/Fall_of_Saigon) at
-    the end of the Vietnam War on April 30, 1975. 
+    the end of the Vietnam War on April 30, 1975.
 
 ## Scavenger Babies ## {#scavenger}
 
-*not yet transcribed*
+Wake up all the birds of prey \\
+Dig your tools out from the clay \\
+Seal the exits of your room \\
+Watch the cactus flowers bloom
+
+And send my regards to the boys down on the corner \\
+Yeah, send my regards to the boys down on the corner
+
+Build a house from sticks and mud \\
+Listen to the poison singing in your blood \\
+Pull yourself a tall cool drink \\
+Carve your initials in the bathroom sink
+
+And send my regards to the boys down on the corner \\
+Yeah, send my regards to the boys down on the corner
+
+The city of Norwalk in my dreams \\
+Rises like Atlantis from a watery grave \\
+Burn the things you have to burn \\
+Save all the people you're supposed to save
+
+And send my belongings to the drop box in Tijuana \\
+And send my regards to the boys down on the corner
 
 ## \[Shield My Eyes Against the Glare\] ## {#glare}
 
-*not yet transcribed*
+Up the hallway and out into the air \\
+Shield my eyes against the glare \\
+Blacktop bubbling in the heat \\
+Satan rising from the street
+
+I don't care much \\
+Wildflowers wither at my touch \\
+And I'll burn too \\
+Before I get through
+
+Down the street, step short and sweet \\
+Watch for the hand behind the curtain \\
+There is no trace of it \\
+Not anywhere, so I shield my eyes against the glare \\
+
+And I slide \\
+Glide \\
+Into the intersection \\
+Check out my own reflection \\
+When the gears grind, I won't mind
 
 ## Shower ## {#shower}
 
 Blackest storm I ever saw \\
-Was headed in from Omaha \\
-And the latest news from Tokyo was a lot of ugly numbers \\
+Was coming in from Omaha \\
+And the latest news from Tokyo \\
+Was a lot of ugly numbers
+
 I was checking pay phones for forgotten coins \\
 When the clouds came over West Des Moines \\
-Got into the shower with all my clothes on \\
-Came into the house, got the curtains drawn \\
-Hey hey, let the water run down \\
-Hey hey, let the water run down
+Got into the house, got the curtains drawn \\
+Got into the shower with all my clothes on
+
+Hey hey, let the water come down \\
+Hey hey, let the water come down
 
 By noon it was clear that winter'd come \\
 And I just let the water run \\
-And I got soap suds in my eyes \\
-And they stung like iodine \\
-The phone started ringing like a fire alarm \\
+I got soap suds in my eyes \\
+And they stung like iodine
+
+Phone started ringing like a fire alarm \\
 And the voice on the machine was brutally calm \\
 New numbers coming down the wire \\
-Got out of the shower with my eyes on fire \\
-Hey hey let it fall on me \\
+Got out of the shower with my eyes on fire
+
+Hey, hey, let it fall on me \\
 Let it all come down relentlessly \\
 You swore that you would stick around \\
 When days like this started coming down \\
-Well, get out the crystal \\
-Break out the good champagne \\
+Well, break out the crystal \\
+Get out the good champagne \\
 We're going down \\
 In flames
 
-## \[Sliding Down the Right Pathway\] ## {#pathway}
-
-*not yet transcribed*
-
 ## \[Slip Away from Me\] ## {#slip}
 
-*not yet transcribed*
+Tapped on the window from the inside \\
+Just to hear the glass ring \\
+And it sang out like a shark \\
+Then went silent like a tiny frightened thing
+
+And the small sun fell down through the treetops \\
+And the small sun shattered on the snow \\
+And the snow stretched out like a blanket \\
+Like something I used to know
+
+I let the memory slip away from me \\
+I let my memory slip away from me \\
+And the snow stretched out like a shroud \\
+From our doorstep to the seashore
+
+And the new day came, whatever it intends to be \\
+Let my memory be erased irretrievably \\
+The rain will fall on the old house now \\
+A thousand miles away
+
+In the sky sometimes I see a reckoning \\
+When I'm cold and tired \\
+And then the compass tilts like a sinking ship \\
+Or spins like a thing gone wild
 
 ## Something Blue ## {#blue}
 
-*not yet transcribed*
+You come around here when the lights are down low \\
+And you hang around for six or seven hours and then you get ready to go \\
+Well I remember when you used to kiss me without me asking you to \\
+Yeah I remember when you used to
 
-## Song for Black Sabbath's Second North American Tour ## {#tour}
+When I lean toward to you, you turn away \\
+It's a quarter past 1 AM on a warm Saturday \\
+That's all right, that's all right, I hear you \\
+Don't do anything you don't wanna do \\
+But I remember when you used to kiss me without me asking you to \\
+Yeah I remember when you used to
 
-*not yet transcribed*
+## Song for Black Sabbath's Second North American Tour [^firsttour] ## {#tour}
+
+Hang my hammer on a nail \\
+Never see it again \\
+Set sail for the cosmos \\
+High above the world with its beaten-down men
+
+Not long for this world \\
+Have to be reminded \\
+To stay away from windows \\
+Not to leave important things behind
+
+All gone \\
+All gone \\
+With the dawn
+
+And then I'm in an airplane heading west \\
+Over the ocean \\
+Unsteady on my feet again \\
+A body in motion
+
+So far from the slaughterhouse \\
+New creatures with new hearts \\
+Landing at LaGuardia \\
+Tearing up the charts
+
+All gone \\
+All gone \\
+With the dawn
+
+[^firsttour]:
+    Occasionally called Song for Black Sabbath's First North American Tour,
+    rather than Second. Rango's Ballroom, Pittsburg, February 28, 2014.
 
 ## Song for God ## {#god}
 
-*not yet transcribed*
+Neighbor kids running across the front yard this evening \\
+Sun going down, wind gathering strength \\
+The state I live in is the largest of its kind \\
+It takes two days or better to walk across its length
+
+If you try to come and find me, I will know you're coming \\
+There's an old fallout shelter I can hide in \\
+I won't even be able to hear their hoofbeats
+When the horsemen ride in
+
+Another mild winter, time seems to stand still \\
+Sky swallows up the city like a tent \\
+Young breezes' razor patterns in the dust \\
+No way of saying what they're supposed to represent
+
+I have come to where I've come to now \\
+Always abiding in you \\
+If you try to find me now I'll be invisible to everything \\
+When the horsemen come riding on through
 
 ## Song for Greg Valentine ## {#valentine}
 
-*not yet transcribed*
+When they get me in a corner, break legs \\
+When I feel alone and useless, break legs \\
+If I can't claim the victory \\
+I'm taking you down with me \\
+Break legs, break legs, break legs
+
+When your enemies are closing in, break legs \\
+When they've got you under contract, break legs \\
+When they're filling out your card \\
+Go hard \\
+Break legs, break legs, break legs
+
+Tear my insides up \\
+With over the counter stuff \\
+Jump the turnbuckle and grimace \\
+Try to look tough
+
+When you get a reputation, break legs \\
+Brook no insubordination, break legs \\
+When the beer cups are raining down on you \\
+Do what they're paying you to do \\
+Break legs, break legs \\
+Break legs, break legs, break legs \\
+Break legs, break legs, break legs
 
 ## Song for My Stepfather ## {#stepfather}
 
@@ -170,11 +319,44 @@ You erase me
 
 ## Song for Roger Maris ## {#maris}
 
-*not yet transcribed*
+When the power of God shows up in your swing \\
+And the people start to notice and you can't do anything about it \\
+And they all come to see you \\
+They start to crowd around \\
+Let me tell you brother, you can feel it coming down
+
+And I got an angel watching over me \\
+A monkey on my back \\
+The devil at my heels \\
+Reporters breathing down my neck
+
+Yeah, my father always told me to finish what you start \\
+And my wife's about to leave me and it's going to break my heart \\
+And I no longer have my youth \\
+I no longer have my looks \\
+I got a goddamn one-way ticket to the goddamn history books
+
+And I got an angel watching over me \\
+A monkey on my back \\
+The devil at my heels \\
+Reporters breathing down my neck
 
 ## Song from the Shoreline ## {#shoreline}
 
-*not yet transcribed*
+Through the bodies of a hundred people \\
+I saw you \\
+I saw you coming through the crush \\
+Saw you pushing through
+
+And in the bodies of a hundred people \\
+Moving around \\
+I shut my ears off to the world \\
+Couldn't hear a sound \\
+
+Among the bodies of a hundred people \\
+I saw you \\
+I saw you coming through the crush \\
+I saw you pushing through
 
 ## Stable Boy Song ## {#stableboy}
 
@@ -200,31 +382,185 @@ Until you come, I'll keep this place ready for you
 
 ## Standard Bitter Love Song #1 ## {#sbls1}
 
-*not yet transcribed*
+I'm not gonna say what I came over to say to you \\
+But you were thinking along the same lines \\
+And you let the words come ringing through
+
+I wouldn't've said that to you \\
+I wouldn't say it if they paid me to \\
+You got no manners \\
+You got no manners at all \\
+You got no manners \\
+You got no manners \\
+You got no manners at all \\
+You got no manners
+
+I'm going to try real hard \\
+But I, I can't believe that you're really gonna do it \\
+It's like one of those Chinese kites flying in the wind \\
+And then some kid with a shotgun sends a bullet through it
+
+And I, I came here to say it \\
+But I've done that before \\
+But I'd never have told you that I don't love you anymore \\
+You got no manners \\
+You got no manners at all \\
+You got no manners \\
+You got no manners \\
+You got no manners at all \\
+You got no manners \\
+You got no manners \\
+You got no manners at all \\
+You got no manners
 
 ## Standard Bitter Love Song #5 ## {#sbls5}
 
-*not yet transcribed*
+Come down in the flatland \\
+Show me your shoulder \\
+Wait now where the black hand touches us  \\
+We'll both grow older
+
+And the sky above us \\
+And the ground beneath us \\
+And the air around us \\
+And the ocean to the right
+
+Measure your arm length \\
+I can't live without it \\
+I treasure those thirty inches \\
+I want to talk about it
+
+And the sky above us \\
+And the ground beneath us \\
+And the air around us \\
+And the ocean to the right
+
+Love you in the cold air \\
+Your long hair makes me shiver \\
+Above you I see the sun \\
+Light up every sliver
+
+And the sky above us \\
+And the ground beneath us \\
+And the air around us \\
+And the ocean to the right
+
+And the sky above us \\
+And the ground beneath us \\
+And the air around us \\
+And the ocean to the right
 
 ## Standard Bitter Love Song #6 ## {#sbls6}
 
-*not yet transcribed*
+I don't like what I've turned into \\
+There's a hole in my chest in the spot that you wormed out through \\
+They say it's on the mend \\
+But it hurts me when I bend \\
+Yeah
+
+And I saw you down at Angie's place \\
+That rippling smile on your perfect face \\
+Well, it really doesn't suit you \\
+When I see it I want to shoot you \\
+Sorry
+
+And I don't like what you said to me \\
+I don't like what you said to me \\
+But I guess I'll have to deal with it \\
+Just let the bullet hit me and I just reel with it \\
+Isn't that right \\
+Isn't that right \\
+Isn't that right \\
+Isn't that right
 
 ## Sure Do Love You Baby, But I Can't Do 60 No More ## {#cantdo60}
 
-*not yet transcribed*
+They had moved down here and you came down too \\
+Where the surf's always wild and the skies are blue \\
+Got my blood pressure measured down in Pahokee \\
+One sixty-five over one twenty-three \\
+And the lights are low over Pompano Beach tonight \\
+And one light is flickering out for the last time
+
+Coconuts growing in the coconut tree \\
+Surf and turf and sand and sea \\
+Down here in the wreckage, just us three \\
+Him and you, you and me \\
+And the lights are low over Pompano Beach tonight \\
+And one light is flickering out \\
+Out for the last time
 
 ## Tampa ## {#tampa}
 
-*not yet transcribed*
+My brother and me found out \\
+Where you keep your ugly secrets hid \\
+We dug up the missing one this morning \\
+I don't know why you did what you did \\
+Yeah, we found him naked in the snow \\
+Down where the wild crocus grow \\
+I don't wanna do this anymore \\
+Yeah, ain't wanna fight your dirty little war
+
+Yeah, my brother said not to waste another thin dime \\
+Because he ain't comin' out next time \\
+And you can soak in a bathtub full of gasoline \\
+But you will never get your hands clean
+
+Yeah, the building was glowing, fire was raging within \\
+And you ran out to save your own skin \\
+And I probably shouldn't blame you \\
+Yeah, yeah, I probably shouldn't blame you \\
+But by God, I do \\
+And I found the photographs in the top dresser drawer \\
+But ain't gonna fight your dirty little war \\
+Hey, hey, hey \\
+Yeah
 
 ## That Hippolytine Feeling ## {#hippolytine}
 
-*not yet transcribed*
+Sat together on the porch \\
+As the sunset bled \\
+And you playfully leveled your semi-automatic handgun \\
+Right at my head \\
+And then God \\
+In another stroke of his genius \\
+He opened up the floodgates \\
+And the bulls came out \\
+And the bulls came out
+
+We heard the heavy hooves beating on the earth \\
+As the moment came near \\
+I felt the chamber of your pistol kissing my jaw \\
+I felt your red lips brushing my ear \\
+And then God \\
+Convincing if not transparent in his motives \\
+He opened up the floodgates \\
+But the rivers were dry \\
+'Cause it was late August \\
+And the bulls came out \\
+And the bulls came out
 
 ## Tribe of the Horned Heart ## {#tribe}
 
-*not yet transcribed*
+You knew that they were out there by the signs they'd left behind \\
+On old abandoned buildings, just some Xs and some lines \\
+Half-circles in the concrete, crescents in the snow \\
+You could find the little beacons almost everywhere you'd go
+
+Only people who were sick enough \\
+Knew how to read them right \\
+I got sick when I was seventeen \\
+And I'd hunt down signs all night
+
+You'd listen for the voices in the generator's hum \\
+Hang out behind the power plant and wait for them to come \\
+Hints about their mission in the rustling of the surf \\
+But no secrets can be kept from you if your faith is strong enough
+
+Only people who've been sick too long \\
+Can hold on to the hope \\
+That some friendly ghost is listening to the prayers they learned to say \\
+At the slack end of the rope
 
 ## Tulsa Imperative ## {#tulsa}
 
@@ -260,19 +596,150 @@ I remember the heat running through me
 
 ## Warm Lonely Planet ## {#lonelyplanet}
 
-*not yet transcribed*
+Let the stars come out, and the moon shine bright \\
+We're sleeping on the porch tonight \\
+Wind blew all the power lines down \\
+Watch where you step if you go walking around
 
-## We Shall All Be Healed ## {#wsabh}
+This may be the night \\
+Our bodies fill with light \\
+And we may hover above \\
+The surface of \\
+Our warm lonely planet
 
-*not yet transcribed*
+Let cooling rains come, let them fall \\
+Let the grass grow strong and tall \\
+Let the dandelions breed \\
+Give me what you know I need
+
+This may be the night \\
+Our bodies fill with light \\
+And we may hover above \\
+The surface of \\
+Our warm lonely planet
+
+## We Shall All Be Healed [^wsabhjohn] [^wsabhalt] ## {#wsabh}
+
+Red brick building \\
+Nights that never end \\
+Whole lime structure left \\
+Sad games of let's pretend \\
+Do our best \\
+Stay true because it's what we have to do \\
+We will all be healed \\
+Before the night is through
+
+Big church basement \\
+Flashing lights \\
+Tell me nice things \\
+Hold me tight \\
+But not too tight \\
+Devan and Ivory \\
+And Carolee and Quinn \\
+We will all be healed \\
+Before the sun sneaks in
+
+[^wsabhjohn]:
+    "This is a song I'll never finish writing... So I had some friends in
+    Portland, and most of them are dead. And I have a lot of long stories
+    about all of them, and they're the sorts of people you meet when you're
+    18 or 19 who are as lost and desperate as you are, but --- and you never
+    see them again after a certain point, but you carry them with you like
+    little ingots resting in your heart, right. And they shine there, and
+    gleam there, and hold a sort of cold fire. And the whole album, We Shall
+    All Be Healed, was for them. And, I sort of, I like the idea of a hidden,
+    nonexistent title track, right." Troubadour, Los Angeles, December 16,
+    2011
+
+    "I found the We Shall All Be Healed notebook... and \[it\] has a bunch of
+    songs I didn't get to, and that is a song that I had written 7 or 8 times,
+    and I will write some more versions of it too, and it, like, names all the
+    people, who are all gone, who were sort of --- who should be credited for
+    the album." --- Lawrence Arts Center, Lawrence, September 9, 2011
+
+[^wsabhalt]:
+    We Shall All Be Healed, being an unfinished song with no fixed content by
+    design, has no clear lyrics. The lyrics listed here are from the earliest
+    recording I'm aware of. That said, there is another version with very
+    different lyrics, that is much more prominently documented in the bootleg
+    record several years later, and played on piano instead of guitar:
+
+    > Left home in a blur \\
+    > Arrived in the night \\
+    > Everything is going to be all right \\
+    > Came back to the place \\
+    > Where it all flared out \\
+    > Just to check if the reservoir \\
+    > Still bore the mark of the drought
+    > 
+    > Up to 13th and Taylor, check my pulse \\
+    > You weren't there, and neither was anybody else \\
+    > Stared down demons, came back breathing \\
+    > No real point in ever leaving \\
+    > Tracy and Ivory and Brad and me too \\
+    > We will see some great miracle before the night is through
+    > 
+    > Slipped in through the entrance \\
+    > Stood in the hall \\
+    > Left my fingerprints on the elevator wall \\
+    > Went down to my old room \\
+    > Stood outside it a minute \\
+    > Wondering if parts of me \\
+    > Were still there in it
+    > 
+    > Who can say it won't be me \\
+    > You are gone now and I am free \\
+    > Wesley and Quinn and Devan and you \\
+    > We will all be fixed up as good as new 
+    > 
+    > And I stared at the number 10 on my old apartment's door \\
+    > That's one ghost that can't bite me anymore \\
+    > And someday we will all feel at home in our new skin \\
+    > And someday we will never be alone again \\
+    > When the sun comes up and the night has passed \\
+    > We shall all be healed at last, at last, at last, at last
+
+    See for example Lawrence Arts Center, Lawrence, September 9, 2015; Saturn,
+    Birmingham, October 4, 2015; Radio X session, London, May 25, 2017.
 
 ## \[Whon\] ## {#whon}
 
-*not yet transcribed*
+The garbage man is never going to come \\
+The cans out at the curb will bloat and stink \\
+The rot will work its way through cracks in the foundation \\
+The water will go stagnant in the sink \\
+And you, you will know \\
+Where it is that memories go
+
+The migratory birds will not come back \\
+The charms that summer held will all turn sour \\
+And from the treetops when the wind stops \\
+Sweet blossoms will rain down and you will stand beneath the shower \\
+And it will be so clear \\
+You will never quite escape last year
+
+The wind will blow or else it won't \\
+Sometimes you just move on and sometimes you just don't \\
+You think the matter through, you try hard not to think \\
+The water all goes stagnant in the kitchen sink \\
+And you will know, and I will too \\
+What it was I might have left to you
 
 ## Wishing the House Would Crash ## {#crash}
 
-*not yet transcribed*
+I was standing outside \\
+With my hands in the air \\
+And the scent of gardenias \\
+Was everywhere \\
+Let the house come down on me \\
+Let the house come down on you
+
+I made my invocation \\
+With my eyes on fire \\
+You were there at the window \\
+You are a goddamn liar \\
+Let the house come down on me \\
+Let the house come down on you
 
 ## Wizard Level ## {#wizardlevel}
 
@@ -453,7 +920,8 @@ And the juice of the barley for me
 
 Thank you to Austin Campbell, who transcribed and annotated [Saigon Shrunken
 Panorama](#panorama) and [You're in Maya](#maya), and transcribed [Wizard
-Level](#wizardlevel) and [You Were Cool](#cool).
+Level](#wizardlevel) and [You Were Cool](#cool). Thanks also to [Alice
+Rose](https://www.alicerosemurphy.com) for transcribing [Shower](#shower).
 
 As always, thanks to the superlative Caliclimber, whose
 [Flickr](https://www.flickr.com/photos/caliclimber/albums/72157604433641001)
