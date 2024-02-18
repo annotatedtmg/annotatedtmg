@@ -117,6 +117,7 @@ function toggle() {
 | 1996-01-15 | Brownie's, New York              |                           |           |
 | 1996-01-18 | WNUR session                     |                           | [Show info][1996-01-18i] |
 | 1996-02-25 | Tower, Bremen                    | [archive.org][1996-02-25] |           |
+| 1996-02-26 | FSK Radio session                | [archive.org][1996-02-26] |           |
 | 1996-03-14 | Broadway Kino, Essen, Germany    | [butter][]                |           |
 | 1996-03-16 | Lintfabrik, Kontich, Belgium     | [butter][]                |           |
 | 1996-03-20 | The Garage, London               | [archive.org][1996-03-20] |           |
@@ -695,6 +696,7 @@ If you have any ideas about where these could be from, please be in touch!
 
 [1996-01-18i]: http://box698.bluehost.com/~wnurspor/airplay/?p=603
 [1996-02-25]: https://archive.org/details/tMG1996-02-25
+[1996-02-26]: https://archive.org/details/tmg1996-02-26
 [1996-03-20]: http://archive.org/details/tmg1996-03-20.flac16
 [1996-09-02]: https://archive.org/details/08WavingAtYou
 [1996-09-03]: https://archive.org/details/TheMountainGoats-1996-09-03
