@@ -18,7 +18,7 @@ TODO:
 ### Lyrics only --- sorry! ###
 {: style="margin-top: 100px"}
 
-Apologies, but I haven't had the chance to annotate this album yet --- if
+Apologies, but I haven't had the chance to annotate all of these yet --- if
 you'd like to help, please [email me](../about.html#contact)! This page is
 just a placeholder so that you can read the lyrics. Full annotations, liner
 notes, and the rest will come when the page is fully annotated.

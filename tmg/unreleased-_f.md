@@ -18,8 +18,8 @@ TODO:
 ### Lyrics only --- sorry! ###
 {: style="margin-top: 100px"}
 
-Apologies, but I haven't had the chance to annotate this album yet --- if
-you'd like to help, please [email me](../about.html#contact)! This page is
+Apologies, but I haven't had the chance to annotate all of these song yet ---
+if you'd like to help, please [email me](../about.html#contact)! This page is
 just a placeholder so that you can read the lyrics. Full annotations and the
 rest will come when the page is fully annotated.
 
