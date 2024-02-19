@@ -26,19 +26,19 @@ annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
 contain lyrics but have yet to be annotated; those prefixed with a plus (+)
 instead need transcription as well.
 
-The Annotated Mountain Goats is presently in an archival state. It is likely
-permanently incomplete. Nonetheless, I love hearing from you. Please feel free
-to [reach out](about.html#contact)!
+The Annotated Mountain Goats is presently in an archival state, and is edited
+only intermittently. It is likely permanently incomplete. Nonetheless, I love
+hearing from you. Please feel free to [reach out](about.html#contact)!
 
-To subscribe to updates, unlikely as they are, use [the RSS feed](tmg-rss.xml).
+To subscribe to updates, infrequent as they are, use [the RSS feed](tmg-rss.xml).
 
 *[Jump to the table of contents](#indexes){: .jump }*
 {: style="text-align: center;"}
 
 ### Indexes ### {#indexes}
 
-* [Complete song index](songlist.html)
-* [Comprehensive live show catalog](live.html)
+* [Song index](songlist.html)
+* [Live show catalog](live.html)
 * [Song series](series.html)
 * [Changelog](changelog.html)
 

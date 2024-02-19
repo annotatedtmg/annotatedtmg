@@ -51,9 +51,10 @@ help.
 # Contributing #
 
 The Annotated Mountain Goats is presently in an archival state. Further edits
-are unlikely, although the future is always uncertain. You are welcome to take
-from this work in your own Mountain Goats projects. Please consider crediting
-the Annotated Mountain Goats by linking back to the site.
+are likely to be sporadic at best, although the future is always uncertain.
+You are welcome to take from this work in your own Mountain Goats projects.
+Please consider crediting the Annotated Mountain Goats by linking back to the
+site.
 
 A former guide for contributing, as well as all of the source code, is
 available in the [git repository][repo]. This hopefully makes it easier to
