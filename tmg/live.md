@@ -39,6 +39,9 @@ tape does not contain the entire show, while "partially available" is used
 when a more complete recording exists, only a subset of which is available for
 download. I'm delighted to have recorded a few over a dozen of these.
 
+Tapes that I made personally [can be found
+here](https://archive.org/details/@annotatedtmg)!
+
 Listings to archive.org downloads that have no link have been removed by the
 taper for a variety of reasons, but were once available there.
 
@@ -883,7 +886,7 @@ If you have any ideas about where these could be from, please be in touch!
 [2012-06-01]: http://www.npr.org/2012/06/01/152682966/cabinet-of-wonders-episode-two
 [2012-06-22]: http://archive.org/details/tMG2012-06-22.aud.mp3
 [2012-06-27]: http://archive.org/details/MountainGoats2012-06-27
-[2012-06-28a]: http://archive.org/details/tmg2012-06-28
+[2012-06-28a]: http://archive.org/details/tmg2012-06-28.sah
 [2012-06-28b]: http://archive.org/details/TheMountainGoats-LiveAtSwedishAmericanHall-SanFrancisco-June28
 [2012-06-30]: http://archive.org/details/tMG2012-06-30
 [2012-07-01]: http://archive.org/details/tmg2012-07-01.tmg2012-07-01.flac
@@ -939,19 +942,19 @@ If you have any ideas about where these could be from, please be in touch!
 [2014-04-14]: http://www.avclub.com/videoplaylist/pioneering-nyc-mountain-goats-honor-ramones-203264
 [2014-04-15]: https://www.youtube.com/watch?v=rp9wq0R6tUM
 [2014-04-16]: https://www.youtube.com/playlist?list=PLg-okiuA8FAF9MrTlG_IAIew5gbDWSVkR
-[2014-04-19a]: https://archive.org/details/tmg2014-04-19.lauries.flac16
-[2014-04-19b]: https://archive.org/details/tmg2014-04-19.oldtown.flac16
-[2014-04-20]: https://archive.org/details/tmg2014-04-20
+[2014-04-19a]: https://archive.org/details/tmg2014-04-19.lauries
+[2014-04-19b]: https://archive.org/details/tmg2014-04-19.oldtown
+[2014-04-20]: https://archive.org/details/tmg2014-04-20.oldtown
 [2014-04-30]: https://www.youtube.com/watch?v=3pfGYM-BWAA
 [2014-05-14]: https://www.youtube.com/playlist?list=PLXwNktKXjJ-sW4bWKB9Btu0i7qte1d0kB
 [2014-06-05]: https://www.youtube.com/watch?v=yPVpvQDcfHI
-[2014-06-13]: https://archive.org/details/tmg2014-06-13
-[2014-06-14]: https://archive.org/details/tmg2014-06-14
+[2014-06-13]: https://archive.org/details/tmg2014-06-13.both
+[2014-06-14]: https://archive.org/details/tmg2014-06-14.both
 [2014-06-14sbd]: https://archive.org/details/MountainGoats2014-06-14.mix.flac16
-[2014-06-15]: https://archive.org/details/tmg2014-06-15
+[2014-06-15]: https://archive.org/details/tmg2014-06-15.both
 [2014-06-15sbd]: https://archive.org/details/MountainGoats2014-06-15.mix.flac16
-[2014-06-17]: https://archive.org/details/tmg2014-06-17
-[2014-06-18]: https://archive.org/details/tmg2014-06-18
+[2014-06-17]: https://archive.org/details/tmg2014-06-17.mayan
+[2014-06-18]: https://archive.org/details/tmg2014-06-18.crescent
 [2014-06-21]: https://www.youtube.com/watch?v=2R2QwLsrE-U
 [2014-06-27a]: https://www.youtube.com/watch?v=HQWWupde0Ps
 [2014-07-25a]: https://vimeo.com/107190606
@@ -986,9 +989,9 @@ If you have any ideas about where these could be from, please be in touch!
 [2015-05-27]: https://archive.org/details/MountainGoats2015-05-27.MountainGoats2015-05-27
 [2015-05-29]: https://archive.org/details/tmg2015-05-29.radio.flac16
 [2015-05-31]: https://archive.org/details/MountainGoats2015-05-31
-[2015-06-01]: https://archive.org/details/tmg2015-06-01
+[2015-06-01]: https://archive.org/details/tmg2015-06-01.fillmore
 [2015-06-01sbd]: https://archive.org/details/MountainGoats2015-06-01.mix.flac16
-[2015-06-02]: https://archive.org/details/tmg2015-06-02
+[2015-06-02]: https://archive.org/details/tmg2015-06-02.gamh
 [2015-06-02sbd]: https://archive.org/details/MountainGoats2015-06-02.mix.flac16
 [2015-06-03]: https://archive.org/details/tmg2015-06-03.flac16
 [2015-09-10]: https://archive.org/details/tmg2015-09-10.tmg20152015-09-10
@@ -998,8 +1001,8 @@ If you have any ideas about where these could be from, please be in touch!
 [2015-10-04a]: https://archive.org/details/mountaingoats2015-10-04.flac16/mountaingoats2015-10-04t11.flac
 [2015-10-04b]: http://devil-in-the-shortwave.tumblr.com/post/130582248967/i-hope-someone-got-a-better-recording-of-this
 [2015-11-19]: https://www.youtube.com/playlist?list=PLC-nCSWMEKl1dAAf54CeZ4VTaeG4chJZT
-[2016-02-27]: https://archive.org/details/tmg2016-02-27
-[2016-02-28a]: https://archive.org/details/tmg2016-02-28
+[2016-02-27]: https://archive.org/details/tmg2016-02-27.sah
+[2016-02-28a]: https://archive.org/details/tmg2016-02-28.sah
 [2016-02-28b]: https://archive.org/details/tmg_2016-02-28
 [2016-03-12]: https://soundcloud.com/calvinsao/john-darnielle-of-the-mountain-goats-writing-in-white-van
 [2016-03-31]: http://www.baseballprospectus.com/article.php?articleid=28785
