@@ -855,7 +855,7 @@ if you figure out what they are, get in touch :)
 ## Covers ## {#covers}
 
 These are covers which have been played live but are otherwise unreleased.
-Songs performed as the Extra Glenns, the Extra Lens,etc. are included but not
+Songs performed as the Extra Glenns, the Extra Lens, etc. are included but not
 differentiated.
 
 * 2/3 Jim's Head (Baptist Generals cover)

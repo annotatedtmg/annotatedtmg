@@ -99,7 +99,7 @@ Brinji ngag \\
     Slightly misspelled, [Ellen
     Finkerpearl](http://www.scrippscollege.edu/academics/faculty/ellen-finkelpearl.php)
     is a professor of classics at Scripps, presumably one of John's classics
-    professor when he studied at Pitzer.
+    professors when he studied at Pitzer.
 
 [^greeting]:
     A bleak purported greeting in Ik, a UNESCO severely endangered language of
