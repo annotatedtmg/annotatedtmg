@@ -423,7 +423,7 @@ How is it that though you say it some twenty-thousand times \\
 It's never quite the same
 
 And you tell me that Hercules \\
-Died burned consumed by an article of his own clothing [^deianara] \\
+Died burning consumed by an article of his own clothing [^deianara] \\
 That's something \\
 I'd rather not be reminded of
 
