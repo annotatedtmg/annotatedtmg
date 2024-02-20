@@ -898,9 +898,9 @@ Going to Georgia
     called a Colt .45, is a popular, large revolver capable of firing 6
     rounds, and was the standard military revolver in the late 19th century.
     As this original model lacked a safety catch, and the firearm was
-    manufactured in 1967, most likely the gun here was a [Colt M1911
-    semi-automatic pistol](http://en.wikipedia.org/wiki/M1911) rather than the
-    traditional revolver associated with the Colt .45 name.
+    manufactured in 1967, another possibility is that the firearm was a [Colt
+    M1911 semi-automatic pistol](http://en.wikipedia.org/wiki/M1911) rather
+    than the traditional revolver associated with the Colt .45 name.
 
 [^maconcounty]:
     Macon County is the name of several counties in the Unites States, but
