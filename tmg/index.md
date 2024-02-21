@@ -10,7 +10,7 @@ info:       Front page for the Annotated Mountain Goats
 
 [![RSS](media/rss.png){: .rss }](./tmg-rss.xml)
 
-# Hi, we're the Annotated Mountain Goats #
+# Hi, we're the Annotated Mountain Goats # {#welcome}
 
 Welcome!
 
@@ -525,6 +525,7 @@ Firefox][firefox-ext]!
 * [Emily Esten's][esten] delightful Markov chain Mountain Goats bots,
         including [faketmglyrics][faketmg] and [tmgdnd][], with code on
         [GitHub][estengh] and a guide on [Medium][estenmed]
+* [Emerald Green's][emerald] awesome free sticker project
 
 [discography]:  http://www.mountain-goats.com/discog.html
 [lptj]:         http://www.lastplanetojakarta.com
@@ -541,4 +542,5 @@ Firefox][firefox-ext]!
 [tmgdnd]:       https://twitter.com/tmgdnd
 [estengh]:      https://github.com/sheishistoric/
 [estenmed]:     https://medium.com/@sheishistoric/i-only-make-bots-for-the-mountain-goats-35f10c4bedc5
+[emerald]:      https://www.thegemthecolor.com/
 </div>

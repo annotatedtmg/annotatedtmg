@@ -16,9 +16,10 @@ img {
 For a number of years, I made buttons for Mountain Goats tours, giving them
 out during shows and through the mail. Here's what they looked like!
 
-[Emerald Green](https://instagram.com/thegemthecolor) has been making Mountain
-Goats stickers since 2018 --- if you'd like any of those, they're available as
-well. [See below](#stickers) for designs!
+[Emerald Green][emerald] has been making Mountain Goats stickers since 2018
+--- if you'd like any of those, they're available as well. [See
+below](#stickers) for designs! You can also obtain them from her via her
+[awesome sticker project][emeraldstickers].
 
 As mentioned [on the front page](index.html#buttons), they're 100% free. If
 you'd like some, send a self-addressed, stamped envelope (padded ones get
@@ -28,6 +29,9 @@ drop a line to:
 {% include buttons.contact %}
 
 ... and if any are still available, some will be on their way shortly.
+
+[emerald]:          https://www.thegemthecolor.com
+[emeraldstickers]:  https://www.thegemthecolor.com/thestickerlady
 
 tours: \\
 [house show](#house) · [2016](#tour2016) · [2015](#tour2015) ·
