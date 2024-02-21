@@ -78,12 +78,10 @@ Label: unreleased
     on this topic that I recommend reading if you have the time.
 
     In any case, my position out of respect to John is that I will not
-    facilitate anyone obtaining or listening to these songs. Please don't ask,
-    and please also don't be a dick about this album (or Golden Boy, or any of
-    the other irritations that have reduced how close John has been to fans
-    over the years). Given that for many years the album has been listed on
-    [Nall's website](http://themountaingoats.net/music/hafg.html), and that
-    the majority of these songs have been played live, I feel that it's OK to
+    facilitate anyone obtaining or listening to these songs. However, given
+    that for many years the album has been listed on [Nall's
+    website](http://themountaingoats.net/music/hafg.html), and that the
+    majority of these songs have been played live, I feel that it's OK to
     share information about the release and the individual songs.
 
     Mountain Goats forums, Hail and Farewell,
