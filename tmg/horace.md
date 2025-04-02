@@ -624,7 +624,7 @@ Dexedrine
 [^dexedrine]:
     [Dextroamphetamine](https://en.wikipedia.org/wiki/Dextroamphetamine), also
     known by the brand name Dexedrine, is a psychoactive stimulant drug used
-    medically to dread attention deficit hyperactivity disorder (ADHD) and
+    medically to treat attention deficit hyperactivity disorder (ADHD) and
     narcolepsy. Chemically, it is structurally identical to amphetamine, but
     only contains the dextrorotatory stereoisomer of amphetamine,
     (2S)-1-phenylpropan-2-amine, whereas amphetamine refers to the racemic

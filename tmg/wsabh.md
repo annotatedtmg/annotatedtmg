@@ -743,10 +743,8 @@ The bruised earth
     > (by limited film rolls, costs of \[film\] and developing, and so on) ---
     > but I suppose the photos he shot were burdensome.
 
-    [AKM Adam][akma], personal correspondence, September 18, 2017. Thank you
-    for your help!
-
-    [akma]: http://akma.disseminary.org/
+    [AKM Adam](http://akma.disseminary.org/), personal correspondence,
+    September 18, 2017. Thank you for your help!
 
 [^blacklight]:
     Implies use of a [black light](https://en.wikipedia.org/wiki/Black_light),
