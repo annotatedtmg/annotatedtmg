@@ -247,15 +247,15 @@ He whom the prophet spoke of long ago has come
     Satanic Messiah is part of the [informal series of Biblical
     references](series.html#bible).
 
-## Wizard Buys a Hat [^wizardseries] ## {#wizard}
+## Wizard Buys a Hat [^wizardseries] [^wizardjohn] ## {#wizard}
 
-Shuffled up 6th Street [^newyork] in the rain \\
+Shuffled up 6th Street [^portland] in the rain \\
 Kept my head down as I looked past the people \\
 And in the department store \\
 I found what I was looking for \\
 This is the church, this is the crucible
 
-They come out to Broadway [^newyork] and they look for me \\
+They come out to Broadway [^portland] and they look for me \\
 I'm on the red steps smoking a cigarette \\
 Easy to recognize \\
 Black bandages on my eyes \\
@@ -267,15 +267,26 @@ But if I came here to drown \\
 I'm gonna take a few people down \\
 This is the church, occupied by the enemy
 
-[^newyork]:
-    Given the street names of 6th Street and Broadway, the most obvious major
-    city this could be in is
-    [Manhattan](https://en.wikipedia.org/wiki/Manhattan), New York City.
-    However, these are common street names, and this could be in another town.
-
 [^wizardseries]:
     Wizard Buys a Hat is part of the [informal series of Biblical
     references](series.html#bible).
+
+[^wizardjohn]:
+    > This song is one of my sorta cryptogram songs that I release with no
+    > commentary or in the case of this one without a press release, right? Just
+    > put it up on the internet for free about 14 years ago or something like
+    > that.  But it's about me. My most autobiography ones are the ones that no
+    > one will ever catch me on unless I confess to it. It's called "Wizard Buys
+    > a Hat". The wizard is me. The hat was bought across the street, when it
+    > was Meier & Frank. The red steps in question are the ones you all are
+    > sitting on.
+
+    ---Pioneer Courthouse Square, Portland, Oregon, August 9 2023
+
+[^portland]:
+    [Pioneer Courthouse Square](https://en.wikipedia.org/wiki/Pioneer_Courthouse_Square) is located between Southwest 6th Avenue and
+    Southwest Broadway, in Portland Oregon.
+
 
 ## Sarcofago Live [^sarcofago] ## {#sarcofago}
 
