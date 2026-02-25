@@ -376,12 +376,13 @@ You
     the Hill, October 23, 2002.
 
 [^airport]:
-    As the Alpha couple are heading to Tallahassee from Nevada (see
-    [above](#fn:alphahistory)), the airport referred to here could be either
-    [McCarran International Airport][mccarranwiki] or the [Reno-Tahoe
-    International Airport][renowiki], the two major commercial airports of the
-    state.
+    Likely [Tallahassee International Airport][tlhwiki], assuming this song takes 
+    place after the Alpha couple's arrival in Tallahassee. Alternatively, if this 
+    line refers to the the airport they are departing from (in Nevada; see
+    [above](#fn:alphahistory)), it could be either [McCarran International Airport][mccarranwiki] 
+    or the [Reno-Tahoe International Airport][renowiki].
 
+[tlhwiki]: https://en.wikipedia.org/wiki/Tallahassee_International_Airport
 [mccarranwiki]: http://en.wikipedia.org/wiki/McCarran_International_Airport
 [renowiki]: http://en.wikipedia.org/wiki/Reno-Tahoe_International_Airport
 
